@@ -3,6 +3,7 @@ from dataclasses import dataclass, field
 from typing import List, NamedTuple
 
 from bs4 import BeautifulSoup
+import csv
 
 URL = "https://nips.cc/Conferences/2020/AcceptedPapersInitial"
 
@@ -48,3 +49,10 @@ if __name__ == "__main__":
     for paper in papers:
         if "representation" in paper.title.lower():
             print(paper.title)
+
+    with open("nips2020.csv", "w") as fo:
+        csv_writer = csv.writer(fo)
+        for paper in papers:
+            csv_writer.writerow(
+                [paper.title, "\n".join(paper.authors), "\n".join(paper.insts)]
+            )
