@@ -34,7 +34,7 @@ if __name__ == "__main__":
 
             for result in item.find_all('div', 'note-authors'):
                 authors = [x.string or x.get_text() for x in result.children]
-                paper.authors = authors
+                paper.authors = [x for x in authors if ',' not in x]
 
             title = [x.string or x.get_text() for x in item.h4.children][1]
             paper.title = " ".join(title.split())

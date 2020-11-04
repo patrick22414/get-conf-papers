@@ -1,7 +1,6 @@
 CATER: A diagnostic dataset for Compositional Actions & TEmporal Reasoning,"
 
 Rohit Girdhar
-, 
 Deva Ramanan
 
 ","Video Understanding
@@ -9,20 +8,15 @@ Temporal Reasoning","We propose a new video understanding benchmark, with tasks 
 BackPACK: Packing more into Backprop,"
 
 Felix Dangel
-, 
 Frederik Kunstner
-, 
 Philipp Hennig
 
 ",,
 GenDICE: Generalized Offline Estimation of Stationary Values,"
 
 Ruiyi Zhang*
-, 
 Bo Dai*
-, 
 Lihong Li
-, 
 Dale Schuurmans
 
 ","Off-policy Policy Evaluation
@@ -32,9 +26,7 @@ Fenchel Dual","In this paper, we proposed a novel algorithm, GenDICE, for genera
 Principled Weight Initialization for Hypernetworks,"
 
 Oscar Chang
-, 
 Lampros Flokas
-, 
 Hod Lipson
 
 ","hypernetworks
@@ -44,13 +36,9 @@ meta-learning",The first principled weight initialization method for hypernetwor
 On the Convergence of FedAvg on Non-IID Data,"
 
 Xiang Li
-, 
 Kaixuan Huang
-, 
 Wenhao Yang
-, 
 Shusen Wang
-, 
 Zhihua Zhang
 
 ","Federated Learning
@@ -59,17 +47,11 @@ Federated Averaging",
 Data-dependent Gaussian Prior Objective for Language Generation,"
 
 Zuchao Li
-, 
 Rui Wang
-, 
 Kehai Chen
-, 
 Masso Utiyama
-, 
 Eiichiro Sumita
-, 
 Zhuosheng Zhang
-, 
 Hai Zhao
 
 ","Gaussian Prior Objective
@@ -77,9 +59,7 @@ Language Generation","We introduce an extra data-dependent Gaussian prior object
 Contrastive Learning of Structured World Models,"
 
 Thomas Kipf
-, 
 Elise van der Pol
-, 
 Max Welling
 
 ","state representation learning
@@ -90,7 +70,6 @@ object discovery",Contrastively-trained Structured World Models (C-SWMs) learn o
 Neural Network Branching for Neural Network Verification,"
 
 Jingyue Lu
-, 
 M. Pawan Kumar
 
 ","Neural Network Verification
@@ -100,11 +79,8 @@ Learning to branch",We propose a novel learning to branch framework using graph 
 Why Gradient Clipping Accelerates Training: A Theoretical Justification for Adaptivity,"
 
 Jingzhao Zhang
-, 
 Tianxing He
-, 
 Suvrit Sra
-, 
 Ali Jadbabaie
 
 ","Adaptive methods
@@ -113,18 +89,14 @@ deep learning",Gradient clipping provably accelerates gradient descent for non-s
 Posterior sampling for multi-agent reinforcement learning: solving extensive games with imperfect information,"
 
 Yichi Zhou
-, 
 Jialian Li
-, 
 Jun Zhu
 
 ",,
 Mogrifier LSTM,"
 
 Gábor Melis
-, 
 Tomáš Kočiský
-, 
 Phil Blunsom
 
 ","lstm
@@ -132,9 +104,7 @@ language modelling",An LSTM extension with state-of-the-art language modelling r
 Learning Hierarchical Discrete Linguistic Units from Visually-Grounded Speech,"
 
 David Harwath*
-, 
 Wei-Ning Hsu*
-, 
 James Glass
 
 ","visually-grounded speech
@@ -146,15 +116,10 @@ hierarchical representation learning","Vector quantization layers incorporated i
 Mirror-Generative Neural Machine Translation,"
 
 Zaixiang Zheng
-, 
 Hao Zhou
-, 
 Shujian Huang
-, 
 Lei Li
-, 
 Xin-Yu Dai
-, 
 Jiajun Chen
 
 ","neural machine translation
@@ -163,28 +128,19 @@ mirror",
 Cyclical Stochastic Gradient MCMC for Bayesian Deep Learning,"
 
 Ruqi Zhang
-, 
 Chunyuan Li
-, 
 Jianyi Zhang
-, 
 Changyou Chen
-, 
 Andrew Gordon Wilson
 
 ",,
 Your classifier is secretly an energy based model and you should treat it like one,"
 
 Will Grathwohl
-, 
 Kuan-Chieh Wang
-, 
 Joern-Henrik Jacobsen
-, 
 David Duvenaud
-, 
 Mohammad Norouzi
-, 
 Kevin Swersky
 
 ","energy based models
@@ -198,13 +154,9 @@ calibration",We show that there is a hidden generative model inside of every cla
 Dynamics-Aware Unsupervised Discovery of Skills,"
 
 Archit Sharma
-, 
 Shixiang Gu
-, 
 Sergey Levine
-, 
 Vikash Kumar
-, 
 Karol Hausman
 
 ","reinforcement learning
@@ -215,24 +167,17 @@ hierarchical reinforcement learning",We propose an unsupervised skill discovery 
 Optimal Strategies Against Generative Attacks,"
 
 Roy Mor
-, 
 Erez Peterfreund
-, 
 Matan Gavish
-, 
 Amir Globerson
 
 ",,
 GraphZoom: A Multi-level Spectral Approach for Accurate and Scalable Graph Embedding,"
 
 Chenhui Deng
-, 
 Zhiqiang Zhao
-, 
 Yongyu Wang
-, 
 Zhiru Zhang
-, 
 Zhuo Feng
 
 ","graph embedding
@@ -242,11 +187,8 @@ spectral graph theory",A multi-level spectral approach to improving the quality 
 Harnessing Structures for Value-Based Planning and Reinforcement Learning,"
 
 Yuzhe Yang
-, 
 Guo Zhang
-, 
 Zhi Xu
-, 
 Dina Katabi
 
 ","Deep reinforcement learning
@@ -254,9 +196,7 @@ value-based reinforcement learning",We propose a generic framework that allows f
 Comparing Rewinding and Fine-tuning in Neural Network Pruning,"
 
 Alex Renda
-, 
 Jonathan Frankle
-, 
 Michael Carbin
 
 ","pruning
@@ -266,11 +206,8 @@ lottery ticket","Instead of fine-tuning after pruning, rewind weights or learnin
 Meta-Q-Learning,"
 
 Rasool Fakoor
-, 
 Pratik Chaudhari
-, 
 Stefano Soatto
-, 
 Alexander J. Smola
 
 ","meta reinforcement learning
@@ -279,13 +216,9 @@ off-policy",MQL is a simple off-policy meta-RL algorithm that recycles data from
 Mathematical Reasoning in Latent Space,"
 
 Dennis Lee
-, 
 Christian Szegedy
-, 
 Markus Rabe
-, 
 Sarah Loos
-, 
 Kshitij Bansal
 
 ","machine learning
@@ -293,26 +226,18 @@ formal reasoning",Learning to reason about higher order logic formulas in the la
 A Theory of Usable Information under Computational Constraints,"
 
 Yilun Xu
-, 
 Shengjia Zhao
-, 
 Jiaming Song
-, 
 Russell Stewart
-, 
 Stefano Ermon
 
 ",,
 Geometric Analysis of Nonconvex Optimization Landscapes for Overcomplete Learning,"
 
 Qing Qu
-, 
 Yuexiang Zhai
-, 
 Xiao Li
-, 
 Yuqian Zhang
-, 
 Zhihui Zhu
 
 ","dictionary learning
@@ -321,13 +246,9 @@ nonconvex optimization",
 "Deep Batch Active Learning by Diverse, Uncertain Gradient Lower Bounds","
 
 Jordan T. Ash
-, 
 Chicheng Zhang
-, 
 Akshay Krishnamurthy
-, 
 John Langford
-, 
 Alekh Agarwal
 
 ","deep learning
@@ -336,15 +257,10 @@ batch active learning","We introduce a new batch active learning algorithm that'
 Understanding and Robustifying Differentiable Architecture Search,"
 
 Arber Zela
-, 
 Thomas Elsken
-, 
 Tonmoy Saikia
-, 
 Yassine Marrakchi
-, 
 Thomas Brox
-, 
 Frank Hutter
 
 ","Neural Architecture Search
@@ -355,17 +271,11 @@ Computer Vision",We study the failure modes of DARTS (Differentiable Architectur
 A Closer Look at Deep Policy Gradients,"
 
 Andrew Ilyas
-, 
 Logan Engstrom
-, 
 Shibani Santurkar
-, 
 Dimitris Tsipras
-, 
 Firdaus Janoos
-, 
 Larry Rudolph
-, 
 Aleksander Madry
 
 ","deep policy gradient methods
@@ -375,17 +285,11 @@ ppo",
 Implementation Matters in Deep RL: A Case Study on PPO and TRPO,"
 
 Logan Engstrom
-, 
 Andrew Ilyas
-, 
 Shibani Santurkar
-, 
 Dimitris Tsipras
-, 
 Firdaus Janoos
-, 
 Larry Rudolph
-, 
 Aleksander Madry
 
 ","deep policy gradient methods
@@ -395,15 +299,10 @@ ppo",
 Fast Task Inference with Variational Intrinsic Successor Features,"
 
 Steven Hansen
-, 
 Will Dabney
-, 
 Andre Barreto
-, 
 David Warde-Farley
-, 
 Tom Van de Wiele
-, 
 Volodymyr Mnih
 
 ","Reinforcement Learning
@@ -412,17 +311,11 @@ Successor Features","We introduce Variational Intrinsic Successor FeatuRes (VISR
 Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks,"
 
 Hae Beom Lee
-, 
 Hayeon Lee
-, 
 Donghyun Na
-, 
 Saehoon Kim
-, 
 Minseop Park
-, 
 Eunho Yang
-, 
 Sung Ju Hwang
 
 ","meta-learning
@@ -434,13 +327,9 @@ imbalanced and out-of-distribution tasks for few-shot learning","A novel meta-le
 RNA Secondary Structure Prediction By Learning Unrolled Algorithms,"
 
 Xinshi Chen
-, 
 Yu Li
-, 
 Ramzan Umarov
-, 
 Xin Gao
-, 
 Le Song
 
 ","RNA secondary structure prediction
@@ -450,15 +339,10 @@ computational biology","A DL model for RNA secondary structure prediction, which
 Watch the Unobserved: A Simple Approach to Parallelizing Monte Carlo Tree Search,"
 
 Anji Liu
-, 
 Jianshu Chen
-, 
 Mingze Yu
-, 
 Yu Zhai
-, 
 Xuewen Zhou
-, 
 Ji Liu
 
 ","parallel Monte Carlo Tree Search (MCTS)
@@ -467,7 +351,6 @@ Reinforcement Learning (RL)",We developed an effective parallel UCT algorithm th
 Target-Embedding Autoencoders for Supervised Representation Learning,"
 
 Daniel Jarrett
-, 
 Mihaela van der Schaar
 
 ","autoencoders
@@ -478,9 +361,7 @@ label-embedding",
 Reformer: The Efficient Transformer,"
 
 Nikita Kitaev
-, 
 Lukasz Kaiser
-, 
 Anselm Levskaya
 
 ","attention
@@ -489,25 +370,15 @@ reversible layers",Efficient Transformer with locality-sensitive hashing and rev
 Rotation-invariant clustering of neuronal responses in primary visual cortex,"
 
 Ivan Ustyuzhaninov
-, 
 Santiago A. Cadena
-, 
 Emmanouil Froudarakis
-, 
 Paul G. Fahey
-, 
 Edgar Y. Walker
-, 
 Erick Cobos
-, 
 Jacob Reimer
-, 
 Fabian H. Sinz
-, 
 Andreas S. Tolias
-, 
 Matthias Bethge
-, 
 Alexander S. Ecker
 
 ","computational neuroscience
@@ -518,9 +389,7 @@ rotational equivariance",We classify mouse V1 neurons into putative functional c
 Causal Discovery with Reinforcement Learning,"
 
 Shengyu Zhu
-, 
 Ignavier Ng
-, 
 Zhitang Chen
 
 ","causal discovery
@@ -530,9 +399,7 @@ directed acyclic graph",We apply reinforcement learning to score-based causal di
 Intrinsically Motivated Discovery of Diverse Patterns in Self-Organizing Systems,"
 
 Chris Reinke
-, 
 Mayalen Etcheverry
-, 
 Pierre-Yves Oudeyer
 
 ","deep learning
@@ -542,11 +409,8 @@ game-of-life",We study how an unsupervised exploration and feature learning appr
 Restricting the Flow: Information Bottlenecks for Attribution,"
 
 Karl Schulz
-, 
 Leon Sixt
-, 
 Federico Tombari
-, 
 Tim Landgraf
 
 ","Attribution
@@ -556,9 +420,7 @@ Explainable AI",We apply the informational bottleneck concept to attribution.
 Building Deep Equivariant Capsule Networks,"
 
 Sai Raam Venkataraman
-, 
 S. Balasubramanian
-, 
 R. Raghunatha Sarma
 
 ","Capsule networks
@@ -566,33 +428,19 @@ equivariance","A new scalable, group-equivariant model for capsule networks that
 A Generalized Training Approach for Multiagent Learning,"
 
 Paul Muller
-, 
 Shayegan Omidshafiei
-, 
 Mark Rowland
-, 
 Karl Tuyls
-, 
 Julien Perolat
-, 
 Siqi Liu
-, 
 Daniel Hennes
-, 
 Luke Marris
-, 
 Marc Lanctot
-, 
 Edward Hughes
-, 
 Zhe Wang
-, 
 Guy Lever
-, 
 Nicolas Heess
-, 
 Thore Graepel
-, 
 Remi Munos
 
 ","multiagent learning
@@ -602,19 +450,12 @@ games",
 High Fidelity Speech Synthesis with Adversarial Networks,"
 
 Mikołaj Bińkowski
-, 
 Jeff Donahue
-, 
 Sander Dieleman
-, 
 Aidan Clark
-, 
 Erich Elsen
-, 
 Norman Casagrande
-, 
 Luis C. Cobo
-, 
 Karen Simonyan
 
 ","texttospeech
@@ -626,13 +467,9 @@ implicitgenerativemodels","We introduce GAN-TTS, a Generative Adversarial Networ
 SEED RL: Scalable and Efficient Deep-RL with Accelerated Central Inference,"
 
 Lasse Espeholt
-, 
 Raphaël Marinier
-, 
 Piotr Stanczyk
-, 
 Ke Wang
-, 
 Marcin Michalski‎
 
 ","machine learning
@@ -646,15 +483,10 @@ Google Research Football","SEED RL, a scalable and efficient deep reinforcement 
 Meta-Learning with Warped Gradient Descent,"
 
 Sebastian Flennerhag
-, 
 Andrei A. Rusu
-, 
 Razvan Pascanu
-, 
 Francesco Visin
-, 
 Hujun Yin
-, 
 Raia Hadsell
 
 ","meta-learning
@@ -662,15 +494,10 @@ transfer learning","We propose a novel framework for meta-learning a gradient-ba
 Convolutional Conditional Neural Processes,"
 
 Jonathan Gordon
-, 
 Wessel P. Bruinsma
-, 
 Andrew Y. K. Foong
-, 
 James Requeima
-, 
 Yann Dubois
-, 
 Richard E. Turner
 
 ","Neural Processes
@@ -679,7 +506,6 @@ Translation Equivariance",We extend deep sets to functional embeddings and Neura
 Gradient Descent Maximizes the Margin of Homogeneous Neural Networks,"
 
 Kaifeng Lyu
-, 
 Jian Li
 
 ","margin
@@ -688,7 +514,6 @@ gradient descent",We study the implicit bias of gradient descent and prove under
 Adversarial Training and Provable Defenses: Bridging the Gap,"
 
 Mislav Balunovic
-, 
 Martin Vechev
 
 ","adversarial examples
@@ -699,15 +524,10 @@ deep learning",We propose a novel combination of adversarial training and provab
 Differentiable Reasoning over a Virtual Knowledge Base,"
 
 Bhuwan Dhingra
-, 
 Manzil Zaheer
-, 
 Vidhisha Balachandran
-, 
 Graham Neubig
-, 
 Ruslan Salakhutdinov
-, 
 William W. Cohen
 
 ","Question Answering
@@ -719,13 +539,9 @@ Data Structures for QA",Differentiable multi-hop access to a textual knowledge b
 Federated Learning with Matched Averaging,"
 
 Hongyi Wang
-, 
 Mikhail Yurochkin
-, 
 Yuekai Sun
-, 
 Dimitris Papailiopoulos
-, 
 Yasaman Khazaeni
 
 ",federated learning,Communication efficient federated learning with layer-wise matching
