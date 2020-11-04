@@ -1,0 +1,563 @@
+On Convergence-Diagnostic based Step Sizes for Stochastic Gradient Descent,"Scott Pesme
+Aymeric Dieuleveut
+Nicolas Flammarion","Optimization - Convex
+Optimization - Large Scale, Parallel and Distributed",https://proceedings.icml.cc/static/paper_files/icml/2020/6674-Paper.pdf
+Lower Complexity Bounds for Finite-Sum Convex-Concave Minimax Optimization Problems,"Guangzeng Xie
+Luo Luo
+Yijiang Lian
+Zhihua Zhang","Optimization - Convex
+Optimization - Non-convex",https://proceedings.icml.cc/static/paper_files/icml/2020/4031-Paper.pdf
+Continuous-time Lower Bounds for Gradient-based Algorithms,"Michael Muehlebach
+Michael Jordan","Optimization - Convex
+Optimization - Large Scale, Parallel and Distributed
+Optimization - Non-convex",https://proceedings.icml.cc/static/paper_files/icml/2020/3305-Paper.pdf
+Boosting Frank-Wolfe by Chasing Gradients,"Cyrille W. Combettes
+Sebastian Pokutta","Optimization - Convex
+Supervised Learning",https://proceedings.icml.cc/static/paper_files/icml/2020/5153-Paper.pdf
+On the Convergence of Nesterov's Accelerated Gradient Method in Stochastic Settings,"Mahmoud Assran
+Mike Rabbat",Optimization - Convex,https://proceedings.icml.cc/static/paper_files/icml/2020/5529-Paper.pdf
+Almost Tune-Free Variance Reduction,"Bingcong Li
+Lingda Wang
+Georgios B. Giannakis","Optimization - Convex
+Optimization - Large Scale, Parallel and Distributed",https://proceedings.icml.cc/static/paper_files/icml/2020/453-Paper.pdf
+Hybrid Stochastic-Deterministic Minibatch Proximal Gradient: Less-Than-Single-Pass Optimization with Nearly Optimal Generalization,"Pan Zhou
+Xiao-Tong Yuan","Optimization - Convex
+Optimization - Large Scale, Parallel and Distributed",https://proceedings.icml.cc/static/paper_files/icml/2020/150-Paper.pdf
+Random extrapolation for primal-dual coordinate descent,"Ahmet Alacaoglu
+Olivier Fercoq
+Volkan Cevher","Optimization - Convex
+Optimization - Large Scale, Parallel and Distributed",https://proceedings.icml.cc/static/paper_files/icml/2020/2433-Paper.pdf
+Closing the convergence gap of SGD without replacement,"Shashank Rajput
+Anant Gupta
+Dimitris Papailiopoulos","Optimization - Convex
+Learning Theory
+Optimization - Large Scale, Parallel and Distributed",https://proceedings.icml.cc/static/paper_files/icml/2020/6245-Paper.pdf
+Stochastic Optimization for Regularized Wasserstein Estimators,"Marin Ballu
+Quentin Berthet
+Francis Bach","Optimization - Convex
+Learning Theory",https://proceedings.icml.cc/static/paper_files/icml/2020/4567-Paper.pdf
+Conditional gradient methods for stochastically constrained convex minimization,"Maria-Luiza Vladarean
+Ahmet Alacaoglu
+Ya-Ping Hsieh
+Volkan Cevher","Optimization - Convex
+Optimization - Large Scale, Parallel and Distributed",https://proceedings.icml.cc/static/paper_files/icml/2020/1343-Paper.pdf
+Spectral Frank-Wolfe Algorithm: Strict Complementarity and Linear Convergence,"Lijun Ding
+Yingjie Fei
+Qiantong Xu
+Chengrun Yang","Optimization - Convex
+Optimization - Large Scale, Parallel and Distributed",https://proceedings.icml.cc/static/paper_files/icml/2020/6015-Paper.pdf
+Efficiently Solving MDPs with Stochastic Mirror Descent,"Yujia Jin
+Aaron Sidford","Optimization - Convex
+Learning Theory
+Reinforcement Learning - Theory",https://proceedings.icml.cc/static/paper_files/icml/2020/6568-Paper.pdf
+Semismooth Newton Algorithm for Efficient Projections onto,ℓ,,https://proceedings.icml.cc/static/paper_files/icml/2020/1238-Paper.pdf
+Stochastic Subspace Cubic Newton Method,"Filip Hanzely
+Nikita Doikov
+Yurii Nesterov
+Peter Richtarik","Optimization - Convex
+Learning Theory
+Optimization - Large Scale, Parallel and Distributed",https://proceedings.icml.cc/static/paper_files/icml/2020/1206-Paper.pdf
+Debiased Sinkhorn barycenters,"Hicham Janati
+Marco Cuturi
+Alexandre Gramfort",Optimization - Convex,https://proceedings.icml.cc/static/paper_files/icml/2020/1584-Paper.pdf
+Variance Reduced Coordinate Descent with Acceleration: New Method With a Surprising Application to Finite-Sum Problems,"Filip Hanzely
+Dmitry Kovalev
+Peter Richtárik","Optimization - Convex
+Learning Theory
+Optimization - Large Scale, Parallel and Distributed",https://proceedings.icml.cc/static/paper_files/icml/2020/1205-Paper.pdf
+A new regret analysis for Adam-type algorithms,"Ahmet Alacaoglu
+Yura Malitsky
+Panayotis Mertikopoulos
+Volkan Cevher","Optimization - Convex
+Deep Learning - General",https://proceedings.icml.cc/static/paper_files/icml/2020/4498-Paper.pdf
+Universal Asymptotic Optimality of Polyak Momentum,"Damien Scieur
+Fabian Pedregosa","Optimization - Convex
+Deep Learning - General
+Optimization - Large Scale, Parallel and Distributed",https://proceedings.icml.cc/static/paper_files/icml/2020/360-Paper.pdf
+Neural Networks are Convex Regularizers: Exact Polynomial-time Convex Optimization Formulations for Two-layer Networks,"Mert Pilanci
+Tolga Ergen","Optimization - Convex
+Learning Theory
+Optimization - Non-convex
+Optimization - General",https://proceedings.icml.cc/static/paper_files/icml/2020/2660-Paper.pdf
+Adaptive Gradient Descent without Descent,"Yura Malitsky
+Konstantin Mishchenko",Optimization - Convex,https://proceedings.icml.cc/static/paper_files/icml/2020/2854-Paper.pdf
+Stochastic Coordinate Minimization with Progressive Precision for Stochastic Convex Optimization,"Sudeep Salgia
+Qing Zhao
+Sattar Vakili","Optimization - Convex
+Learning Theory",https://proceedings.icml.cc/static/paper_files/icml/2020/5461-Paper.pdf
+Stochastic Frank-Wolfe for Constrained Finite-Sum Minimization,"Geoffrey Negiar
+Gideon Dresdner
+Alicia Yi-Ting Tsai
+Laurent El Ghaoui
+Francesco Locatello
+Robert Freund
+Fabian Pedregosa","Optimization - Convex
+Optimization - Large Scale, Parallel and Distributed
+Optimization - General",https://proceedings.icml.cc/static/paper_files/icml/2020/186-Paper.pdf
+SCAFFOLD: Stochastic Controlled Averaging for Federated Learning,"Sai Praneeth Karimireddy
+Satyen Kale
+Mehryar Mohri
+Sashank Reddi
+Sebastian Stich
+Ananda Theertha Suresh","Optimization - Convex
+Optimization - Non-convex
+Optimization - Large Scale, Parallel and Distributed",https://proceedings.icml.cc/static/paper_files/icml/2020/788-Paper.pdf
+Self-Concordant Analysis of Frank-Wolfe Algorithms,"Pavel Dvurechensky
+Petr Ostroukhov
+Kamil Safin
+Shimrit Shtern
+Mathias Staudigl","Optimization - Convex
+Optimization - Large Scale, Parallel and Distributed",https://proceedings.icml.cc/static/paper_files/icml/2020/2292-Paper.pdf
+Inexact Tensor Methods with Dynamic Accuracies,"Nikita Doikov
+Yurii Nesterov","Optimization - Convex
+Optimization - General",https://proceedings.icml.cc/static/paper_files/icml/2020/3958-Paper.pdf
+Anderson Acceleration of Proximal Gradient Methods,"Vien Van Mai
+Mikael Johansson","Optimization - Convex
+Optimization - Non-convex",https://proceedings.icml.cc/static/paper_files/icml/2020/2548-Paper.pdf
+An Accelerated DFO Algorithm for Finite-sum Convex Functions,"Yuwen Chen
+Antonio Orvieto
+Aurelien Lucchi",Optimization - Convex,https://proceedings.icml.cc/static/paper_files/icml/2020/623-Paper.pdf
+Optimal Randomized First-Order Methods for Least-Squares Problems,"Jonathan Lacotte
+Mert Pilanci","Optimization - Convex
+Optimization - Large Scale, Parallel and Distributed",https://proceedings.icml.cc/static/paper_files/icml/2020/3430-Paper.pdf
+Acceleration through spectral density estimation,"Fabian Pedregosa
+Damien Scieur","Optimization - Convex
+Deep Learning - Algorithms
+Deep Learning - General
+Optimization - Large Scale, Parallel and Distributed",https://proceedings.icml.cc/static/paper_files/icml/2020/195-Paper.pdf
+Distributed Online Optimization over a Heterogeneous Network,"Nima Eshraghi
+Ben Liang","Optimization - Convex
+Planning, Control, and Multiagent Learning
+Optimization - Large Scale, Parallel and Distributed",https://proceedings.icml.cc/static/paper_files/icml/2020/5948-Paper.pdf
+Can Stochastic Zeroth-Order Frank-Wolfe Method Converge Faster for Non-Convex Problems?,"Hongchang Gao
+Heng Huang",Optimization - General,https://proceedings.icml.cc/static/paper_files/icml/2020/4063-Paper.pdf
+Compressive sensing with un-trained neural networks: Gradient descent finds a smooth approximation,"Reinhard Heckel
+Mahdi Soltanolkotabi","Optimization - General
+Deep Learning - Theory
+Deep Learning - General
+Optimization - Non-convex",https://proceedings.icml.cc/static/paper_files/icml/2020/5509-Paper.pdf
+Inertial Block Proximal Methods for Non-Convex Non-Smooth Optimization,"Hien Thi Khanh Le
+Nicolas Gillis
+Panagiotis Patrinos","Optimization - General
+General Machine Learning Techniques
+Optimization - Non-convex",https://proceedings.icml.cc/static/paper_files/icml/2020/766-Paper.pdf
+Finite-Time Convergence in Continuous-Time Optimization,"Orlando Romero
+Mouhacine Benosman","Optimization - General
+Deep Learning - General
+Optimization - Convex
+Optimization - Non-convex",https://proceedings.icml.cc/static/paper_files/icml/2020/4879-Paper.pdf
+Safe screening rules for L0-regression from Perspective Relaxations,"Alper Atamtürk
+Andrés Gómez","Optimization - General
+Unsupervised and Semi-Supervised Learning
+Optimization - General",https://proceedings.icml.cc/static/paper_files/icml/2020/3161-Paper.pdf
+Online Dense Subgraph Discovery via Blurred-Graph Feedback,"Yuko Kuroki
+Atsushi Miyauchi
+Junya Honda
+Masashi Sugiyama","Optimization - General
+Applications - Other
+Online Learning, Active Learning, and Bandits",https://proceedings.icml.cc/static/paper_files/icml/2020/1029-Paper.pdf
+Sample Complexity Bounds for 1-bit Compressive Sensing and Binary Stable Embeddings with Generative Priors,"Zhaoqiang Liu
+Selwyn Gomes
+Avtansh Tiwari
+Jonathan Scarlett","Optimization - General
+Learning Theory",https://proceedings.icml.cc/static/paper_files/icml/2020/423-Paper.pdf
+Recovery of Sparse Signals from a Mixture of Linear Samples,"Soumyabrata Pal
+Arya Mazumdar","Optimization - General
+Unsupervised and Semi-Supervised Learning
+Learning Theory
+Learning Theory",https://proceedings.icml.cc/static/paper_files/icml/2020/6319-Paper.pdf
+On the Power of Compressed Sensing with Generative Models,"Akshay Kamath
+Eric Price
+Sushrut Karmalkar","Optimization - General
+Deep Learning - Generative Models and Autoencoders",https://proceedings.icml.cc/static/paper_files/icml/2020/4345-Paper.pdf
+Invertible generative models for inverse problems: mitigating representation error and dataset bias,"Muhammad Asim
+Max Daniels
+Oscar F Leong
+Ali Ahmed
+Paul Hand",Optimization - General,https://proceedings.icml.cc/static/paper_files/icml/2020/2655-Paper.pdf
+Fully Parallel Hyperparameter Search: Reshaped Space-Filling,"Marie-Liesse Cauwet
+Camille Couprie
+Julien Dehos
+Pauline Luc
+Jeremy Rapin
+Morgane Riviere
+Fabien Teytaud
+Olivier Teytaud
+Nicolas Usunier","Optimization - General
+Optimization - Large Scale, Parallel and Distributed",https://proceedings.icml.cc/static/paper_files/icml/2020/1620-Paper.pdf
+Optimization from Structured Samples for Coverage Functions,"Wei Chen
+Xiaoming Sun
+Jialin Zhang
+Zhijie Zhang","Optimization - General
+Learning Theory
+Optimization - Large Scale, Parallel and Distributed",https://proceedings.icml.cc/static/paper_files/icml/2020/3418-Paper.pdf
+Streaming Submodular Maximization under a k-Set System Constraint,"Ran Haba
+Ehsan Kazemi
+Moran Feldman
+Amin Karbasi","Optimization - General
+Optimization - Large Scale, Parallel and Distributed",https://proceedings.icml.cc/static/paper_files/icml/2020/1126-Paper.pdf
+Lifted Disjoint Paths with Application in Multiple Object Tracking,"Andrea Hornakova
+Roberto Henschel
+Bodo Rosenhahn
+Paul Swoboda","Optimization - General
+Applications - Computer Vision
+Optimization - Convex",https://proceedings.icml.cc/static/paper_files/icml/2020/771-Paper.pdf
+Parallel Algorithm for Non-Monotone DR-Submodular Maximization,"Alina Ene
+Huy Nguyen","Optimization - General
+Optimization - Large Scale, Parallel and Distributed",https://proceedings.icml.cc/static/paper_files/icml/2020/4609-Paper.pdf
+Hierarchical Verification for Adversarial Robustness,"Cong Han Lim
+Raquel Urtasun
+Ersin Yumer","Optimization - General
+Deep Learning - General
+Optimization - General
+Adversarial Examples",https://proceedings.icml.cc/static/paper_files/icml/2020/1808-Paper.pdf
+Fast Deterministic CUR Matrix Decomposition with Accuracy Assurance,"Yasutoshi Ida
+Sekitoshi Kanai
+Yasuhiro Fujiwara
+Tomoharu Iwata
+Koh Takeuchi
+Hisashi Kashima","Optimization - General
+General Machine Learning Techniques",https://proceedings.icml.cc/static/paper_files/icml/2020/1463-Paper.pdf
+Coresets for Data-efficient Training of Machine Learning Models,"Baharan Mirzasoleiman
+Jeff Bilmes
+Jure Leskovec","Optimization - General
+Optimization - Convex
+Optimization - Large Scale, Parallel and Distributed",https://proceedings.icml.cc/static/paper_files/icml/2020/3274-Paper.pdf
+Linear Lower Bounds and Conditioning of Differentiable Games,"Adam Ibrahim
+Waïss Azizian
+Gauthier Gidel
+Ioannis Mitliagkas","Optimization - General
+Learning Theory
+Optimization - Convex
+Optimization - Non-convex",https://proceedings.icml.cc/static/paper_files/icml/2020/3497-Paper.pdf
+The FAST Algorithm for Submodular Maximization,"Adam Breuer
+Eric Balkanski
+Yaron Singer",Optimization - General,https://proceedings.icml.cc/static/paper_files/icml/2020/3089-Paper.pdf
+Refined bounds for algorithm configuration: The knife-edge of dual class approximability,"Maria-Florina Balcan
+Tuomas Sandholm
+Ellen Vitercik",Optimization - General,https://proceedings.icml.cc/static/paper_files/icml/2020/984-Paper.pdf
+Sparse Convex Optimization via Adaptively Regularized Hard Thresholding,"Kyriakos Axiotis
+Maxim Sviridenko","Optimization - General
+Optimization - Convex",https://proceedings.icml.cc/static/paper_files/icml/2020/6264-Paper.pdf
+Super-efficiency of automatic differentiation for functions defined as a minimum,"Pierre Ablin
+Gabriel Peyré
+Thomas Moreau","Optimization - General
+Transfer, Multitask and Meta-learning
+Optimization - Convex",https://proceedings.icml.cc/static/paper_files/icml/2020/2648-Paper.pdf
+Obtaining Adjustable Regularization for Free via Iterate Averaging,"Jingfeng Wu
+Vladimir Braverman
+Lin Yang","Optimization - General
+Deep Learning - General
+Supervised Learning",https://proceedings.icml.cc/static/paper_files/icml/2020/2773-Paper.pdf
+Approximation Guarantees of Local Search Algorithms via Localizability of Set Functions,Kaito Fujii,"Optimization - General
+Optimization - General",https://proceedings.icml.cc/static/paper_files/icml/2020/1027-Paper.pdf
+Optimal approximation for unconstrained non-submodular minimization,"Marwa El Halabi
+Stefanie Jegelka","Optimization - General
+Optimization - Non-convex
+Optimization - General",https://proceedings.icml.cc/static/paper_files/icml/2020/1143-Paper.pdf
+Customizing ML Predictions for Online Algorithms,"Keerti Anand
+Rong Ge
+Debmalya Panigrahi","Optimization - General
+Learning Theory",https://proceedings.icml.cc/static/paper_files/icml/2020/5246-Paper.pdf
+Upper bounds for Model-Free Row-Sparse Principal Component Analysis,"Guanyi Wang
+Santanu Dey","Optimization - General
+Optimization - Non-convex
+Optimization - General",https://proceedings.icml.cc/static/paper_files/icml/2020/3046-Paper.pdf
+Streaming k-Submodular Maximization under Noise subject to Size Constraint,"Lan N Nguyen
+My T. Thai","Optimization - General
+Streaming Algorithm",https://proceedings.icml.cc/static/paper_files/icml/2020/571-Paper.pdf
+On the Unreasonable Effectiveness of the Greedy Algorithm: Greedy Adapts to Sharpness,"Sebastian Pokutta
+Mohit Singh
+Alfredo Torrico","Optimization - General
+Optimization - Non-convex",https://proceedings.icml.cc/static/paper_files/icml/2020/722-Paper.pdf
+Implicit differentiation of Lasso-type models for hyperparameter optimization,"Quentin Bertrand
+Quentin Klopfenstein
+Mathieu Blondel
+Samuel Vaiter
+Alexandre Gramfort
+Joseph Salmon",Optimization - General,https://proceedings.icml.cc/static/paper_files/icml/2020/1831-Paper.pdf
+Adaptive Sketching for Fast and Convergent Canonical Polyadic Decomposition,"Alex Gittens
+Kareem S Aggour
+Bülent Yener","Optimization - General
+Optimization - Large Scale, Parallel and Distributed",https://proceedings.icml.cc/static/paper_files/icml/2020/2334-Paper.pdf
+Simultaneous Inference for Massive Data: Distributed Bootstrap,"Yang Yu
+Shih-Kang Chao
+Guang Cheng","Optimization - Large Scale, Parallel and Distributed
+Supervised Learning
+Optimization - Large Scale, Parallel and Distributed",https://proceedings.icml.cc/static/paper_files/icml/2020/5135-Paper.pdf
+Communication-Efficient Distributed PCA by Riemannian Optimization,"Long-Kai Huang
+Sinno Pan","Optimization - Large Scale, Parallel and Distributed
+Optimization - Non-convex",https://proceedings.icml.cc/static/paper_files/icml/2020/3520-Paper.pdf
+Fast OSCAR and OWL Regression via Safe Screening Rules,"Runxue Bao
+Bin Gu
+Heng Huang","Optimization - Large Scale, Parallel and Distributed
+Optimization - General",https://proceedings.icml.cc/static/paper_files/icml/2020/738-Paper.pdf
+Communication-Efficient Distributed Stochastic AUC Maximization with Deep Neural Networks,"Zhishuai Guo
+Mingrui Liu
+Zhuoning Yuan
+Li Shen
+Wei Liu
+Tianbao Yang","Optimization - Large Scale, Parallel and Distributed
+Deep Learning - Algorithms
+Deep Learning - General
+Optimization - Non-convex",https://proceedings.icml.cc/static/paper_files/icml/2020/1428-Paper.pdf
+Linear Convergence of Randomized Primal-Dual Coordinate Method for Large-scale Linear Constrained Convex Programming,"Daoli Zhu
+Lei Zhao","Optimization - Large Scale, Parallel and Distributed
+Learning Theory
+Optimization - Convex
+Optimization - Large Scale, Parallel and Distributed",https://proceedings.icml.cc/static/paper_files/icml/2020/339-Paper.pdf
+Statistically Preconditioned Accelerated Gradient Method for Distributed Optimization,"Hadrien Hendrikx
+Lin Xiao
+Sebastien Bubeck
+Francis Bach
+Laurent Massoulie","Optimization - Large Scale, Parallel and Distributed
+Optimization - Convex
+Optimization - Large Scale, Parallel and Distributed",https://proceedings.icml.cc/static/paper_files/icml/2020/803-Paper.pdf
+Randomized Block-Diagonal Preconditioning for Parallel Learning,"Celestine Mendler-Dünner
+Aurelien Lucchi","Optimization - Large Scale, Parallel and Distributed
+Optimization - Convex",https://proceedings.icml.cc/static/paper_files/icml/2020/53-Paper.pdf
+FetchSGD: Communication-Efficient Federated Learning with Sketching,"Daniel Rothchild
+Ashwinee Panda
+Enayat Ullah
+Nikita Ivkin
+Ion Stoica
+Vladimir Braverman
+Joseph Gonzalez
+Raman Arora","Optimization - Large Scale, Parallel and Distributed
+Federated Learning",https://proceedings.icml.cc/static/paper_files/icml/2020/5927-Paper.pdf
+The Non-IID Data Quagmire of Decentralized Machine Learning,"Kevin Hsieh
+Amar Phanishayee
+Onur Mutlu
+Phillip B Gibbons","Optimization - Large Scale, Parallel and Distributed
+General Machine Learning Techniques
+Optimization - Large Scale, Parallel and Distributed",https://proceedings.icml.cc/static/paper_files/icml/2020/3152-Paper.pdf
+On Coresets for Regularized Regression,"Rachit Chhaya
+Supratim Shit
+Anirban Dasgupta","Optimization - Large Scale, Parallel and Distributed
+Unsupervised and Semi-Supervised Learning
+General Machine Learning Techniques
+Optimization - Convex",https://proceedings.icml.cc/static/paper_files/icml/2020/3647-Paper.pdf
+"Schatten Norms in Matrix Streams: Hello Sparsity, Goodbye Dimension","Vladimir Braverman
+Robert Krauthgamer
+Aditya R Krishnan
+Roi Sinoff","Optimization - Large Scale, Parallel and Distributed
+General Machine Learning Techniques
+Optimization - General",https://proceedings.icml.cc/static/paper_files/icml/2020/2399-Paper.pdf
+Decoupled Greedy Learning of CNNs,"Eugene Belilovsky
+Michael Eickenberg
+Edouard Oyallon","Optimization - Large Scale, Parallel and Distributed
+Applications - Neuroscience, Cognitive Science, Biology and Health
+Deep Learning - Algorithms",https://proceedings.icml.cc/static/paper_files/icml/2020/2966-Paper.pdf
+Moniqua: Modulo Quantized Communication in Decentralized SGD,"Yucheng Lu
+Christopher De Sa","Optimization - Large Scale, Parallel and Distributed
+Optimization - Non-convex",https://proceedings.icml.cc/static/paper_files/icml/2020/831-Paper.pdf
+Scalable Nearest Neighbor Search for Optimal Transport,"Arturs Backurs
+Yihe Dong
+Piotr Indyk
+Ilya Razenshteyn
+Tal Wagner","Optimization - Large Scale, Parallel and Distributed
+Applications - Language, Speech and Dialog
+General Machine Learning Techniques",https://proceedings.icml.cc/static/paper_files/icml/2020/1937-Paper.pdf
+Acceleration for Compressed Gradient Descent in Distributed and Federated Optimization,"Zhize Li
+Dmitry Kovalev
+Xun Qian
+Peter Richtárik","Optimization - Large Scale, Parallel and Distributed
+Deep Learning - Algorithms
+Optimization - Convex
+Optimization - Large Scale, Parallel and Distributed",https://proceedings.icml.cc/static/paper_files/icml/2020/2658-Paper.pdf
+Manifold Identification for Ultimately Communication-Efficient Distributed Optimization,"Yu-Sheng Li
+Wei-Lin Chiang
+Ching-pei Lee","Optimization - Large Scale, Parallel and Distributed
+Optimization - Large Scale, Parallel and Distributed
+Optimization - General",https://proceedings.icml.cc/static/paper_files/icml/2020/3524-Paper.pdf
+Don't Waste Your Bits! Squeeze Activations and Gradients for Deep Neural Networks via TinyScript,"Fangcheng Fu
+Yuzheng Hu
+Yihan He
+Jiawei Jiang
+Yingxia Shao
+Ce Zhang
+Bin Cui","Optimization - Large Scale, Parallel and Distributed
+Optimization - Non-convex",https://proceedings.icml.cc/static/paper_files/icml/2020/6210-Paper.pdf
+Extreme Multi-label Classification from Aggregated Labels,"Yanyao Shen
+Hsiang-Fu Yu
+Sujay Sanghavi
+Inderjit S. Dhillon","Optimization - Large Scale, Parallel and Distributed
+Unsupervised and Semi-Supervised Learning
+Supervised Learning
+Optimization - General",https://proceedings.icml.cc/static/paper_files/icml/2020/1388-Paper.pdf
+Quantized Decentralized Stochastic Learning over Directed Graphs,"Hossein Taheri
+Aryan Mokhtari
+Hamed Hassani
+Ramtin Pedarsani","Optimization - Large Scale, Parallel and Distributed
+Optimization - Convex
+Optimization - Non-convex",https://proceedings.icml.cc/static/paper_files/icml/2020/3372-Paper.pdf
+Nearly Linear Row Sampling Algorithm for Quantile Regression,"Yi Li
+Ruosong Wang
+Lin Yang
+Hanrui Zhang","Optimization - Large Scale, Parallel and Distributed
+Optimization - Convex
+Optimization - General",https://proceedings.icml.cc/static/paper_files/icml/2020/1160-Paper.pdf
+Composable Sketches for Functions of Frequencies: Beyond the Worst Case,"Edith Cohen
+Ofir Geri
+Rasmus Pagh","Optimization - Large Scale, Parallel and Distributed
+Optimization - Large Scale, Parallel and Distributed
+Optimization - General",https://proceedings.icml.cc/static/paper_files/icml/2020/2290-Paper.pdf
+Is Local SGD Better than Minibatch SGD?,"Blake E Woodworth
+Kumar Kshitij Patel
+Sebastian Stich
+Zhen Dai
+Brian Bullins
+Brendan McMahan
+Ohad Shamir
+Nathan Srebro","Optimization - Large Scale, Parallel and Distributed
+Optimization - Convex",https://proceedings.icml.cc/static/paper_files/icml/2020/6502-Paper.pdf
+ECLIPSE: An Extreme-Scale Linear Program Solver for Web-Applications,"Kinjal Basu
+Amol Ghoting
+Rahul Mazumder
+Yao Pan","Optimization - Large Scale, Parallel and Distributed
+Applications - Other
+Applications - Other
+General Machine Learning Techniques",https://proceedings.icml.cc/static/paper_files/icml/2020/5950-Paper.pdf
+One-shot Distributed Ridge Regression in High Dimensions,"Yue Sheng
+Edgar Dobriban","Optimization - Large Scale, Parallel and Distributed
+Supervised Learning
+Optimization - Large Scale, Parallel and Distributed
+Probabilistic Inference - Approximate, Monte Carlo, and Spectral Methods",https://proceedings.icml.cc/static/paper_files/icml/2020/566-Paper.pdf
+AdaScale SGD: A User-Friendly Algorithm for Distributed Training,"Tyler B. Johnson
+Pulkit Agrawal
+Haijie Gu
+Carlos Guestrin","Optimization - Large Scale, Parallel and Distributed
+Optimization - Large Scale, Parallel and Distributed",https://proceedings.icml.cc/static/paper_files/icml/2020/4682-Paper.pdf
+A Unified Theory of Decentralized SGD with Changing Topology and Local Updates,"Anastasia Koloskova
+Nicolas Loizou
+Sadra Boreiri
+Martin Jaggi
+Sebastian Stich","Optimization - Large Scale, Parallel and Distributed
+Optimization - Convex
+Optimization - Non-convex",https://proceedings.icml.cc/static/paper_files/icml/2020/4675-Paper.pdf
+DINO: Distributed Newton-Type Optimization Method,"Rixon Crane
+Fred Roosta","Optimization - Large Scale, Parallel and Distributed
+Optimization - Non-convex",https://proceedings.icml.cc/static/paper_files/icml/2020/2125-Paper.pdf
+The Differentiable Cross-Entropy Method,"Brandon Amos
+Denis Yarats","Optimization - Non-convex
+Planning, Control, and Multiagent Learning
+Transfer, Multitask and Meta-learning
+Sequential, Network, and Time-Series Modeling",https://proceedings.icml.cc/static/paper_files/icml/2020/5518-Paper.pdf
+Provably Efficient Exploration in Policy Optimization,"Qi Cai
+Zhuoran Yang
+Chi Jin
+Zhaoran Wang","Optimization - Non-convex
+Reinforcement Learning - Theory",https://proceedings.icml.cc/static/paper_files/icml/2020/1438-Paper.pdf
+On Gradient Descent Ascent for Nonconvex-Concave Minimax Problems,"Tianyi Lin
+Chi Jin
+Michael Jordan","Optimization - Non-convex
+Optimization - Large Scale, Parallel and Distributed",https://proceedings.icml.cc/static/paper_files/icml/2020/179-Paper.pdf
+Complexity of Finding Stationary Points of Nonconvex Nonsmooth Functions,"Jingzhao Zhang
+Hongzhou Lin
+Stefanie Jegelka
+Suvrit Sra
+Ali Jadbabaie","Optimization - Non-convex
+stochastic optimization",https://proceedings.icml.cc/static/paper_files/icml/2020/1881-Paper.pdf
+Quadratically Regularized Subgradient Methods for Weakly Convex Optimization with Weakly Convex Constraints,"Runchao Ma
+Qihang Lin
+Tianbao Yang",Optimization - Non-convex,https://proceedings.icml.cc/static/paper_files/icml/2020/2489-Paper.pdf
+Accelerated Stochastic Gradient-free and Projection-free Methods,"Feihu Huang
+Lue Tao
+Songcan Chen","Optimization - Non-convex
+Adversarial Examples",https://proceedings.icml.cc/static/paper_files/icml/2020/4168-Paper.pdf
+SGD Learns One-Layer Networks in WGANs,"Qi Lei
+Jason Lee
+Alex Dimakis
+Constantinos Daskalakis","Optimization - Non-convex
+Deep Learning - Theory
+Learning Theory",https://proceedings.icml.cc/static/paper_files/icml/2020/4998-Paper.pdf
+Understanding the Impact of Model Incoherence on Convergence of Incremental SGD with Random Reshuffle,"Shaocong Ma
+Yi Zhou","Optimization - Non-convex
+Deep Learning - General",https://proceedings.icml.cc/static/paper_files/icml/2020/1666-Paper.pdf
+Robust One-Bit Recovery via ReLU Generative Networks: Near-Optimal Statistical Rate and Global Landscape Analysis,"Shuang Qiu
+Xiaohan Wei
+Zhuoran Yang","Optimization - Non-convex
+Deep Learning - General",https://proceedings.icml.cc/static/paper_files/icml/2020/6234-Paper.pdf
+Stochastic Gauss-Newton Algorithms for Nonconvex Compositional Optimization,"Quoc Tran-Dinh
+Nhan H. Pham
+Lam M. Nguyen","Optimization - Non-convex
+Learning Theory",https://proceedings.icml.cc/static/paper_files/icml/2020/1773-Paper.pdf
+Stochastic Hamiltonian Gradient Methods for Smooth Games,"Nicolas Loizou
+Hugo Berard
+Alexia Jolicoeur-Martineau
+Pascal Vincent
+Simon Lacoste-Julien
+Ioannis Mitliagkas","Optimization - Non-convex
+Deep Learning - General
+Learning Theory
+Optimization - Convex",https://proceedings.icml.cc/static/paper_files/icml/2020/6356-Paper.pdf
+Stochastic Flows and Geometric Optimization on the Orthogonal Group,"Krzysztof Choromanski
+David Cheikhi
+Jared Q Davis
+Valerii Likhosherstov
+Achille Nazaret
+Achraf Bahamou
+Xingyou Song
+Mrugank Akarte
+Jack Parker-Holder
+Jacob Bergquist
+Yuan Gao
+Aldo Pacchiano
+Tamas Sarlos
+Adrian Weller
+Vikas Sindhwani","Optimization - Non-convex
+Probabilistic Inference - Approximate, Monte Carlo, and Spectral Methods",https://proceedings.icml.cc/static/paper_files/icml/2020/57-Paper.pdf
+Convergence of a Stochastic Gradient Method with Momentum for Non-Smooth Non-Convex Optimization,"Vien Van Mai
+Mikael Johansson","Optimization - Non-convex
+Deep Learning - General
+Optimization - Convex",https://proceedings.icml.cc/static/paper_files/icml/2020/4205-Paper.pdf
+History-Gradient Aided Batch Size Adaptation for Variance Reduced Algorithms,"Kaiyi Ji
+Zhe Wang
+Bowen Weng
+Yi Zhou
+Wei Zhang
+Yingbin Liang",Optimization - Non-convex,https://proceedings.icml.cc/static/paper_files/icml/2020/3171-Paper.pdf
+Min-Max Optimization without Gradients: Convergence and Applications to Black-Box Evasion and Poisoning Attacks,"Sijia Liu
+Songtao Lu
+Xiangyi Chen
+Yao Feng
+Kaidi Xu
+Abdullah Al-Dujaili
+Mingyi Hong
+Una-May O'Reilly","Optimization - Non-convex
+Adversarial Examples",https://proceedings.icml.cc/static/paper_files/icml/2020/1365-Paper.pdf
+Momentum Improves Normalized SGD,"Ashok Cutkosky
+Harsh Mehta","Optimization - Non-convex
+Deep Learning - General",https://proceedings.icml.cc/static/paper_files/icml/2020/2819-Paper.pdf
+Stochastic Optimization for Non-convex Inf-Projection Problems,"Yan Yan
+Yi Xu
+Lijun Zhang
+Wang Xiaoyu
+Tianbao Yang","Optimization - Non-convex
+Optimization - Large Scale, Parallel and Distributed",https://proceedings.icml.cc/static/paper_files/icml/2020/3450-Paper.pdf
+Improving the Sample and Communication Complexity for Decentralized Non-Convex Optimization: Joint Gradient Estimation and Tracking,"Haoran Sun
+Songtao Lu
+Mingyi Hong","Optimization - Non-convex
+Optimization - Large Scale, Parallel and Distributed",https://proceedings.icml.cc/static/paper_files/icml/2020/1657-Paper.pdf
+The Complexity of Finding Stationary Points with Stochastic Gradient Descent,"Yoel Drori
+Ohad Shamir","Optimization - Non-convex
+Learning Theory",https://proceedings.icml.cc/static/paper_files/icml/2020/413-Paper.pdf
+A Nearly-Linear Time Algorithm for Exact Community Recovery in Stochastic Block Model,"Peng Wang
+Zirui Zhou
+Anthony Man-Cho So","Optimization - Non-convex
+Unsupervised and Semi-Supervised Learning
+Optimization - General",https://proceedings.icml.cc/static/paper_files/icml/2020/6486-Paper.pdf
+A Generic First-Order Algorithmic Framework for Bi-Level Programming Beyond Lower-Level Singleton,"Risheng Liu
+Pan Mu
+Xiaoming Yuan
+Shangzhi Zeng
+Jin Zhang",Optimization - Non-convex,https://proceedings.icml.cc/static/paper_files/icml/2020/1129-Paper.pdf
+What is Local Optimality in Nonconvex-Nonconcave Minimax Optimization?,"Chi Jin
+Praneeth Netrapalli
+Michael Jordan",Optimization - Non-convex,https://proceedings.icml.cc/static/paper_files/icml/2020/3113-Paper.pdf
+"Uncertainty quantification for nonconvex tensor completion: Confidence intervals, heteroscedasticity and optimality","Changxiao Cai
+H. Vincent Poor
+Yuxin Chen","Optimization - Non-convex
+General Machine Learning Techniques
+Learning Theory
+Optimization - General",https://proceedings.icml.cc/static/paper_files/icml/2020/5403-Paper.pdf
