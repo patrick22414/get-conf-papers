@@ -52,7 +52,7 @@ if __name__ == "__main__":
         for paper in papers:
             if any(
                 s in paper.title.lower()
-                for s in ["represent", "multiview", "disentangl",]
+                for s in ["represent", "multiview", "disentangl", "contrastive"]
             ):
                 print(paper.title)
                 csv_writer.writerow(

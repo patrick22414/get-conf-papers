@@ -3,11 +3,23 @@ Ruth Fong
 Andrea Vedaldi","University of Oxford
 University of Oxford
 Facebook AI Research and University of Oxford"
+Space-Time Correspondence as a Contrastive Random Walk,"Allan Jabri
+Andrew Owens
+Alexei Efros","UC Berkeley
+UC Berkeley
+UC Berkeley"
 Self-supervised Co-Training for Video Representation Learning,"Tengda Han
 Weidi Xie
 Andrew Zisserman","University of Oxford
 University of Oxford
 DeepMind & University of Oxford"
+Rel3D: A Minimally Contrastive Benchmark for Grounding Spatial Relations in 3D,"Ankit Goyal
+Kaiyu Yang
+Dawei Yang
+Jia Deng","Princeton University
+Princeton University
+University of Michigan
+Princeton University"
 CaSPR: Learning Canonical Spatiotemporal Point Cloud Representations,"Davis Rempe
 Tolga Birdal
 Yongheng Zhao
@@ -19,6 +31,15 @@ University of Padova
 ETH Zürich
 Stanford University
 stanford.edu"
+Self-paced Contrastive Learning with Hybrid Memory for Domain Adaptive Object Re-ID,"Yixiao Ge
+Feng Zhu
+Dapeng Chen
+Rui Zhao
+hongsheng Li","The Chinese University of Hong Kong
+SenseTime Research
+The Chinese University of Hong Kong
+The Chinese University of Hong Kong
+cuhk"
 Implicit Neural Representations with Periodic Activation Functions,"Vincent Sitzmann
 Julien Martel
 Alexander Bergman
@@ -28,11 +49,25 @@ Stanford University
 Stanford University
 Stanford University
 Stanford University"
+Hard Negative Mixing for Contrastive Learning,"Yannis Kalantidis
+Mert Bulent Sariyildiz
+Noe Pion
+Philippe Weinzaepfel
+Diane Larlus","NAVER LABS Europe
+NAVER LABS Europe
+NAVER Labs Europe
+NAVER LABS Europe
+Naver Labs Europe"
 Learning Disentangled Representations and Group Structure of Dynamical Environments,"Robin Quessard
 Thomas Barrett
 William Clements","indust.ai
 University of Oxford
 indust.ai"
+Adversarial Self-Supervised Contrastive Learning,"Minseon Kim
+Jihoon Tack
+Sung Ju Hwang","KAIST
+KAIST
+KAIST, AITRICS"
 ICAM: Interpretable Classification via Disentangled Representations and Feature Attribution Mapping,"Cher Bass
 Mariana da Silva
 Carole Sudre
@@ -91,6 +126,23 @@ Northeastern University
 Northeastern University
 Bytedance AI Lab
 University of Illinois"
+Supervised Contrastive Learning,"Prannay Khosla
+Piotr Teterwak
+Chen Wang
+Aaron Sarna
+Yonglong Tian
+Phillip Isola
+Aaron Maschinot
+Ce Liu
+Dilip Krishnan","Google LLC
+Google
+Google
+Google
+MIT
+Massachusetts Institute of Technology
+Google Research
+Google
+Google"
 Sharp Representation Theorems for ReLU Networks with Precise Dependence on Depth,"Guy Bresler
 Dheeraj Nagaraj","MIT
 Massachusetts Institute of Technology"
@@ -117,6 +169,9 @@ Geoffrey Gordon","Carnegie Mellon University
 University of Virginia
 University of Virginia
 MSR Montréal & CMU"
+Contrastive Learning with Adversarial Examples,"Chih-Hui Ho
+Nuno Nvasconcelos","University of California San Diego
+UC San Diego"
 Self-Supervised Visual Representation Learning from Hierarchical Grouping,"Xiao Zhang
 Michael Maire","University of Chicago
 University of Chicago"
@@ -129,6 +184,11 @@ University of California, Berkeley
 University of California, Berkeley
 Tsinghua University
 UC Berkeley"
+Noise-Contrastive Estimation for Multivariate Point Processes,"Hongyuan Mei
+Tom Wan
+Jason Eisner","JOHNS HOPKINS UNIVERSITY
+JOHNS HOPKINS UNIVERSITY
+Johns Hopkins + Microsoft"
 Self-Supervised Relational Reasoning for Representation Learning,"Massimiliano Patacchiola
 Amos Storkey","University of Edinburgh
 University of Edinburgh"
@@ -165,6 +225,17 @@ Mengye Ren
 Raquel Urtasun","Uber ATG / University of Toronto
 University of Toronto / Uber ATG
 Uber ATG"
+What Makes for Good Views for Contrastive Learning?,"Yonglong Tian
+Chen Sun
+Ben Poole
+Dilip Krishnan
+Cordelia Schmid
+Phillip Isola","MIT
+Google Research
+Google Brain
+Google
+Google
+Massachusetts Institute of Technology"
 Learning Agent Representations for Ice Hockey,"Guiliang Liu
 Oliver Schulte
 Pascal Poupart
@@ -228,6 +299,13 @@ Northeastern University
 Northeastern University
 Northeastern University
 University of California, San Diego"
+CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances,"Jihoon Tack
+Sangwoo Mo
+Jongheon Jeong
+Jinwoo Shin","KAIST
+KAIST
+KAIST
+KAIST"
 On 1/n neural representation and robustness,"Josue Nassar
 Piotr Sokol
 Sueyeon Chung
@@ -237,6 +315,15 @@ Stony Brook University
 Columbia University
 UCL
 Stony Brook University"
+Debiased Contrastive Learning,"Ching-Yao Chuang
+Joshua Robinson
+Yen-Chen Lin
+Antonio Torralba
+Stefanie Jegelka","MIT
+MIT
+MIT
+MIT
+MIT"
 Compact task representations as a normative model for higher-order brain activity,"Severin Berger
 Christian K Machens","Champalimaud Centre for the Unknown
 Champalimaud Centre for the Unknown"
@@ -252,6 +339,11 @@ C E
 Robert Fisher","University of Edinburgh
 University of Edinburgh
 University of Edinburgh"
+Soft Contrastive Learning for Visual Localization,"Janine Thoma
+Danda Pani Paudel
+Luc V Gool","ETH Zurich
+ETH Zürich
+Computer Vision Lab, ETH Zurich"
 Better Set Representations For Relational Reasoning,"Qian Huang
 Horace He
 Abhay Singh
@@ -385,9 +477,19 @@ Element AI
 Cornell University
 MILA / ElementAI
 U. Montreal"
+Robust Pre-Training by Adversarial Contrastive Learning,"Ziyu Jiang
+Tianlong Chen
+Ting Chen
+Zhangyang Wang","Texas A&M University
+Unversity of Texas at Austin
+Google
+University of Texas at Austin"
 "What shapes feature representations? Exploring datasets, architectures, and training","Katherine Hermann
 Andrew Lampinen","Stanford University
 Stanford University"
+Multi-label Contrastive Predictive Coding,"Jiaming Song
+Stefano Ermon","Stanford University
+Stanford"
 Towards Understanding Hierarchical Learning: Benefits of Neural Representations,"Minshuo Chen
 Yu Bai
 Jason Lee
@@ -401,6 +503,33 @@ Gatech
 Salesforce Research
 Salesforce
 Salesforce"
+Graph Contrastive Learning with Augmentations,"Yuning You
+Tianlong Chen
+Yongduo Sui
+Ting Chen
+Zhangyang Wang
+Yang Shen","Texas A&M University
+Unversity of Texas at Austin
+University of Science and Technology of China
+Google
+University of Texas at Austin
+Texas A&M University"
+Counterfactual Contrastive Learning for Weakly-Supervised Vision-Language Grounding,"Zhu Zhang
+Zhou Zhao
+Zhijie Lin
+jieming zhu
+Xiuqiang He","Zhejiang University
+Zhejiang University
+Zhejiang University
+Huawei Noah''s Ark Lab
+Huawei Noah's Ark Lab"
+Few-shot Visual Reasoning with Meta-Analogical Contrastive Learning,"Youngsung Kim
+Jinwoo Shin
+Eunho Yang
+Sung Ju Hwang","Samsung Advanced Institute of Technology
+KAIST
+Korea Advanced Institute of Science and Technology; AItrics
+KAIST, AITRICS"
 Learning Representations from Audio-Visual Spatial Alignment,"Pedro Morgado
 Yi Li
 Nuno Nvasconcelos","University of California, San Diego
@@ -417,6 +546,15 @@ Microsoft Research
 Microsoft Research
 Tsinghua University
 Microsoft Research Asia"
+Joint Contrastive Learning with Infinite Possibilities,"Qi Cai
+Yu Wang
+Yingwei Pan
+Ting Yao
+Tao Mei","University of Science and Technology of China
+JD AI Research
+JD AI Research
+JD AI Research
+AI Research of JD.com"
 Exploiting MMD and Sinkhorn Divergences for Fair and Transferable Representation Learning,"Luca Oneto
 Michele Donini
 Giulia Luise
@@ -428,6 +566,9 @@ University College London
 Imperial College London
 
 IIT"
+ContraGAN: Contrastive Learning for Conditional Image Generation,"Minguk Kang
+Jaesik Park","POSTECH
+POSTECH"
 Cycle-Contrast for Self-Supervised Video Representation Learning,"Quan Kong
 Wenpeng Wei
 Ziwei Deng
@@ -506,6 +647,9 @@ Michael Auli","Facebook AI Research
 University of Toronto
 Facebook AI Research (FAIR)
 Facebook AI Research"
+"Demystifying Contrastive Self-Supervised Learning: Invariances, Augmentations and Dataset Biases","Senthil Purushwalkam Shiva Prakash
+Abhinav Gupta","Carnegie Mellon University
+Facebook AI Research/CMU"
 Learning efficient task-dependent representations with synaptic plasticity,"Colin Bredenberg
 Eero Simoncelli
 Cristina Savin","New York University
@@ -523,6 +667,20 @@ Christopher Summerfield
 Andrew Saxe","University of Oxford
 University of Oxford
 University of Oxford"
+Learning Global Transparent Models consistent with Local Contrastive Explanations,"Tejaswini Pedapati
+Avinash Balakrishnan
+Karthikeyan Shanmugam
+Amit Dhurandhar","IBM Research
+IBM
+IBM Research, NY
+IBM Research"
+Contrastive learning of global and local features for medical image segmentation with limited annotations,"Krishna Chaitanya
+Ertunc Erdil
+Neerav Karani
+Ender Konukoglu","ETH Zurich
+ETH Zurich
+ETH Zurich
+ETH Zurich"
 Modeling Task Effects on Meaning Representation in the Brain via Zero-Shot MEG Prediction,"Mariya Toneva
 Otilia Stretcu
 Barnabas Poczos
