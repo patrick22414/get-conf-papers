@@ -1,0 +1,7593 @@
+Large Batch Optimization for Deep Learning: Training BERT in 76 minutes,"
+
+Yang You
+, 
+Jing Li
+, 
+Sashank Reddi
+, 
+Jonathan Hseu
+, 
+Sanjiv Kumar
+, 
+Srinadh Bhojanapalli
+, 
+Xiaodan Song
+, 
+James Demmel
+, 
+Kurt Keutzer
+, 
+Cho-Jui Hsieh
+
+","large-batch optimization
+distributed training
+fast optimizer",A fast optimizer for general applications and large-batch training.
+SELF: Learning to Filter Noisy Labels with Self-Ensembling,"
+
+Duc Tam Nguyen
+, 
+Chaithanya Kumar Mummadi
+, 
+Thi Phuong Nhung Ngo
+, 
+Thi Hoai Phuong Nguyen
+, 
+Laura Beggel
+, 
+Thomas Brox
+
+","Ensemble Learning
+Robust Learning
+Noisy Labels
+Labels Filtering",We propose a self-ensemble framework to train more robust deep learning models under noisy labeled datasets.
+Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation,"
+
+Yu Chen
+, 
+Lingfei Wu
+, 
+Mohammed J. Zaki
+
+","deep learning
+reinforcement learning
+graph neural networks
+natural language processing
+question generation",
+Sharing Knowledge in Multi-Task Deep Reinforcement Learning,"
+
+Carlo D'Eramo
+, 
+Davide Tateo
+, 
+Andrea Bonarini
+, 
+Marcello Restelli
+, 
+Jan Peters
+
+","Deep Reinforcement Learning
+Multi-Task",A study on the benefit of sharing representation in Multi-Task Reinforcement Learning.
+On the Weaknesses of Reinforcement Learning for Neural Machine Translation,"
+
+Leshem Choshen
+, 
+Lior Fox
+, 
+Zohar Aizenbud
+, 
+Omri Abend
+
+","Reinforcement learning
+MRT
+minimum risk training
+reinforce
+machine translation
+peakkiness
+generation",Reinforcment practices for machine translation performance gains might not come from better predictions.
+StructPool: Structured Graph Pooling via Conditional Random Fields,"
+
+Hao Yuan
+, 
+Shuiwang Ji
+
+","Graph Pooling
+Representation Learning
+Graph Analysis",A novel graph pooling method considering relationships between different nodes via conditional random fields.
+Learning deep graph matching with channel-independent embedding and Hungarian attention,"
+
+Tianshu Yu
+, 
+Runzhong Wang
+, 
+Junchi Yan
+, 
+Baoxin Li
+
+","deep graph matching
+edge embedding
+combinatorial problem
+Hungarian loss","We proposed a deep graph matching method with novel channel-independent embedding and Hungarian loss, which achieved state-of-the-art performance."
+Graph inference learning for semi-supervised classification,"
+
+Chunyan Xu
+, 
+Zhen Cui
+, 
+Xiaobin Hong
+, 
+Tong Zhang
+, 
+Jian Yang
+, 
+Wei Liu
+
+","semi-supervised classification
+graph inference learning", We propose a novel graph inference learning framework by building structure relations to infer unknown node labels from those labeled nodes in an end-to-end way.
+SQIL: Imitation Learning via Reinforcement Learning with Sparse Rewards,"
+
+Siddharth Reddy
+, 
+Anca D. Dragan
+, 
+Sergey Levine
+
+","Imitation Learning
+Reinforcement Learning","A simple and effective alternative to adversarial imitation learning: initialize experience replay buffer with demonstrations, set their reward to +1, set reward for all other data to 0, run Q-learning or soft actor-critic to train."
+Neural Oblivious Decision Ensembles for Deep Learning on Tabular Data,"
+
+Sergei Popov
+, 
+Stanislav Morozov
+, 
+Artem Babenko
+
+","tabular data
+architectures
+DNN",We propose a new DNN architecture for deep learning on tabular data
+Mutual Mean-Teaching: Pseudo Label Refinery for Unsupervised Domain Adaptation on Person Re-identification,"
+
+Yixiao Ge
+, 
+Dapeng Chen
+, 
+Hongsheng Li
+
+","Label Refinery
+Unsupervised Domain Adaptation
+Person Re-identification",A framework that conducts online refinement of pseudo labels with a novel soft softmax-triplet loss for unsupervised domain adaptation on person re-identification.
+Automatically Discovering and Learning New Visual Categories with Ranking Statistics,"
+
+Kai Han
+, 
+Sylvestre-Alvise Rebuffi
+, 
+Sebastien Ehrhardt
+, 
+Andrea Vedaldi
+, 
+Andrew Zisserman
+
+","deep learning
+classification
+novel classes
+transfer learning
+clustering
+incremental learning","A method to automatically discover new categories in unlabelled data, by effectively transferring knowledge from labelled data of other different categories using feature rank statistics."
+Maxmin Q-learning: Controlling the Estimation Bias of Q-learning,"
+
+Qingfeng Lan
+, 
+Yangchen Pan
+, 
+Alona Fyshe
+, 
+Martha White
+
+","reinforcement learning
+bias and variance reduction",We propose a new variant of Q-learning algorithm called Maxmin Q-learning which provides a parameter-tuning mechanism to flexibly control bias.
+Federated Adversarial Domain Adaptation,"
+
+Xingchao Peng
+, 
+Zijun Huang
+, 
+Yizhe Zhu
+, 
+Kate Saenko
+
+","Federated Learning
+Domain Adaptation
+Transfer Learning
+Feature Disentanglement","we present a principled approach to the problem of federated domain adaptation, which aims to align the representations learned among the different nodes with the data distribution of the target node."
+Depth-Adaptive Transformer,"
+
+Maha Elbayad
+, 
+Jiatao Gu
+, 
+Edouard Grave
+, 
+Michael Auli
+
+","Deep learning
+natural language processing
+sequence modeling",Sequence model that dynamically adjusts the amount of computation for each input.
+DeepHoyer: Learning Sparser Neural Network with Differentiable Scale-Invariant Sparsity Measures,"
+
+Huanrui Yang
+, 
+Wei Wen
+, 
+Hai Li
+
+","Deep neural network
+Sparsity inducing regularizer
+Model compression","We propose almost everywhere differentiable and scale invariant regularizers for DNN pruning, which can lead to supremum sparsity through standard SGD training."
+Evaluating The Search Phase of Neural Architecture Search,"
+
+Kaicheng Yu
+, 
+Christian Sciuto
+, 
+Martin Jaggi
+, 
+Claudiu Musat
+, 
+Mathieu Salzmann
+
+","Neural architecture search
+parameter sharing
+random search
+evaluation framework",We empirically disprove a fundamental hypothesis of the widely-adopted weight sharing strategy in neural architecture search and explain why the state-of-the-arts NAS algorithms performs similarly to random search.
+Diverse Trajectory Forecasting with Determinantal Point Processes,"
+
+Ye Yuan
+, 
+Kris M. Kitani
+
+","Diverse Inference
+Generative Models
+Trajectory Forecasting",We learn a diversity sampling function with DPPs to obtain a diverse set of samples from a generative model.
+ProxSGD: Training Structured Neural Networks under Regularization and Constraints,"
+
+Yang Yang
+, 
+Yaxiong Yuan
+, 
+Avraam Chatzimichailidis
+, 
+Ruud JG van Sloun
+, 
+Lei Lei
+, 
+Symeon Chatzinotas
+
+","stochastic gradient descent
+regularization
+constrained optimization
+nonsmooth optimization",We propose a convergent proximal-type stochastic gradient descent algorithm for constrained nonsmooth nonconvex optimization problems
+LAMOL: LAnguage MOdeling for Lifelong Language Learning,"
+
+Fan-Keng Sun*
+, 
+Cheng-Hao Ho*
+, 
+Hung-Yi Lee
+
+","NLP
+Deep Learning
+Lifelong Learning",Language modeling for lifelong language learning.
+Learning Expensive Coordination: An Event-Based Deep RL Approach,"
+
+Zhenyu Shi*
+, 
+Runsheng Yu*
+, 
+Xinrun Wang*
+, 
+Rundong Wang
+, 
+Youzhi Zhang
+, 
+Hanjiang Lai
+, 
+Bo An
+
+","Multi-Agent Deep Reinforcement Learning
+Deep Reinforcement Learning
+Leader–Follower Markov Game
+Expensive Coordination",We propose an event-based policy gradient  to train the leader and an action abstraction policy gradient to train the followers in leader-follower Markov game.
+Curvature Graph Network,"
+
+Ze Ye
+, 
+Kin Sum Liu
+, 
+Tengfei Ma
+, 
+Jie Gao
+, 
+Chao Chen
+
+","Deep Learning
+Graph Convolution
+Ricci Curvature.",
+Distance-Based Learning from Errors for Confidence Calibration,"
+
+Chen Xing
+, 
+Sercan Arik
+, 
+Zizhao Zhang
+, 
+Tomas Pfister
+
+","Confidence Calibration
+Uncertainty Estimation
+Prototypical Learning",
+Deep Learning of Determinantal Point Processes via Proper Spectral Sub-gradient,"
+
+Tianshu Yu
+, 
+Yikang Li
+, 
+Baoxin Li
+
+","determinantal point processes
+deep learning
+optimization",We proposed a specific back-propagation method via proper spectral sub-gradient to integrate determinantal point process to deep learning framework.
+N-BEATS: Neural basis expansion analysis for interpretable time series forecasting,"
+
+Boris N. Oreshkin
+, 
+Dmitri Carpov
+, 
+Nicolas Chapados
+, 
+Yoshua Bengio
+
+","time series forecasting
+deep learning",A novel deep interpretable architecture that achieves state of the art on three large scale univariate time series forecasting datasets 
+Automated Relational Meta-learning,"
+
+Huaxiu Yao
+, 
+Xian Wu
+, 
+Zhiqiang Tao
+, 
+Yaliang Li
+, 
+Bolin Ding
+, 
+Ruirui Li
+, 
+Zhenhui Li
+
+","meta-learning
+task heterogeneity
+meta-knowledge graph",Addressing task heterogeneity problem in meta-learning by introducing meta-knowledge graph
+"To Relieve Your Headache of Training an MRF, Take AdVIL","
+
+Chongxuan Li
+, 
+Chao Du
+, 
+Kun Xu
+, 
+Max Welling
+, 
+Jun Zhu
+, 
+Bo Zhang
+
+","Markov Random Fields
+Undirected Graphical Models
+Variational Inference
+Black-box Infernece",We propose a black-box algorithm called AdVIL  to perform inference and learning on a general Markov random field.
+Linear Symmetric Quantization of Neural Networks for Low-precision Integer Hardware,"
+
+Xiandong Zhao
+, 
+Ying Wang
+, 
+Xuyi Cai
+, 
+Cheng Liu
+, 
+Lei Zhang
+
+","quantization
+integer-arithmetic-only DNN accelerator
+acceleration",We introduce an efficient quantization process that allows for performance acceleration on specialized integer-only neural network accelerator.
+Weakly Supervised Clustering by Exploiting Unique Class Count,"
+
+Mustafa Umit Oner
+, 
+Hwee Kuan Lee
+, 
+Wing-Kin Sung
+
+","weakly supervised clustering
+weakly supervised learning
+multiple instance learning",A weakly supervised learning based clustering framework performs comparable to that of fully supervised learning models by exploiting unique class count.
+Scalable and Order-robust Continual Learning with Additive Parameter Decomposition,"
+
+Jaehong Yoon
+, 
+Saehoon Kim
+, 
+Eunho Yang
+, 
+Sung Ju Hwang
+
+","Continual Learning
+Lifelong Learning
+Catastrophic Forgetting
+Deep Learning",
+Continual Learning with Adaptive Weights (CLAW),"
+
+Tameem Adel
+, 
+Han Zhao
+, 
+Richard E. Turner
+
+",Continual learning,A continual learning framework which learns to automatically adapt its architecture based on a proposed variational inference algorithm. 
+Transferable Perturbations of Deep Feature Distributions,"
+
+Nathan Inkawhich
+, 
+Kevin Liang
+, 
+Lawrence Carin
+, 
+Yiran Chen
+
+","adversarial attacks
+transferability
+interpretability",We show that perturbations based-on intermediate feature distributions yield more transferable adversarial examples and allow for analysis of the affects of adversarial perturbations on intermediate representations.
+A Learning-based Iterative Method for Solving Vehicle Routing Problems,"
+
+Hao Lu
+, 
+Xingwen Zhang
+, 
+Shuang Yang
+
+","vehicle routing
+reinforcement learning
+optimization
+heuristics",
+Poly-encoders: Architectures and Pre-training Strategies for Fast and Accurate Multi-sentence Scoring,"
+
+Samuel Humeau
+, 
+Kurt Shuster
+, 
+Marie-Anne Lachaux
+, 
+Jason Weston
+
+",,
+AutoQ: Automated Kernel-Wise Neural Network Quantization,"
+
+Qian Lou
+, 
+Feng Guo
+, 
+Minje Kim
+, 
+Lantao Liu
+, 
+Lei Jiang.
+
+","AutoML
+Kernel-Wise Neural Networks Quantization
+Hierarchical Deep Reinforcement Learning","Accurate, Fast and Automated Kernel-Wise Neural Network Quantization with Mixed Precision using Hierarchical Deep Reinforcement Learning"
+Understanding Architectures Learnt by Cell-based Neural Architecture Search,"
+
+Yao Shu
+, 
+Wei Wang
+, 
+Shaofeng Cai
+
+","Neural Architecture Search
+connection pattern
+optimization
+convergence
+Lipschitz smoothness
+gradient variance
+generalization",
+SVQN: Sequential Variational Soft Q-Learning Networks,"
+
+Shiyu Huang
+, 
+Hang Su
+, 
+Jun Zhu
+, 
+Ting Chen
+
+","reinforcement learning
+POMDP
+variational inference
+generative model",SVQNs  formalizes the inference of hidden states and maximum entropy reinforcement learning under a unified graphical model and optimizes the two modules jointly.
+Ranking Policy Gradient,"
+
+Kaixiang Lin
+, 
+Jiayu Zhou
+
+","Sample-efficient reinforcement learning
+off-policy learning.","We propose ranking policy gradient that learns the optimal rank of actions to maximize return. We propose a general off-policy learning framework with the properties of optimality preserving, variance reduction, and sample-efficiency."
+On Mutual Information Maximization for Representation Learning,"
+
+Michael Tschannen
+, 
+Josip Djolonga
+, 
+Paul K. Rubenstein
+, 
+Sylvain Gelly
+, 
+Mario Lucic
+
+","mutual information
+representation learning
+unsupervised learning
+self-supervised learning",The success of recent mutual information (MI)-based representation learning approaches strongly depends on the inductive bias in both the choice of network architectures and the parametrization of the employed MI estimators.
+Observational Overfitting in Reinforcement Learning,"
+
+Xingyou Song
+, 
+Yiding Jiang
+, 
+Stephen Tu
+, 
+Yilun Du
+, 
+Behnam Neyshabur
+
+","observational
+overfitting
+reinforcement
+learning
+generalization
+implicit
+regularization
+overparametrization",We isolate one factor of RL generalization by analyzing the case when the agent only overfits to the observations. We show that architectural implicit regularizations occur in this regime.
+Enhancing Transformation-Based Defenses Against Adversarial Attacks with a Distribution Classifier,"
+
+Connie Kou
+, 
+Hwee Kuan Lee
+, 
+Ee-Chien Chang
+, 
+Teck Khim Ng
+
+","adversarial attack
+transformation defenses
+distribution classifier",We enhance existing transformation-based defenses by using a distribution classifier on the distribution of softmax obtained from transformed images.
+Additive Powers-of-Two Quantization: An Efficient Non-uniform Discretization for Neural Networks,"
+
+Yuhang Li
+, 
+Xin Dong
+, 
+Wei Wang
+
+","Quantization
+Efficient Inference
+Neural Networks",
+Lazy-CFR: fast and near-optimal regret minimization for extensive games with imperfect information,"
+
+Yichi Zhou
+, 
+Tongzheng Ren
+, 
+Jialian Li
+, 
+Dong Yan
+, 
+Jun Zhu
+
+",,
+Knowledge Consistency between Neural Networks and Beyond,"
+
+Ruofan Liang
+, 
+Tianlin Li
+, 
+Longfei Li
+, 
+Jing Wang
+, 
+Quanshi Zhang
+
+","Deep Learning
+Interpretability
+Convolutional Neural Networks",
+Image-guided Neural Object Rendering,"
+
+Justus Thies
+, 
+Michael Zollhöfer
+, 
+Christian Theobalt
+, 
+Marc Stamminger
+, 
+Matthias Nießner
+
+","Neural Rendering
+Neural Image Synthesis",We propose a learned image-guided rendering technique that combines the benefits of image-based rendering and GAN-based image synthesis while considering view-dependent effects.
+Implicit Bias of Gradient Descent based Adversarial Training on Separable Data,"
+
+Yan Li
+, 
+Ethan X.Fang
+, 
+Huan Xu
+, 
+Tuo Zhao
+
+","implicit bias
+adversarial training
+robustness
+gradient descent","The solution of gradient descent based adversarial training converges in direction to a robust max margin solution that is adapted to adversary geometry, using L2 perturbation also shows significant speed-up in convergence compared to clean training."
+TabFact: A Large-scale Dataset for Table-based Fact Verification,"
+
+Wenhu Chen
+, 
+Hongmin Wang
+, 
+Jianshu Chen
+, 
+Yunkai Zhang
+, 
+Hong Wang
+, 
+Shiyang Li
+, 
+Xiyou Zhou
+, 
+William Yang Wang
+
+","Fact Verification
+Tabular Data
+Symbolic Reasoning",We propose a new dataset to investigate the entailment problem under semi-structured table as premise
+ES-MAML: Simple Hessian-Free Meta Learning,"
+
+Xingyou Song
+, 
+Wenbo Gao
+, 
+Yuxiang Yang
+, 
+Krzysztof Choromanski
+, 
+Aldo Pacchiano
+, 
+Yunhao Tang
+
+","ES
+MAML
+evolution
+strategies
+meta
+learning
+gaussian
+perturbation
+reinforcement
+learning
+adaptation","We provide a new framework for MAML in the ES/blackbox setting, and show that it allows deterministic and linear policies, better exploration, and non-differentiable adaptation operators."
+Neural Stored-program Memory,"
+
+Hung Le
+, 
+Truyen Tran
+, 
+Svetha Venkatesh
+
+","Memory Augmented Neural Networks
+Universal Turing Machine
+fast-weight",A neural simulation of Universal Turing Machine
+Hierarchical Foresight: Self-Supervised Learning of Long-Horizon Tasks via Visual Subgoal Generation,"
+
+Suraj Nair
+, 
+Chelsea Finn
+
+","video prediction
+reinforcement learning
+planning","Hierarchical visual foresight learns to generate visual subgoals that break down long-horizon tasks into subtasks, using only self-supervision."
+Multi-agent Reinforcement Learning for Networked System Control,"
+
+Tianshu Chu
+, 
+Sandeep Chinchali
+, 
+Sachin Katti
+
+","deep reinforcement learning
+multi-agent reinforcement learning
+decision and control",This paper proposes a new formulation and a new communication protocol for networked multi-agent control problems
+FSPool: Learning Set Representations with Featurewise Sort Pooling,"
+
+Yan Zhang
+, 
+Jonathon Hare
+, 
+Adam Prügel-Bennett
+
+","set auto-encoder
+set encoder
+pooling",Sort in encoder and undo sorting in decoder to avoid responsibility problem in set auto-encoders
+Are Pre-trained Language Models Aware of Phrases? Simple but Strong Baselines for Grammar Induction,"
+
+Taeuk Kim
+, 
+Jihun Choi
+, 
+Daniel Edmiston
+, 
+Sang-goo Lee
+
+",,
+Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning,"
+
+Xiaoran Xu
+, 
+Wei Feng
+, 
+Yunsheng Jiang
+, 
+Xiaohui Xie
+, 
+Zhiqing Sun
+, 
+Zhi-Hong Deng
+
+","knowledge graph reasoning
+graph neural networks
+attention mechanism"," We propose to learn an input-dependent subgraph, dynamically and selectively expanded, to explicitly model a sequential reasoning process."
+Mixup Inference: Better Exploiting Mixup to Defend Adversarial Attacks,"
+
+Tianyu Pang*
+, 
+Kun Xu*
+, 
+Jun Zhu
+
+","Trustworthy Machine Learning
+Adversarial Robustness
+Inference Principle
+Mixup",We exploit the global linearity of the mixup-trained models in inference to break the locality of the adversarial perturbations.
+Theory and Evaluation Metrics for Learning Disentangled Representations,"
+
+Kien Do
+, 
+Truyen Tran
+
+","disentanglement
+metrics",
+Measuring Compositional Generalization: A Comprehensive Method on Realistic Data,"
+
+Daniel Keysers
+, 
+Nathanael Schärli
+, 
+Nathan Scales
+, 
+Hylke Buisman
+, 
+Daniel Furrer
+, 
+Sergii Kashubin
+, 
+Nikola Momchev
+, 
+Danila Sinopalnikov
+, 
+Lukasz Stafiniak
+, 
+Tibor Tihon
+, 
+Dmitry Tsarkov
+, 
+Xiao Wang
+, 
+Marc van Zee
+, 
+Olivier Bousquet
+
+","compositionality
+generalization
+natural language understanding
+benchmark
+compositional generalization
+compositional modeling
+semantic parsing
+generalization measurement",Benchmark and method to measure compositional generalization by maximizing divergence of compound frequency at small divergence of atom frequency.
+Rethinking Softmax Cross-Entropy Loss for Adversarial Robustness,"
+
+Tianyu Pang
+, 
+Kun Xu
+, 
+Yinpeng Dong
+, 
+Chao Du
+, 
+Ning Chen
+, 
+Jun Zhu
+
+","Trustworthy Machine Learning
+Adversarial Robustness
+Training Objective
+Sample Density",Applying the softmax function in training leads to indirect and unexpected supervision on features. We propose a new training objective to explicitly induce dense feature regions for locally sufficient samples to benefit adversarial robustness.
+The Implicit Bias of Depth: How Incremental Learning Drives Generalization,"
+
+Daniel Gissin
+, 
+Shai Shalev-Shwartz
+, 
+Amit Daniely
+
+","gradient flow
+gradient descent
+implicit regularization
+implicit bias
+generalization
+optimization
+quadratic network
+matrix sensing","We study the sparsity-inducing bias of deep models, caused by their learning dynamics."
+The Variational Bandwidth Bottleneck: Stochastic Evaluation on an Information Budget,"
+
+Anirudh Goyal
+, 
+Yoshua Bengio
+, 
+Matthew Botvinick
+, 
+Sergey Levine
+
+","Variational Information Bottleneck
+Reinforcement learning",Training agents with adaptive computation based on information bottleneck can promote generalization. 
+Learning the Arrow of Time for Problems in Reinforcement Learning,"
+
+Nasim Rahaman
+, 
+Steffen Wolf
+, 
+Anirudh Goyal
+, 
+Roman Remme
+, 
+Yoshua Bengio
+
+","Arrow of Time
+Reinforcement Learning
+AI-Safety","We learn the arrow of time for MDPs and use it to measure reachability, detect side-effects and obtain a curiosity reward signal. "
+Reinforcement Learning with Competitive Ensembles of Information-Constrained Primitives,"
+
+Anirudh Goyal
+, 
+Shagun Sodhani
+, 
+Jonathan Binas
+, 
+Xue Bin Peng
+, 
+Sergey Levine
+, 
+Yoshua Bengio
+
+","Reinforcement Learning
+Variational Information Bottleneck
+Learning primitives","Learning an implicit master policy, as a master policy in HRL can fail to generalize."
+Robust Local Features for Improving the Generalization of Adversarial Training,"
+
+Chuanbiao Song
+, 
+Kun He
+, 
+Jiadong Lin
+, 
+Liwei Wang
+, 
+John E. Hopcroft
+
+","adversarial robustness
+adversarial training
+adversarial example
+deep learning",We propose a new stream of adversarial training approach called Robust Local Features for Adversarial Training (RLFAT) that significantly improves both the adversarially robust generalization and the standard generalization.
+Analysis of Video Feature Learning in Two-Stream CNNs on the Example of Zebrafish Swim Bout Classification,"
+
+Bennet Breier
+, 
+Arno Onken
+
+","convolutional neural networks
+neural network transparency
+AI explainability
+deep Taylor decomposition
+supervised classification
+zebrafish
+transparency
+behavioral research
+optical flow",We demonstrate the utility of a recent AI explainability technique by visualizing the learned features of a CNN trained on binary classification of zebrafish movements.
+Learning Disentangled Representations for CounterFactual Regression,"
+
+Negar Hassanpour
+, 
+Russell Greiner
+
+","Counterfactual Regression
+Causal Effect Estimation
+Selection Bias
+Off-policy Learning",
+Exploration in Reinforcement Learning with Deep Covering Options,"
+
+Yuu Jinnai
+, 
+Jee Won Park
+, 
+Marlos C. Machado
+, 
+George Konidaris
+
+","Reinforcement learning
+temporal abstraction
+exploration",We introduce a method to automatically discover task-agnostic options that encourage exploration for reinforcement learning.
+AE-OT: A NEW GENERATIVE MODEL BASED ON EXTENDED SEMI-DISCRETE OPTIMAL TRANSPORT,"
+
+Dongsheng An
+, 
+Yang Guo
+, 
+Na Lei
+, 
+Zhongxuan Luo
+, 
+Shing-Tung Yau
+, 
+Xianfeng Gu
+
+","Generative model
+auto-encoder
+optimal transport
+mode collapse
+regularity",
+Logic and the 2-Simplicial Transformer,"
+
+James Clift
+, 
+Dmitry Doryn
+, 
+Daniel Murfet
+, 
+James Wallbridge
+
+","transformer
+logic
+reinforcement learning
+reasoning",We introduce the 2-simplicial Transformer and show that this architecture is a useful inductive bias for logical reasoning in the context of deep reinforcement learning.
+"Watch, Try, Learn: Meta-Learning from Demonstrations and Rewards","
+
+Allan Zhou
+, 
+Eric Jang
+, 
+Daniel Kappler
+, 
+Alex Herzog
+, 
+Mohi Khansari
+, 
+Paul Wohlhart
+, 
+Yunfei Bai
+, 
+Mrinal Kalakrishnan
+, 
+Sergey Levine
+, 
+Chelsea Finn
+
+","meta-learning
+reinforcement learning
+imitation learning",
+Fooling Detection Alone is Not Enough: Adversarial Attack against Multiple Object Tracking,"
+
+Yunhan Jia
+, 
+Yantao Lu
+, 
+Junjie Shen
+, 
+Qi Alfred Chen
+, 
+Hao Chen
+, 
+Zhenyu Zhong
+, 
+Tao Wei
+
+","Adversarial examples
+object detection
+object tracking
+security
+autonomous vehicle
+deep learning",We study the adversarial machine learning attacks against the Multiple Object Tracking mechanisms for the first time. 
+DivideMix: Learning with Noisy Labels as Semi-supervised Learning,"
+
+Junnan Li
+, 
+Richard Socher
+, 
+Steven C.H. Hoi
+
+","label noise
+semi-supervised learning",We propose a novel semi-supervised learning approach with SOTA performance on combating learning with noisy labels.
+Improving Adversarial Robustness Requires Revisiting Misclassified Examples,"
+
+Yisen Wang
+, 
+Difan Zou
+, 
+Jinfeng Yi
+, 
+James Bailey
+, 
+Xingjun Ma
+, 
+Quanquan Gu
+
+","Robustness
+Adversarial Defense
+Adversarial Training","By differentiating misclassified and correctly classified data, we propose a new misclassification aware defense that improves the state-of-the-art adversarial robustness."
+V-MPO: On-Policy Maximum a Posteriori Policy Optimization for Discrete and Continuous Control,"
+
+H. Francis Song
+, 
+Abbas Abdolmaleki
+, 
+Jost Tobias Springenberg
+, 
+Aidan Clark
+, 
+Hubert Soyer
+, 
+Jack W. Rae
+, 
+Seb Noury
+, 
+Arun Ahuja
+, 
+Siqi Liu
+, 
+Dhruva Tirumala
+, 
+Nicolas Heess
+, 
+Dan Belov
+, 
+Martin Riedmiller
+, 
+Matthew M. Botvinick
+
+","reinforcement learning
+policy iteration
+multi-task learning
+continuous control",A state-value function-based version of MPO that achieves good results in a wide range of tasks in discrete and continuous control.
+Interpretable Complex-Valued Neural Networks for Privacy Protection,"
+
+Liyao Xiang
+, 
+Hao Zhang
+, 
+Haotian Ma
+, 
+Yifan Zhang
+, 
+Jie Ren
+, 
+Quanshi Zhang
+
+","Deep Learning
+Privacy Protection
+Complex-Valued Neural Networks",
+Accelerating SGD with momentum for over-parameterized learning,"
+
+Chaoyue Liu
+, 
+Mikhail Belkin
+
+","SGD
+acceleration
+momentum
+stochastic
+over-parameterized
+Nesterov","This work proves the non-acceleration of Nesterov SGD with any hyper-parameters, and proposes new algorithm which provably accelerates SGD in the over-parameterized setting."
+"A critical analysis of self-supervision, or what we can learn from a single image","
+
+Asano YM.
+, 
+Rupprecht C.
+, 
+Vedaldi A.
+
+","self-supervision
+feature representation learning
+CNN",We evaluate self-supervised feature learning methods and find that with sufficient data augmentation early layers can be learned using just one image.  This is informative about self-supervision and the role of augmentations.
+Disentangling Factors of Variations Using Few Labels,"
+
+Francesco Locatello
+, 
+Michael Tschannen
+, 
+Stefan Bauer
+, 
+Gunnar Rätsch
+, 
+Bernhard Schölkopf
+, 
+Olivier Bachem
+
+",,
+Functional vs. parametric equivalence of ReLU networks,"
+
+Mary Phuong
+, 
+Christoph H. Lampert
+
+","ReLU networks
+symmetry
+functional equivalence
+over-parameterization",We prove that there exist ReLU networks whose parameters are almost uniquely determined by the function they implement.
+Input Complexity and Out-of-distribution Detection with Likelihood-based Generative Models,"
+
+Joan Serrà
+, 
+David Álvarez
+, 
+Vicenç Gómez
+, 
+Olga Slizovskaia
+, 
+José F. Núñez
+, 
+Jordi Luque
+
+","OOD
+generative models
+likelihood","We pose that generative models' likelihoods are excessively influenced by the input's complexity, and propose a way to compensate it when detecting out-of-distribution inputs"
+RTFM: Generalising to New Environment Dynamics via Reading,"
+
+Victor Zhong
+, 
+Tim Rocktäschel
+, 
+Edward Grefenstette
+
+","reinforcement learning
+policy learning
+reading comprehension
+generalisation",We show language understanding via reading is promising way to learn policies that generalise to new environments.
+What graph neural networks cannot learn: depth vs width,"
+
+Andreas Loukas
+
+","graph neural networks
+capacity
+impossibility results
+lower bounds
+expressive power",Several graph problems are impossible unless the product of a graph neural network's depth and width exceeds a polynomial of the graph size.
+Progressive Memory Banks for Incremental Domain Adaptation,"
+
+Nabiha Asghar
+, 
+Lili Mou
+, 
+Kira A. Selby
+, 
+Kevin D. Pantasdo
+, 
+Pascal Poupart
+, 
+Xin Jiang
+
+","natural language processing
+domain adaptation","We present a neural memory-based architecture for incremental domain adaptation, and provide theoretical and empirical results."
+Automated curriculum generation through setter-solver interactions,"
+
+Sebastien Racaniere
+, 
+Andrew Lampinen
+, 
+Adam Santoro
+, 
+David Reichert
+, 
+Vlad Firoiu
+, 
+Timothy Lillicrap
+
+","Deep Reinforcement Learning
+Automatic Curriculum",We investigate automatic curriculum generation and identify a number of losses useful to learn to generate a curriculum of tasks.
+On Identifiability in Transformers,"
+
+Gino Brunner
+, 
+Yang Liu
+, 
+Damian Pascual
+, 
+Oliver Richter
+, 
+Massimiliano Ciaramita
+, 
+Roger Wattenhofer
+
+","Self-attention
+interpretability
+identifiability
+BERT
+Transformer
+NLP
+explanation
+gradient attribution",We investigate the identifiability and interpretability of attention distributions and tokens within contextual embeddings in the self-attention based BERT model.
+Exploring Model-based Planning with Policy Networks,"
+
+Tingwu Wang
+, 
+Jimmy Ba
+
+","reinforcement learning
+model-based reinforcement learning
+planning",how to achieve state-of-the-art performance by combining policy network in model-based planning
+Learning Self-Correctable Policies and Value Functions from Demonstrations with Negative Sampling,"
+
+Yuping Luo
+, 
+Huazhe Xu
+, 
+Tengyu Ma
+
+","imitation learning
+model-based imitation learning
+model-based RL
+behavior cloning
+covariate shift","We introduce a notion of conservatively-extrapolated value functions, which provably lead to policies that can self-correct to stay close to the demonstration states, and learn them with a novel negative sampling technique."
+Geometric Insights into the Convergence of Nonlinear TD Learning,"
+
+David Brandfonbrener
+, 
+Joan Bruna
+
+","TD
+nonlinear
+convergence
+value estimation
+reinforcement learning",
+Few-shot Text Classification with Distributional Signatures,"
+
+Yujia Bao
+, 
+Menghua Wu
+, 
+Shiyu Chang
+, 
+Regina Barzilay
+
+","text classification
+meta learning
+few shot learning","Meta-learning methods used for vision, directly applied to NLP, perform worse than nearest neighbors on new classes; we can do better with distributional signatures."
+Escaping Saddle Points Faster with Stochastic Momentum,"
+
+Jun-Kun Wang
+, 
+Chi-Heng Lin
+, 
+Jacob Abernethy
+
+","SGD
+momentum
+escaping saddle point",
+Adversarial Policies: Attacking Deep Reinforcement Learning,"
+
+Adam Gleave
+, 
+Michael Dennis
+, 
+Cody Wild
+, 
+Neel Kant
+, 
+Sergey Levine
+, 
+Stuart Russell
+
+","deep RL
+adversarial examples
+security
+multi-agent",Deep RL policies can be attacked by other agents taking actions so as to create natural observations that are adversarial.
+VideoFlow: A Conditional Flow-Based Model for Stochastic Video Generation,"
+
+Manoj Kumar
+, 
+Mohammad Babaeizadeh
+, 
+Dumitru Erhan
+, 
+Chelsea Finn
+, 
+Sergey Levine
+, 
+Laurent Dinh
+, 
+Durk Kingma
+
+","Video generation
+flow-based generative models
+stochastic video prediction",We demonstrate that flow-based generative models offer a viable and competitive approach to generative modeling of video.
+GLAD: Learning Sparse Graph Recovery,"
+
+Harsh Shrivastava
+, 
+Xinshi Chen
+, 
+Binghong Chen
+, 
+Guanghui Lan
+, 
+Srinivas Aluru
+, 
+Han Liu
+, 
+Le Song
+
+","Meta learning
+automated algorithm design
+learning structure recovery
+Gaussian graphical models",A data-driven learning algorithm based on unrolling the Alternating Minimization optimization for sparse graph recovery.
+Pruned Graph Scattering Transforms,"
+
+Vassilis N. Ioannidis
+, 
+Siheng Chen
+, 
+Georgios B. Giannakis
+
+","Graph scattering transforms
+pruning
+graph convolutional networks
+stability
+deep learning",
+Pretrained Encyclopedia: Weakly Supervised Knowledge-Pretrained Language Model,"
+
+Wenhan Xiong
+, 
+Jingfei Du
+, 
+William Yang Wang
+, 
+Veselin Stoyanov
+
+",,
+Can gradient clipping mitigate label noise?,"
+
+Aditya Krishna Menon
+, 
+Ankit Singh Rawat
+, 
+Sashank J. Reddi
+, 
+Sanjiv Kumar
+
+",,"Gradient clipping doesn't endow robustness to label noise, but a simple loss-based variant does."
+Editable Neural Networks,"
+
+Anton Sinitsin
+, 
+Vsevolod Plokhotnyuk
+, 
+Dmitry Pyrkin
+, 
+Sergei Popov
+, 
+Artem Babenko
+
+","editing
+editable
+meta-learning
+maml",Training neural networks so you can efficiently patch them later.
+LEARNING EXECUTION THROUGH NEURAL CODE FUSION,"
+
+Zhan Shi
+, 
+Kevin Swersky
+, 
+Daniel Tarlow
+, 
+Parthasarathy Ranganathan
+, 
+Milad Hashemi
+
+","code understanding
+graph neural networks
+learning program execution
+execution traces
+program performance",
+FasterSeg: Searching for Faster Real-time Semantic Segmentation,"
+
+Wuyang Chen
+, 
+Xinyu Gong
+, 
+Xianming Liu
+, 
+Qian Zhang
+, 
+Yuan Li
+, 
+Zhangyang Wang
+
+","neural architecture search
+real-time
+segmentation","We present a real-time segmentation model automatically discovered by a multi-scale NAS framework, achieving 30% faster than state-of-the-art models."
+Difference-Seeking Generative Adversarial Network--Unseen Sample Generation,"
+
+Yi Lin Sung
+, 
+Sung-Hsien Hsieh
+, 
+Soo-Chang Pei
+, 
+Chun-Shien Lu
+
+","generative adversarial network
+semi-supervised learning
+novelty detection",We proposed a novel GAN framework to generate unseen data.
+Stochastic AUC Maximization with Deep Neural Networks,"
+
+Mingrui Liu
+, 
+Zhuoning Yuan
+, 
+Yiming Ying
+, 
+Tianbao Yang
+
+","Stochastic AUC Maximization
+Deep Neural Networks","The paper designs two algorithms for the stochastic AUC maximization problem with state-of-the-art complexities when using deep neural network as predictive model, which are also verified by empirical studies."
+Semantically-Guided Representation Learning for Self-Supervised Monocular Depth,"
+
+Vitor Guizilini
+, 
+Rui Hou
+, 
+Jie Li
+, 
+Rares Ambrus
+, 
+Adrien Gaidon
+
+","computer vision
+machine learning
+deep learning
+monocular depth estimation
+self-supervised learning",We propose a novel semantically-guided architecture for self-supervised monocular depth estimation
+MACER: Attack-free and Scalable Robust Training via Maximizing Certified Radius,"
+
+Runtian Zhai
+, 
+Chen Dan
+, 
+Di He
+, 
+Huan Zhang
+, 
+Boqing Gong
+, 
+Pradeep Ravikumar
+, 
+Cho-Jui Hsieh
+, 
+Liwei Wang
+
+","Adversarial Robustness
+Provable Adversarial Defense
+Randomized Smoothing
+Robustness Certification",We propose MACER: a provable defense algorithm that trains robust models by maximizing the certified radius. It does not use adversarial training but performs better than all existing provable l2-defenses.
+Detecting and Diagnosing Adversarial Images with Class-Conditional Capsule Reconstructions,"
+
+Yao Qin
+, 
+Nicholas Frosst
+, 
+Sara Sabour
+, 
+Colin Raffel
+, 
+Garrison Cottrell
+, 
+Geoffrey Hinton
+
+","Adversarial Examples
+Detection of adversarial attacks",
+GAT: Generative Adversarial Training for Adversarial Example Detection and Robust Classification,"
+
+Xuwang Yin
+, 
+Soheil Kolouri
+, 
+Gustavo K Rohde
+
+","adversarial example detection
+adversarial examples classification
+robust optimization
+ML security
+generative modeling
+generative classification",We propose an objective that could be used for training adversarial example detection and robust classification systems.
+Variational Recurrent Models for Solving Partially Observable Control Tasks,"
+
+Dongqi Han
+, 
+Kenji Doya
+, 
+Jun Tani
+
+","Reinforcement Learning
+Deep Learning
+Variational Inference
+Recurrent Neural Network
+Partially Observable
+Robotic Control
+Continuous Control",A deep RL algorithm for solving POMDPs by auto-encoding the underlying states using a variational recurrent model
+Population-Guided Parallel Policy Search for Reinforcement Learning,"
+
+Whiyoung Jung
+, 
+Giseung Park
+, 
+Youngchul Sung
+
+","Reinforcement Learning
+Parallel Learning
+Population Based Learning",
+Compositional languages emerge in a neural iterated learning model,"
+
+Yi Ren
+, 
+Shangmin Guo
+, 
+Matthieu Labeau
+, 
+Shay B. Cohen
+, 
+Simon Kirby
+
+","Compositionality
+Multi-agent
+Emergent language
+Iterated learning",Use iterated learning framework to facilitate the dominance of high compositional language in multi-agent games.
+Black-Box Adversarial Attack with Transferable Model-based Embedding,"
+
+Zhichao Huang
+, 
+Tong Zhang
+
+","adversarial examples
+black-box attack
+embedding","We present a new method that combines transfer-based and scored black-box adversarial attack, improving the success rate and query efficiency of black-box adversarial attack across different network architectures."
+I Am Going MAD: Maximum Discrepancy Competition for Comparing Classifiers Adaptively,"
+
+Haotao Wang
+, 
+Tianlong Chen
+, 
+Zhangyang Wang
+, 
+Kede Ma
+
+",model comparison,"We present an efficient and adaptive framework for comparing image classifiers to maximize the discrepancies between the classifiers, in place of comparing on fixed test sets."
+Mixout: Effective Regularization to Finetune Large-scale Pretrained Language Models,"
+
+Cheolhyoung Lee
+, 
+Kyunghyun Cho
+, 
+Wanmo Kang
+
+","regularization
+finetuning
+dropout
+dropconnect
+adaptive L2-penalty
+BERT
+pretrained language model",
+Q-learning with UCB Exploration is Sample Efficient for Infinite-Horizon MDP,"
+
+Yuanhao Wang
+, 
+Kefan Dong
+, 
+Xiaoyu Chen
+, 
+Liwei Wang
+
+","theory
+reinforcement learning
+sample complexity","We adapt Q-learning with UCB-exploration bonus to infinite-horizon MDP with discounted rewards without accessing a generative model, and improves the previously best known result."
+Deep Network Classification by Scattering and Homotopy Dictionary Learning,"
+
+John Zarka
+, 
+Louis Thiry
+, 
+Tomas Angles
+, 
+Stephane Mallat
+
+","dictionary learning
+scattering transform
+sparse coding
+imagenet",A scattering transform followed by supervised dictionary learning reaches a higher accuracy than AlexNet on ImageNet.
+Data-Independent Neural Pruning via Coresets,"
+
+Ben Mussay
+, 
+Margarita Osadchy
+, 
+Vladimir Braverman
+, 
+Samson Zhou
+, 
+Dan Feldman
+
+","coresets
+neural pruning
+network compression","We propose an efficient, provable and data independent method for network compression via neural pruning using coresets of neurons -- a novel construction proposed in this paper."
+Bounds on Over-Parameterization for Guaranteed Existence of Descent Paths in Shallow ReLU Networks,"
+
+Arsalan Sharifnassab
+, 
+Saber Salehkaleybar
+, 
+S. Jamaloddin Golestani
+
+","Spurious local minima
+Loss landscape
+Over-parameterization
+Theory of deep learning
+Optimization
+Descent path",
+Novelty Detection Via Blurring,"
+
+Sungik Choi
+, 
+Sae-Young Chung
+
+","novelty
+anomaly
+uncertainty",We propose a novel OOD detector that employ blurred images as adversarial examples . Our model achieve significant OOD detection performance in various domains.
+Piecewise linear activations substantially shape the loss surfaces of neural networks,"
+
+Fengxiang He
+, 
+Bohan Wang
+, 
+Dacheng Tao
+
+","neural network
+nonlinear activation
+loss surface
+spurious local minimum",This paper presents how the loss surfaces of nonlinear neural networks are substantially shaped by the nonlinearities in activations.
+Relational State-Space Model for Stochastic Multi-Object Systems,"
+
+Fan Yang
+, 
+Ling Chen
+, 
+Fan Zhou
+, 
+Yusong Gao
+, 
+Wei Cao
+
+","state-space model
+time series
+deep sequential model
+graph neural network",A deep hierarchical state-space model in which the state transitions of correlated objects are coordinated by graph neural networks.
+Learning Efficient Parameter Server Synchronization Policies for Distributed SGD,"
+
+Rong Zhu
+, 
+Sheng Yang
+, 
+Andreas Pfadler
+, 
+Zhengping Qian
+, 
+Jingren Zhou
+
+","Distributed SGD
+Paramter-Server
+Synchronization Policy
+Reinforcement Learning",We apply a reinforcement learning based approach to learning optimal synchronization policies used for Parameter Server-based distributed training  of SGD.
+Action Semantics Network: Considering the Effects of Actions in Multiagent Systems,"
+
+Weixun Wang
+, 
+Tianpei Yang
+, 
+Yong Liu
+, 
+Jianye Hao
+, 
+Xiaotian Hao
+, 
+Yujing Hu
+, 
+Yingfeng Chen
+, 
+Changjie Fan
+, 
+Yang Gao
+
+","multiagent coordination
+multiagent learning",Our proposed ASN characterizes different actions' influence on other agents using neural networks based on the action semantics between them.
+Vid2Game: Controllable Characters Extracted from Real-World Videos,"
+
+Oran Gafni
+, 
+Lior Wolf
+, 
+Yaniv Taigman
+
+",,
+Self-Adversarial Learning with Comparative Discrimination for Text Generation,"
+
+Wangchunshu Zhou
+, 
+Tao Ge
+, 
+Ke Xu
+, 
+Furu Wei
+, 
+Ming Zhou
+
+","adversarial learning
+text generation",We propose a self-adversarial learning (SAL) paradigm which improves the generator in a self-play fashion for improving GANs' performance in text generation.
+Robust training with ensemble consensus,"
+
+Jisoo Lee
+, 
+Sae-Young Chung
+
+","Annotation noise
+Noisy label
+Robustness
+Ensemble
+Perturbation",This work presents a method of generating and using ensembles effectively to identify noisy examples in the presence of annotation noise. 
+Identifying through Flows for Recovering Latent Representations,"
+
+Shen Li
+, 
+Bryan Hooi
+, 
+Gim Hee Lee
+
+","Representation learning
+identifiable generative models
+nonlinear-ICA",
+Certified Robustness for Top-k Predictions against Adversarial Perturbations via Randomized Smoothing,"
+
+Jinyuan Jia
+, 
+Xiaoyu Cao
+, 
+Binghui Wang
+, 
+Neil Zhenqiang Gong
+
+","Certified Adversarial Robustness
+Randomized Smoothing
+Adversarial Examples",We study the certified robustness for top-k predictions via randomized smoothing under Gaussian noise and derive a tight robustness bound in L_2 norm.
+Optimistic Exploration even with a Pessimistic Initialisation,"
+
+Tabish Rashid
+, 
+Bei Peng
+, 
+Wendelin Boehmer
+, 
+Shimon Whiteson
+
+","Reinforcement Learning
+Exploration
+Optimistic Initialisation","We augment the Q-value estimates with a count-based bonus that ensures optimism during action selection and bootstrapping, even if the Q-value estimates are pessimistic."
+VL-BERT: Pre-training of Generic Visual-Linguistic Representations,"
+
+Weijie Su
+, 
+Xizhou Zhu
+, 
+Yue Cao
+, 
+Bin Li
+, 
+Lewei Lu
+, 
+Furu Wei
+, 
+Jifeng Dai
+
+","Visual-Linguistic
+Generic Representation
+Pre-training","VL-BERT is a simple yet powerful pre-trainable generic representation for visual-linguistic tasks. It is pre-trained on the massive-scale caption dataset and text-only corpus, and can be finetuned for varies down-stream visual-linguistic tasks."
+Deformable Kernels: Adapting Effective Receptive Fields for Object Deformation,"
+
+Hang Gao
+, 
+Xizhou Zhu
+, 
+Stephen Lin
+, 
+Jifeng Dai
+
+","Effective Receptive Fields
+Deformation Modeling
+Dynamic Inference",Don't deform your convolutions -- deform your kernels.
+Ensemble Distribution Distillation,"
+
+Andrey Malinin
+, 
+Bruno Mlodozeniec
+, 
+Mark Gales
+
+","Ensemble Distillation
+Knowledge Distillation
+Uncertainty Estimation
+Density Estimation","We distill an ensemble of models into a single model, capturing both the improved classification performance and information about the diversity of the ensemble, which is useful for uncertainty estimation."
+Gap-Aware Mitigation of Gradient Staleness,"
+
+Saar Barkai
+, 
+Ido Hakimi
+, 
+Assaf Schuster
+
+","distributed
+asynchronous
+large scale
+gradient staleness
+staleness penalization
+sgd
+deep learning
+neural networks
+optimization","A new distributed, asynchronous, SGD-based algorithm, which achieves state-of-the-art accuracy on existing architectures using staleness penalization without having to re-tune the hyperparameters."
+Counterfactuals uncover the modular structure of deep generative models,"
+
+Michel Besserve
+, 
+Arash Mehrjou
+, 
+Rémy Sun
+, 
+Bernhard Schölkopf
+
+","generative models
+causality
+counterfactuals
+representation learning
+disentanglement
+generalization
+unsupervised learning",We develop a framework to find modular internal representations in generative models and manipulate then to generate counterfactual examples.
+Physics-as-Inverse-Graphics: Unsupervised Physical Parameter Estimation from Video,"
+
+Miguel Jaques
+, 
+Michael Burke
+, 
+Timothy Hospedales
+
+",,"We propose a model that is able to perform physical parameter estimation of systems from video, where the differential equations governing the scene dynamics are known, but labeled states or objects are not available."
+An Inductive Bias for Distances: Neural Nets that Respect the Triangle Inequality,"
+
+Silviu Pitis
+, 
+Harris Chan
+, 
+Kiarash Jamali
+, 
+Jimmy Ba
+
+","metric learning
+deep metric learning
+neural network architectures
+triangle inequality
+graph distances","We propose novel neural network architectures, guaranteed to satisfy the triangle inequality, for purposes of (asymmetric) metric learning and modeling graph distances. "
+A Constructive Prediction of the Generalization Error Across Scales,"
+
+Jonathan S. Rosenfeld
+, 
+Amir Rosenfeld
+, 
+Yonatan Belinkov
+, 
+Nir Shavit
+
+","neural networks
+deep learning
+generalization error
+scaling
+scalability
+vision
+language",We predict the generalization error and specify the model which attains it across model/data scales.
+Scalable Neural Methods for Reasoning With a Symbolic Knowledge Base,"
+
+William W. Cohen
+, 
+Haitian Sun
+, 
+R. Alex Hofer
+, 
+Matthew Siegler
+
+","question-answering
+knowledge base completion
+neuro-symbolic reasoning
+multihop reasoning",A scalable differentiable neural module that implements reasoning on symbolic KBs.
+CLN2INV: Learning Loop Invariants with Continuous Logic Networks,"
+
+Gabriel Ryan
+, 
+Justin Wong
+, 
+Jianan Yao
+, 
+Ronghui Gu
+, 
+Suman Jana
+
+","loop invariants
+deep learning
+logic learning","We introduce the Continuous Logic Network (CLN), a novel neural architecture for automatically learning loop invariants and general SMT formulas."
+NAS evaluation is frustratingly hard,"
+
+Antoine Yang
+, 
+Pedro M. Esperança
+, 
+Fabio M. Carlucci
+
+","neural architecture search
+nas
+benchmark
+reproducibility
+harking","A study of how different components in the NAS pipeline contribute to the final accuracy. Also, a benchmark of 8 methods on 5 datasets."
+Efficient and Information-Preserving Future Frame Prediction and Beyond,"
+
+Wei Yu
+, 
+Yichao Lu
+, 
+Steve Easterbrook
+, 
+Sanja Fidler
+
+","self-supervised learning
+generative pre-training
+video prediction
+reversible architecture",
+Order Learning and Its Application to Age Estimation,"
+
+Kyungsun Lim
+, 
+Nyeong-Ho Shin
+, 
+Young-Yoon Lee
+, 
+Chang-Su Kim
+
+","Order learning
+age estimation
+aesthetic assessment",The notion of order learning is proposed and it is applied to regression problems in computer vision
+ReClor: A Reading Comprehension Dataset Requiring Logical Reasoning,"
+
+Weihao Yu
+, 
+Zihang Jiang
+, 
+Yanfei Dong
+, 
+Jiashi Feng
+
+","reading comprehension
+logical reasoning
+natural language processing","We introduce ReClor, a reading comprehension dataset requiring logical reasoning, and find that current state-of-the-art models struggle with real logical reasoning with poor performance near that of random guess."
+AssembleNet: Searching for Multi-Stream Neural Connectivity in Video Architectures,"
+
+Michael S. Ryoo
+, 
+AJ Piergiovanni
+, 
+Mingxing Tan
+, 
+Anelia Angelova
+
+","video representation learning
+video understanding
+activity recognition
+neural architecture search",We search for multi-stream neural architectures with better connectivity and spatio-temporal interactions for video understanding.
+Adversarially Robust Representations with Smooth Encoders,"
+
+Taylan Cemgil
+, 
+Sumedh Ghaisas
+, 
+Krishnamurthy (Dj) Dvijotham
+, 
+Pushmeet Kohli
+
+","Adversarial Learning
+Robust Representations
+Variational AutoEncoder
+Wasserstein Distance
+Variational Inference",We propose a method for computing adversarially robust representations in an entirely unsupervised way.
+From Variational to Deterministic Autoencoders,"
+
+Partha Ghosh
+, 
+Mehdi S. M. Sajjadi
+, 
+Antonio Vergari
+, 
+Michael Black
+, 
+Bernhard Scholkopf
+
+","Unsupervised learning
+Generative Models
+Variational Autoencoders
+Regularization","Deterministic regularized autoencoders can learn a smooth, meaningful latent space as VAEs without having to force some arbitrarily chosen prior (i.e., Gaussian)."
+Computation Reallocation for Object Detection,"
+
+Feng Liang
+, 
+Chen Lin
+, 
+Ronghao Guo
+, 
+Ming Sun
+, 
+Wei Wu
+, 
+Junjie Yan
+, 
+Wanli Ouyang
+
+","Neural Architecture Search
+Object Detection",We propose CR-NAS to reallocate engaged  computation resources in different resolution and spatial position.
+Finding and Visualizing Weaknesses of Deep Reinforcement Learning Agents,"
+
+Christian Rupprecht
+, 
+Cyril Ibrahim
+, 
+Christopher J. Pal
+
+","Visualization
+Reinforcement Learning
+Safety",We generate critical states of a trained RL algorithms to visualize potential weaknesses. 
+A Fair Comparison of Graph Neural Networks for Graph Classification,"
+
+Federico Errica
+, 
+Marco Podda
+, 
+Davide Bacciu
+, 
+Alessio Micheli
+
+","graph neural networks
+graph classification
+reproducibility
+graph representation learning",We provide a rigorous comparison of different Graph Neural Networks for graph classification.
+Generalization bounds for deep convolutional neural networks,"
+
+Philip M. Long
+, 
+Hanie Sedghi
+
+","generalization
+convolutional networks
+statistical learning theory",We prove generalization bounds for convolutional neural networks that take account of weight-tying
+SAdam: A Variant of Adam for Strongly Convex Functions,"
+
+Guanghui Wang
+, 
+Shiyin Lu
+, 
+Quan Cheng
+, 
+Wei-wei Tu
+, 
+Lijun Zhang
+
+","Online convex optimization
+Adaptive online learning
+Adam",A variant of Adam for strongly convex functions
+Continual Learning with Bayesian Neural Networks for Non-Stationary Data,"
+
+Richard Kurle
+, 
+Botond Cseke
+, 
+Alexej Klushyn
+, 
+Patrick van der Smagt
+, 
+Stephan Günnemann
+
+","Continual Learning
+Online Variational Bayes
+Non-Stationary Data
+Bayesian Neural Networks
+Variational Inference
+Lifelong Learning
+Concept Drift
+Episodic Memory","This work addresses continual learning for non-stationary data, using Bayesian neural networks and memory-based online variational Bayes."
+Multiplicative Interactions and Where to Find Them,"
+
+Siddhant M. Jayakumar
+, 
+Wojciech M. Czarnecki
+, 
+Jacob Menick
+, 
+Jonathan Schwarz
+, 
+Jack Rae
+, 
+Simon Osindero
+, 
+Yee Whye Teh
+, 
+Tim Harley
+, 
+Razvan Pascanu
+
+","multiplicative interactions
+hypernetworks
+attention","We explore the role of multiplicative interaction as a unifying framework to describe a range of classical and modern neural network architectural motifs, such as gating, attention layers, hypernetworks, and dynamic convolutions amongst others."
+FEW-SHOT LEARNING ON GRAPHS VIA SUPER-CLASSES BASED ON GRAPH SPECTRAL MEASURES,"
+
+Jatin Chauhan
+, 
+Deepak Nathani
+, 
+Manohar Kaul
+
+","Few shot graph classification
+graph spectral measures
+super-classes",
+On Computation and Generalization of Generative Adversarial Imitation Learning,"
+
+Minshuo Chen
+, 
+Yizhou Wang
+, 
+Tianyi Liu
+, 
+Zhuoran Yang
+, 
+Xingguo Li
+, 
+Zhaoran Wang
+, 
+Tuo Zhao
+
+",,
+A Target-Agnostic Attack on Deep Models: Exploiting Security Vulnerabilities of Transfer Learning,"
+
+Shahbaz Rezaei
+, 
+Xin Liu
+
+","Machine learning security
+Transfer learning
+deep learning security
+Softmax Vulnerability
+Transfer learning Security",
+Low-Resource Knowledge-Grounded Dialogue Generation,"
+
+Xueliang Zhao
+, 
+Wei Wu
+, 
+Chongyang Tao
+, 
+Can Xu
+, 
+Dongyan Zhao
+, 
+Rui Yan
+
+",,
+"Deep 3D Pan via local adaptive ""t-shaped"" convolutions with global and local adaptive dilations","
+
+Juan Luis Gonzalez Bello
+, 
+Munchurl Kim
+
+","Deep learning
+Stereoscopic view synthesis
+Monocular depth
+Deep 3D Pan",Novel architecture for stereoscopic view synthesis at arbitrary camera shifts utilizing adaptive t-shaped kernels with adaptive dilations.
+Tree-Structured Attention with Hierarchical Accumulation,"
+
+Xuan-Phi Nguyen
+, 
+Shafiq Joty
+, Steven Hoi, Richard Socher
+      ","Tree
+Constituency Tree
+Hierarchical Accumulation
+Machine Translation
+NMT
+WMT
+IWSLT
+Text Classification
+Sentiment Analysis",
+The asymptotic spectrum of the Hessian of DNN throughout training,"
+
+Arthur Jacot
+, 
+Franck Gabriel
+, 
+Clement Hongler
+
+","theory of deep learning
+loss surface
+training
+fisher information matrix",Description of the limiting spectrum of the Hesian of the loss surface of DNNs in the infinite-width limit.
+Actor-Critic Provably Finds Nash Equilibria of Linear-Quadratic Mean-Field Games,"
+
+Zuyue Fu
+, 
+Zhuoran Yang
+, 
+Yongxin Chen
+, 
+Zhaoran Wang
+
+",,Actor-Critic method with function approximation finds the Nash equilibrium pairs in mean-field games with theoretical guarantee. 
+In Search for a SAT-friendly Binarized Neural Network Architecture,"
+
+Nina Narodytska
+, 
+Hongce Zhang
+, 
+Aarti Gupta
+, 
+Toby Walsh
+
+","verification
+Boolean satisfiability
+Binarized Neural Networks",Formal analysis of  Binarized Neural Networks 
+Generative Ratio Matching Networks,"
+
+Akash Srivastava
+, 
+Kai Xu
+, 
+Michael U. Gutmann
+, 
+Charles Sutton
+
+","deep generative model
+deep learning
+maximum mean discrepancy
+density ratio estimation","MMD-based, saddle-point optimisation free, stable-to-train generative model that beats GAN on generative quality without playing any  zero-sum games."
+Learning to Represent Programs with Property Signatures,"
+
+Augustus Odena
+, 
+Charles Sutton
+
+",Program Synthesis,We represent a computer program using a set of simpler programs and use this representation to improve program synthesis techniques.
+V4D: 4D Convolutional Neural Networks for Video-level Representation Learning,"
+
+Shiwen Zhang
+, 
+Sheng Guo
+, 
+Weilin Huang
+, 
+Matthew R. Scott
+, 
+Limin Wang
+
+","video-level representation learning
+video action recognition
+4D CNNs","A novel 4D CNN structure for video-level representation learning, surpassing  recent 3D CNNs."
+Option Discovery using Deep Skill Chaining,"
+
+Akhil Bagaria
+, 
+George Konidaris
+
+","Hierarchical Reinforcement Learning
+Reinforcement Learning
+Skill Discovery
+Deep Learning
+Deep Reinforcement Learning",We present a new hierarchical reinforcement learning algorithm which can solve high-dimensional goal-oriented tasks  more reliably than non-hierarchical agents and other state-of-the-art skill discovery techniques.
+Quantifying the Cost of Reliable Photo Authentication via High-Performance Learned Lossy Representations,"
+
+Pawel Korus
+, 
+Nasir Memon
+
+","image forensics
+photo manipulation detection
+learned compression
+lossy compression
+image compression
+entropy estimation",We learn an efficient lossy image codec that can be optimized to facilitate reliable photo manipulation detection at fractional cost in payload/quality and even at low bitrates.
+On the Variance of the Adaptive Learning Rate and Beyond,"
+
+Liyuan Liu
+, 
+Haoming Jiang
+, 
+Pengcheng He
+, 
+Weizhu Chen
+, 
+Xiaodong Liu
+, 
+Jianfeng Gao
+, 
+Jiawei Han
+
+","warmup
+adam
+adaptive learning rate
+variance","If warmup is the answer, what is the question?"
+Dynamical Distance Learning for Semi-Supervised and Unsupervised Skill Discovery,"
+
+Kristian Hartikainen
+, 
+Xinyang Geng
+, 
+Tuomas Haarnoja
+, 
+Sergey Levine
+
+","reinforcement learning
+semi-supervised learning
+unsupervised learning
+robotics
+deep learning",We show how to automatically learn dynamical distances in reinforcement learning setting and use them to provide well-shaped reward functions for reaching new goals.
+A Theoretical Analysis of the Number of Shots in Few-Shot Learning,"
+
+Tianshi Cao
+, 
+Marc T Law
+, 
+Sanja Fidler
+
+","Few shot learning
+Meta Learning
+Performance Bounds",The paper analyzes the effect of shot number on prototypical networks and proposes a robust method when the shot number differs from meta-training to meta-testing time.
+Unsupervised Model Selection for Variational Disentangled Representation Learning,"
+
+Sunny Duan
+, 
+Loic Matthey
+, 
+Andre Saraiva
+, 
+Nick Watters
+, 
+Chris Burgess
+, 
+Alexander Lerchner
+, 
+Irina Higgins
+
+","unsupervised disentanglement metric
+disentangling
+representation learning",We introduce a method for unsupervised disentangled model selection for VAE-based disentangled representation learning approaches.
+Feature Interaction Interpretability: A Case for Explaining Ad-Recommendation Systems via Neural Interaction Detection,"
+
+Michael Tsang
+, 
+Dehua Cheng
+, 
+Hanpeng Liu
+, 
+Xue Feng
+, 
+Eric Zhou
+, 
+Yan Liu
+
+","Feature Interaction
+Interpretability
+Black Box
+AutoML",Proposed methods to extract and leverage interpretations of feature interactions
+Understanding the Limitations of Variational Mutual Information Estimators,"
+
+Jiaming Song
+, 
+Stefano Ermon
+
+",,
+GENESIS: Generative Scene Inference and Sampling with Object-Centric Latent Representations,"
+
+Martin Engelcke
+, 
+Adam R. Kosiorek
+, 
+Oiwi Parker Jones
+, 
+Ingmar Posner
+
+","Generative modelling
+object-centric representations
+scene generation
+variational inference",We present the first object-centric generative model of 3D visual scenes capable of both decomposing and generating scenes.
+Language GANs Falling Short,"
+
+Massimo Caccia
+, 
+Lucas Caccia
+, 
+William Fedus
+, 
+Hugo Larochelle
+, 
+Joelle Pineau
+, 
+Laurent Charlin
+
+","NLP
+GAN
+MLE
+adversarial
+text generation
+temperature","GANs have been applied to text generation and are believed SOTA. However, we propose a new evaluation protocol demonstrating that maximum-likelihood trained models are still better."
+Stochastic Conditional Generative Networks with Basis Decomposition,"
+
+Ze Wang
+, 
+Xiuyuan Cheng
+, 
+Guillermo Sapiro
+, 
+Qiang Qiu
+
+",,
+LEARNED STEP SIZE QUANTIZATION,"
+
+Steven K. Esser
+, 
+Jeffrey L. McKinstry
+, 
+Deepika Bablani
+, 
+Rathinakumar Appuswamy
+, 
+Dharmendra S. Modha
+
+","deep learning
+low precision
+classification
+quantization",A method for learning quantization configuration for low precision networks that achieves state of the art performance for quantized networks.
+"On the ""steerability"" of generative adversarial networks","
+
+Ali Jahanian*
+, 
+Lucy Chai*
+, 
+Phillip Isola
+
+","generative adversarial network
+latent space interpolation
+dataset bias
+model generalization",Interpolations in the latent space demonstrate generalization capacity of GANs and the effect of dataset biases.
+Reinforced active learning for image segmentation,"
+
+Arantxa Casanova
+, 
+Pedro O. Pinheiro
+, 
+Negar Rostamzadeh
+, 
+Christopher J. Pal
+
+","semantic segmentation
+active learning
+reinforcement learning",Learning a labeling policy with reinforcement learning to reduce labeling effort for the task of semantic segmentation
+Sign Bits Are All You Need for Black-Box Attacks,"
+
+Abdullah Al-Dujaili
+, 
+Una-May O'Reilly
+
+","Black-box adversarial attack models
+Deep Nets
+Adversarial Examples
+Black-Box Optimization
+Zeroth-Order Optimization","We present a sign-based, rather than magnitude-based, gradient estimation approach that shifts gradient estimation from continuous to binary black-box optimization."
+Deep Semi-Supervised Anomaly Detection,"
+
+Lukas Ruff
+, 
+Robert A. Vandermeulen
+, 
+Nico Görnitz
+, 
+Alexander Binder
+, 
+Emmanuel Müller
+, 
+Klaus-Robert Müller
+, 
+Marius Kloft
+
+","anomaly detection
+deep learning
+semi-supervised learning
+unsupervised learning
+outlier detection
+one-class classification
+deep anomaly detection
+deep one-class classification","We introduce Deep SAD, a deep method for general semi-supervised anomaly detection that especially takes advantage of labeled anomalies."
+Budgeted Training: Rethinking Deep Neural Network Training Under Resource Constraints,"
+
+Mengtian Li
+, 
+Ersin Yumer
+, 
+Deva Ramanan
+
+","budgeted training
+learning rate schedule
+linear schedule
+annealing
+learning rate decay",Introduce a formal setting for budgeted training and propose a budget-aware linear learning rate schedule
+Minimizing FLOPs to Learn Efficient Sparse Representations,"
+
+Biswajit Paria
+, 
+Chih-Kuan Yeh
+, 
+Ian E.H. Yen
+, 
+Ning Xu
+, 
+Pradeep Ravikumar
+, 
+Barnabás Póczos
+
+","sparse embeddings
+deep representations
+metric learning
+regularization","We propose an approach to learn sparse high dimensional representations that are fast to search, by incorporating a surrogate of the number of operations directly into the loss function."
+Reanalysis of Variance Reduced Temporal Difference Learning,"
+
+Tengyu Xu
+, 
+Zhe Wang
+, 
+Yi Zhou
+, 
+Yingbin Liang
+
+","Reinforcement Learning
+TD learning
+Markovian sample
+Variance Reduction",This paper provides a rigorous study of the variance reduced TD learning and characterizes its advantage over vanilla TD learning
+Imitation Learning via Off-Policy Distribution Matching,"
+
+Ilya Kostrikov
+, 
+Ofir Nachum
+, 
+Jonathan Tompson
+
+","reinforcement learning
+deep learning
+imitation learning
+adversarial learning",
+Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML,"
+
+Aniruddh Raghu
+, 
+Maithra Raghu
+, 
+Samy Bengio
+, 
+Oriol Vinyals
+
+","deep learning analysis
+representation learning
+meta-learning
+few-shot learning","The success of MAML relies on feature reuse from the meta-initialization, which also yields a natural simplification of the algorithm, with the inner loop removed for the network body, as well as other insights on the head and body."
+Augmenting Genetic Algorithms with Deep Neural Networks for Exploring the Chemical Space,"
+
+AkshatKumar Nigam
+, 
+Pascal Friederich
+, 
+Mario Krenn
+, 
+Alan Aspuru-Guzik
+
+","Generative model
+Chemical Space
+Inverse Molecular Design",Tackling inverse design via genetic algorithms augmented with deep neural networks. 
+Improved Sample Complexities for Deep Neural Networks and Robust Classification via an All-Layer Margin,"
+
+Colin Wei
+, 
+Tengyu Ma
+
+","deep learning theory
+generalization bounds
+adversarially robust generalization
+data-dependent generalization bounds","We propose a new notion of margin that has a direct relationship with neural net generalization, and obtain improved generalization bounds for neural nets and robust classification by analyzing this margin."
+Identity Crisis: Memorization and Generalization Under Extreme Overparameterization,"
+
+Chiyuan Zhang
+, 
+Samy Bengio
+, 
+Moritz Hardt
+, 
+Michael C. Mozer
+, 
+Yoram Singer
+
+","Generalization
+Memorization
+Understanding
+Inductive Bias",
+ReMixMatch: Semi-Supervised Learning with Distribution Matching and Augmentation Anchoring,"
+
+David Berthelot
+, 
+Nicholas Carlini
+, 
+Ekin D. Cubuk
+, 
+Alex Kurakin
+, 
+Kihyuk Sohn
+, 
+Han Zhang
+, 
+Colin Raffel
+
+",semi-supervised learning,"We introduce Distribution Matching and Augmentation Anchoring, two improvements to MixMatch which produce state-of-the-art results and enable surprisingly strong performance with only 40 labels on CIFAR-10 and SVHN."
+Adaptive Structural Fingerprints for Graph Attention Networks,"
+
+Kai Zhang
+, 
+Yaokang Zhu
+, 
+Jun Wang
+, 
+Jie Zhang
+
+","Graph attention networks
+graph neural networks
+node classification","Exploiting rich strucural details in graph-structued data via adaptive ""strucutral fingerprints''"
+CAQL: Continuous Action Q-Learning,"
+
+Moonkyung Ryu
+, 
+Yinlam Chow
+, 
+Ross Anderson
+, 
+Christian Tjandraatmadja
+, 
+Craig Boutilier
+
+","Reinforcement learning (RL)
+DQN
+Continuous control
+Mixed-Integer Programming (MIP)",A general framework of value-based reinforcement learning for continuous control
+Learning Heuristics for Quantified Boolean Formulas through Reinforcement Learning,"
+
+Gil Lederman
+, 
+Markus Rabe
+, 
+Sanjit Seshia
+, 
+Edward A. Lee
+
+","Logic
+QBF
+Logical Reasoning
+SAT
+Graph
+Reinforcement Learning
+GNN","We use RL to automatically learn branching heuristic within a state of the art QBF solver, on industrial problems."
+Pure and Spurious Critical Points: a Geometric Study of Linear Networks,"
+
+Matthew Trager
+, 
+Kathlén Kohn
+, 
+Joan Bruna
+
+","Loss landscape
+linear networks
+algebraic geometry",
+Neural Text Generation With Unlikelihood Training,"
+
+Sean Welleck
+, 
+Ilia Kulikov
+, 
+Stephen Roller
+, 
+Emily Dinan
+, 
+Kyunghyun Cho
+, 
+Jason Weston
+
+","language modeling
+machine learning",
+Semi-Supervised Generative Modeling for Controllable Speech Synthesis,"
+
+Raza Habib
+, 
+Soroosh Mariooryad
+, 
+Matt Shannon
+, 
+Eric Battenberg
+, 
+RJ Skerry-Ryan
+, 
+Daisy Stanton
+, 
+David Kao
+, 
+Tom Bagby
+
+","TTS
+Speech Synthesis
+Semi-supervised Models
+VAE
+disentanglement",
+Dynamic Time Lag Regression: Predicting What & When,"
+
+Mandar Chandorkar
+, 
+Cyril Furtlehner
+, 
+Bala Poduval
+, 
+Enrico Camporeale
+, 
+Michele Sebag
+
+","Dynamic Time-Lag Regression
+Time Delay
+Regression
+Time Series",We propose a new regression framework for temporal phenomena having non-stationary time-lag dependencies.
+Scalable Model Compression by Entropy Penalized Reparameterization,"
+
+Deniz Oktay
+, 
+Johannes Ballé
+, 
+Saurabh Singh
+, 
+Abhinav Shrivastava
+
+","deep learning
+model compression
+computer vision
+information theory",An end-to-end trainable model compression method optimizing accuracy jointly with the expected model size.
+AMRL: Aggregated Memory For Reinforcement Learning,"
+
+Jacob Beck
+, 
+Kamil Ciosek
+, 
+Sam Devlin
+, 
+Sebastian Tschiatschek
+, 
+Cheng Zhang
+, 
+Katja Hofmann
+
+","deep learning
+reinforcement learning
+rl
+memory
+noise
+machine learning","In Deep RL, order-invariant functions can be used in conjunction with standard memory modules to improve gradient decay and resilience to noise."
+Efficient Riemannian Optimization on the Stiefel Manifold via the Cayley Transform,"
+
+Jun Li
+, 
+Fuxin Li
+, 
+Sinisa Todorovic
+
+","Orthonormality
+Efficient Riemannian Optimization
+the Stiefel manifold.",This paper is about efficient Riemannian optimization on the Stiefel manifold that enforces the parameter matrices orthonormal.
+Unpaired Point Cloud Completion on Real Scans using Adversarial Training,"
+
+Xuelin Chen
+, 
+Baoquan Chen
+, 
+Niloy J. Mitra
+
+","point cloud completion
+generative adversarial network
+real scans",
+Adjustable Real-time Style Transfer,"
+
+Mohammad Babaeizadeh
+, 
+Golnaz Ghiasi
+
+","Image Style Transfer
+Deep Learning",Stochastic style transfer with adjustable features. 
+Stochastic Weight Averaging in Parallel: Large-Batch Training That Generalizes Well,"
+
+Vipul Gupta
+, 
+Santiago Akle Serrano
+, 
+Dennis DeCoste
+
+","Large batch training
+Distributed neural network training
+Stochastic Weight Averaging","We propose SWAP, a distributed algorithm for large-batch training of neural networks."
+Short and Sparse Deconvolution --- A Geometric Approach,"
+
+Yenson Lau
+, 
+Qing Qu
+, 
+Han-Wen Kuo
+, 
+Pengcheng Zhou
+, 
+Yuqian Zhang
+, 
+John Wright
+
+",,
+Selection via Proxy: Efficient Data Selection for Deep Learning,"
+
+Cody Coleman
+, 
+Christopher Yeh
+, 
+Stephen Mussmann
+, 
+Baharan Mirzasoleiman
+, 
+Peter Bailis
+, 
+Percy Liang
+, 
+Jure Leskovec
+, 
+Matei Zaharia
+
+","data selection
+active-learning
+core-set selection
+deep learning
+uncertainty sampling",we can significantly improve the computational efficiency of data selection in deep learning by using a much smaller proxy model to perform data selection.
+Global Relational Models of Source Code,"
+
+Vincent J. Hellendoorn
+, 
+Charles Sutton
+, 
+Rishabh Singh
+, 
+Petros Maniatis
+, 
+David Bieber
+
+","Models of Source Code
+Graph Neural Networks
+Structured Learning",Models of source code that combine global and structural features learn more powerful representations of programs.
+Detecting Extrapolation with Local Ensembles,"
+
+David Madras
+, 
+James Atwood
+, 
+Alexander D'Amour
+
+","extrapolation
+reliability
+influence functions
+laplace approximation
+ensembles
+Rashomon set","We present local ensembles, a method for detecting extrapolation in trained models, which approximates the variance of an ensemble using local-second order information."
+Learning to Link,"
+
+Maria-Florina Balcan
+, 
+Travis Dick
+, 
+Manuel Lang
+
+","Data-driven Algorithm Configuration
+Metric Learning
+Linkage Clustering
+Learning Algorithms",We show how to use data to automatically learn low-loss linkage procedures and metrics for specific clustering applications.
+Adversarially robust transfer learning,"
+
+Ali Shafahi
+, 
+Parsa Saadatpanah
+, 
+Chen Zhu
+, 
+Amin Ghiasi
+, 
+Christoph Studer
+, 
+David Jacobs
+, 
+Tom Goldstein
+
+",,Robust models have robust feature extractors which can be useful for transferring robustness to other domains
+Overlearning Reveals Sensitive Attributes,"
+
+Congzheng Song
+, 
+Vitaly Shmatikov
+
+","privacy
+censoring representation
+transfer learning","Overlearning means that a model trained for a seemingly simple objective implicitly learns to recognize attributes and concepts that are (1) not part of the learning objective, and (2) sensitive from a privacy or bias perspective."
+Bridging Mode Connectivity in Loss Landscapes and Adversarial Robustness,"
+
+Pu Zhao
+, 
+Pin-Yu Chen
+, 
+Payel Das
+, 
+Karthikeyan Natesan Ramamurthy
+, 
+Xue Lin
+
+","mode connectivity
+adversarial robustness
+backdoor attack
+error-injection attack
+evasion attacks
+loss landscapes","A novel approach using mode connectivity in loss landscapes to mitigate adversarial effects, repair tampered models, and evaluate adversarial robustness"
+Differentially Private Meta-Learning,"
+
+Jeffrey Li
+, 
+Mikhail Khodak
+, 
+Sebastian Caldas
+, 
+Ameet Talwalkar
+
+","Differential Privacy
+Meta-Learning
+Federated Learning",
+One-Shot Pruning of Recurrent Neural Networks by Jacobian Spectrum Evaluation,"
+
+Shunshi Zhang
+, 
+Bradly C. Stadie
+
+","Pruning
+RNNs
+Sparsity",New Objective for One-Shot Pruning Recurrent Neural Networks
+Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples,"
+
+Eleni Triantafillou
+, 
+Tyler Zhu
+, 
+Vincent Dumoulin
+, 
+Pascal Lamblin
+, 
+Utku Evci
+, 
+Kelvin Xu
+, 
+Ross Goroshin
+, 
+Carles Gelada
+, 
+Kevin Swersky
+, 
+Pierre-Antoine Manzagol
+, 
+Hugo Larochelle
+
+","few-shot learning
+meta-learning
+few-shot classification","We propose a new large-scale diverse environment for few-shot learning, and evaluate popular models' performance on it, revealing important research challenges."
+Are Transformers universal approximators of sequence-to-sequence functions?,"
+
+Chulhee Yun
+, 
+Srinadh Bhojanapalli
+, 
+Ankit Singh Rawat
+, 
+Sashank Reddi
+, 
+Sanjiv Kumar
+
+","Transformer
+universal approximation
+contextual mapping
+expressive power
+permutation equivariance",We prove that Transformer networks are universal approximators of sequence-to-sequence functions.
+Pre-training Tasks for Embedding-based Large-scale Retrieval,"
+
+Wei-Cheng Chang
+, 
+Felix X. Yu
+, 
+Yin-Wen Chang
+, 
+Yiming Yang
+, 
+Sanjiv Kumar
+
+","natural language processing
+large-scale retrieval
+unsupervised representation learning
+paragraph-level pre-training
+two-tower Transformer models",We consider large-scale retrieval problems such as question answering retrieval and present a comprehensive study of how different sentence level pre-training improving the BERT-style token-level pre-training for two-tower Transformer models.
+"Deep Imitative Models for Flexible Inference, Planning, and Control","
+
+Nicholas Rhinehart
+, 
+Rowan McAllister
+, 
+Sergey Levine
+
+","imitation learning
+planning
+autonomous driving","In this paper, we propose Imitative Models to combine the benefits of IL and goal-directed planning: probabilistic predictive models of desirable behavior able to plan interpretable expert-like trajectories to achieve specified goals."
+CM3: Cooperative Multi-goal Multi-stage Multi-agent Reinforcement Learning,"
+
+Jiachen Yang
+, 
+Alireza Nakhaei
+, 
+David Isele
+, 
+Kikuo Fujimura
+, 
+Hongyuan Zha
+
+",multi-agent reinforcement learning,"A modular method for fully cooperative multi-goal multi-agent reinforcement learning, based on curriculum learning for efficient exploration and credit assignment for action-goal interactions."
+Robust And Interpretable Blind Image Denoising Via Bias-Free Convolutional Neural Networks,"
+
+Sreyas Mohan
+, 
+Zahra Kadkhodaie
+, 
+Eero P. Simoncelli
+, 
+Carlos Fernandez-Granda
+
+","denoising
+overfitting
+generalization
+robustness
+interpretability
+analysis of neural networks","We show that removing constant terms from CNN architectures ensures strong generalization across noise levels, and also provides interpretability of the denoising method via linear-algebra techniques."
+Towards Better Understanding of Adaptive Gradient Algorithms in Generative Adversarial Nets,"
+
+Mingrui Liu
+, 
+Youssef Mroueh
+, 
+Jerret Ross
+, 
+Wei Zhang
+, 
+Xiaodong Cui
+, 
+Payel Das
+, 
+Tianbao Yang
+
+","Generative Adversarial Nets
+Adaptive Gradient Algorithms","This paper provides novel analysis of adaptive gradient algorithms for solving non-convex non-concave min-max problems as GANs, and explains the reason why adaptive gradient methods outperform its non-adaptive counterparts by empirical studies."
+DeepV2D: Video to Depth with Differentiable Structure from Motion,"
+
+Zachary Teed
+, 
+Jia Deng
+
+","Structure-from-Motion
+Video to Depth
+Dense Depth Estimation",DeepV2D predicts depth from a video clip by composing elements of classical SfM into a fully differentiable network.
+Learning Space Partitions for Nearest Neighbor Search,"
+
+Yihe Dong
+, 
+Piotr Indyk
+, 
+Ilya Razenshteyn
+, 
+Tal Wagner
+
+","space partition
+lsh
+locality sensitive hashing
+nearest neighbor search",We use supervised learning (and in particular deep learning) to produce better space partitions for fast nearest neighbor search.
+Playing the lottery with rewards and multiple languages: lottery tickets in RL and NLP,"
+
+Haonan Yu
+, 
+Sergey Edunov
+, 
+Yuandong Tian
+, 
+Ari S. Morcos
+
+","lottery tickets
+nlp
+transformer
+rl
+reinforcement learning","We find that the lottery ticket phenomenon is present in both NLP and RL, and find that it can be used to train compressed Transformers to high performance"
+Sign-OPT: A Query-Efficient Hard-label Adversarial Attack,"
+
+Minhao Cheng
+, 
+Simranjit Singh
+, 
+Patrick H. Chen
+, 
+Pin-Yu Chen
+, 
+Sijia Liu
+, 
+Cho-Jui Hsieh
+
+",,
+RaCT: Toward Amortized Ranking-Critical Training For Collaborative Filtering,"
+
+Sam Lobel*
+, 
+Chunyuan Li*
+, 
+Jianfeng Gao
+, 
+Lawrence Carin
+
+","Collaborative Filtering
+Recommender Systems
+Actor-Critic
+Learned Metrics","We apply the actor-critic methodology from reinforcement learning to collaborative filtering, resulting in improved performance across a variety of latent-variable models"
+Intrinsic Motivation for Encouraging Synergistic Behavior,"
+
+Rohan Chitnis
+, 
+Shubham Tulsiani
+, 
+Saurabh Gupta
+, 
+Abhinav Gupta
+
+","reinforcement learning
+intrinsic motivation
+synergistic
+robot manipulation","We propose a formulation of intrinsic motivation that is suitable as an exploration bias in synergistic multi-agent tasks, by encouraging agents to affect the world in ways that would not be achieved if they were acting individually."
+Chameleon: Adaptive Code Optimization for Expedited Deep Neural Network Compilation,"
+
+Byung Hoon Ahn
+, 
+Prannoy Pilligundla
+, 
+Amir Yazdanbakhsh
+, 
+Hadi Esmaeilzadeh
+
+","Reinforcement Learning
+Learning to Optimize
+Combinatorial Optimization
+Compilers
+Code Optimization
+Neural Networks
+ML for Systems
+Learning for Systems",Reinforcement Learning and Adaptive Sampling for Optimized Compilation of Deep Neural Networks.
+Recurrent neural circuits for contour detection,"
+
+Drew Linsley*
+, 
+Junkyung Kim*
+, 
+Alekh Ashok
+, 
+Thomas Serre
+
+","Contextual illusions
+visual cortex
+recurrent feedback
+neural circuits","Contextual illusions are a feature, not a bug, of neural routines optimized for contour detection."
+Locality and Compositionality in Zero-Shot Learning,"
+
+Tristan Sylvain
+, 
+Linda Petrini
+, 
+Devon Hjelm
+
+","Zero-shot learning
+Compositionality
+Locality
+Deep Learning",An analysis of the effects of compositionality and locality on representation learning for zero-shot learning.
+Understanding Knowledge Distillation in Non-autoregressive Machine Translation,"
+
+Chunting Zhou
+, 
+Jiatao Gu
+, 
+Graham Neubig
+
+","knowledge distillation
+non-autoregressive neural machine translation","We systematically examine why knowledge distillation is crucial to the training of non-autoregressive translation (NAT) models, and propose methods to further improve the distilled data to best match the capacity of an NAT model."
+Thieves on Sesame Street! Model Extraction of BERT-based APIs,"
+
+Kalpesh Krishna
+, 
+Gaurav Singh Tomar
+, 
+Ankur P. Parikh
+, 
+Nicolas Papernot
+, 
+Mohit Iyyer
+
+","model extraction
+BERT
+natural language processing
+pretraining language models
+model stealing
+deep learning security","Outputs of modern NLP APIs on nonsensical text provide strong signals about model internals, allowing adversaries to steal the APIs."
+Fast is better than free: Revisiting adversarial training,"
+
+Eric Wong
+, 
+Leslie Rice
+, 
+J. Zico Kolter
+
+","adversarial examples
+adversarial training
+fast gradient sign method","FGSM-based adversarial training, with randomization, works just as well as PGD-based adversarial training: we can use this to train a robust classifier in 6 minutes on CIFAR10, and 12 hours on ImageNet, on a single machine."
+DBA: Distributed Backdoor Attacks against Federated Learning,"
+
+Chulin Xie
+, 
+Keli Huang
+, 
+Pin-Yu Chen
+, 
+Bo Li
+
+","distributed backdoor attack
+federated learning","We proposed a novel distributed backdoor attack on federated learning and show that it is not only more effective compared with standard centralized attacks, but also harder to be defended by existing robust FL methods"
+DeFINE: Deep Factorized Input Token Embeddings for Neural Sequence Modeling,"
+
+Sachin Mehta
+, 
+Rik Koncel-Kedziorski
+, 
+Mohammad Rastegari
+, 
+Hannaneh Hajishirzi
+
+","sequence modeling
+input representations
+language modeling
+word embedding","DeFINE uses a deep, hierarchical, sparse network with new skip connections to learn better word embeddings efficiently. "
+Sampling-Free Learning of Bayesian Quantized Neural Networks,"
+
+Jiahao Su
+, 
+Milan Cvitkovic
+, 
+Furong Huang
+
+","Bayesian neural networks
+Quantized neural networks","We propose Bayesian quantized networks, for which we learn a posterior distribution over their quantized parameters."
+Learning to solve the credit assignment problem,"
+
+Benjamin James Lansdell
+, 
+Prashanth Ravi Prakash
+, 
+Konrad Paul Kording
+
+","biologically plausible deep learning
+node perturbation
+REINFORCE
+synthetic gradients
+feedback alignment",Perturbations can be used to train feedback weights to learn in fully connected and convolutional neural networks
+Four Things Everyone Should Know to Improve Batch Normalization,"
+
+Cecilia Summers
+, 
+Michael J. Dinneen
+
+",batch normalization,Four things that improve batch normalization across all batch sizes
+Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving,"
+
+Yurong You
+, 
+Yan Wang
+, 
+Wei-Lun Chao
+, 
+Divyansh Garg
+, 
+Geoff Pleiss
+, 
+Bharath Hariharan
+, 
+Mark Campbell
+, 
+Kilian Q. Weinberger
+
+","pseudo-LiDAR
+3D-object detection
+stereo depth estimation
+autonomous driving",
+SlowMo: Improving Communication-Efficient Distributed SGD with Slow Momentum,"
+
+Jianyu Wang
+, 
+Vinayak Tantia
+, 
+Nicolas Ballas
+, 
+Michael Rabbat
+
+","distributed optimization
+decentralized training methods
+communication-efficient distributed training with momentum
+large-scale parallel SGD",SlowMo improves the optimization and generalization performance of communication-efficient decentralized algorithms without sacrificing speed.
+MetaPix: Few-Shot Video Retargeting,"
+
+Jessica Lee
+, 
+Deva Ramanan
+, 
+Rohit Girdhar
+
+","Meta-learning
+Few-shot Learning
+Generative Adversarial Networks
+Video Retargeting","Video retargeting typically requires large amount of target data to be effective, which may not always be available; we propose a metalearning approach that improves over popular baselines while producing temporally coherent frames."
+Learning to Learn by Zeroth-Order Oracle,"
+
+Yangjun Ruan
+, 
+Yuanhao Xiong
+, 
+Sashank Reddi
+, 
+Sanjiv Kumar
+, 
+Cho-Jui Hsieh
+
+","learning to learn
+zeroth-order optimization
+black-box adversarial attack",Novel variant of learning to learn framework for zeroth-order optimization that learns both the update rule and the Gaussian sampling rule.
+DD-PPO: Learning Near-Perfect PointGoal Navigators from 2.5 Billion Frames,"
+
+Erik Wijmans
+, 
+Abhishek Kadian
+, 
+Ari Morcos
+, 
+Stefan Lee
+, 
+Irfan Essa
+, 
+Devi Parikh
+, 
+Manolis Savva
+, 
+Dhruv Batra
+
+","autonomous navigation
+habitat
+embodied AI
+pointgoal navigation
+reinforcement learning",
+PAC Confidence Sets for Deep Neural Networks via Calibrated Prediction,"
+
+Sangdon Park
+, 
+Osbert Bastani
+, 
+Nikolai Matni
+, 
+Insup Lee
+
+","PAC
+confidence sets
+classification
+regression
+reinforcement learning",
+Precision Gating: Improving Neural Network Efficiency with Dynamic Dual-Precision Activations,"
+
+Yichi Zhang
+, 
+Ritchie Zhao
+, 
+Weizhe Hua
+, 
+Nayun Xu
+, 
+G. Edward Suh
+, 
+Zhiru Zhang
+
+","deep learning
+neural network
+dynamic quantization
+dual precision
+efficient gating","We propose precision gating (PG), an end-to-end trainable dynamic dual-precision quantization technique for deep neural networks."
+Oblique Decision Trees from Derivatives of ReLU Networks,"
+
+Guang-He Lee
+, 
+Tommi S. Jaakkola
+
+","oblique decision trees
+ReLU networks",A novel neural architecture which implicitly realizes (oblique) decision trees.
+Span Recovery for Deep Neural Networks with Applications to Input Obfuscation,"
+
+Rajesh Jayaram
+, 
+David P. Woodruff
+, 
+Qiuyi Zhang
+
+","Span recovery
+low rank neural networks
+adversarial attack",We provably recover the span of a deep multi-layered neural network with latent structure and empirically apply efficient span recovery algorithms to attack networks by obfuscating inputs.
+Improving Neural Language Generation with Spectrum Control,"
+
+Lingxiao Wang
+, 
+Jing Huang
+, 
+Kevin Huang
+, 
+Ziniu Hu
+, 
+Guangtao Wang
+, 
+Quanquan Gu
+
+",,
+Learn to Explain Efficiently via Neural Logic Inductive Learning,"
+
+Yuan Yang
+, 
+Le Song
+
+","inductive logic programming
+interpretability
+attention",An efficient differentiable ILP model that learns first-order logic rules that can explain the data.
+Improved memory in recurrent neural networks with sequential non-normal dynamics,"
+
+Emin Orhan
+, 
+Xaq Pitkow
+
+","recurrent neural networks
+memory
+non-normal dynamics","a feedforward, chain-like motif (1->2->3->...) is proposed as a useful inductive bias for better memory in RNNs."
+Neural Module Networks for Reasoning over Text,"
+
+Nitish Gupta
+, 
+Kevin Lin
+, 
+Dan Roth
+, 
+Sameer Singh
+, 
+Matt Gardner
+
+","question answering
+compositionality
+neural module networks
+multi-step reasoning
+reading comprehension",This paper extends neural module networks to answer compositional questions against text by introducing differentiable modules that perform reasoning over text and symbols in a probabilistic manner.
+Higher-Order Function Networks for Learning Composable 3D Object Representations,"
+
+Eric Mitchell
+, 
+Selim Engin
+, 
+Volkan Isler
+, 
+Daniel D Lee
+
+","computer vision
+3d reconstruction
+deep learning
+representation learning",Neural nets can encode complex 3D objects into the parameters of other (surprisingly small) neural nets
+Variational Hetero-Encoder Randomized GANs for Joint Image-Text Modeling,"
+
+Hao Zhang
+, 
+Bo Chen
+, 
+Long Tian
+, 
+Zhengjue Wang
+, 
+Mingyuan Zhou
+
+","Deep topic model
+image generation
+text generation
+raster-scan-GAN
+zero-shot learning","A novel Bayesian deep learning framework that captures and relates hierarchical semantic and visual concepts, performing well on a variety of image and text modeling and generation tasks."
+Towards Fast Adaptation of Neural Architectures with Meta Learning,"
+
+Dongze Lian
+, 
+Yin Zheng
+, 
+Yintao Xu
+, 
+Yanxiong Lu
+, 
+Leyu Lin
+, 
+Peilin Zhao
+, 
+Junzhou Huang
+, 
+Shenghua Gao
+
+","Fast adaptation
+Meta learning
+NAS",A meta-learning method for fast adaptation of neural architectures.
+Graph Constrained Reinforcement Learning for Natural Language Action Spaces,"
+
+Prithviraj Ammanabrolu
+, 
+Matthew Hausknecht
+
+","natural language generation
+deep reinforcement learning
+knowledge graphs
+interactive fiction","We present KG-A2C, a reinforcement learning agent that builds a dynamic knowledge graph while exploring and generates natural language using a template-based action space - outperforming all current agents on a wide set of text-based games."
+"Prediction, Consistency, Curvature: Representation Learning for Locally-Linear Control","
+
+Nir Levine
+, 
+Yinlam Chow
+, 
+Rui Shu
+, 
+Ang Li
+, 
+Mohammad Ghavamzadeh
+, 
+Hung Bui
+
+","Embed-to-Control
+Representation Learning
+Stochastic Optimal Control
+VAE
+iLQR",Learning embedding for control with high-dimensional observations
+Augmenting Non-Collaborative Dialog Systems with Explicit Semantic and Strategic Dialog History,"
+
+Yiheng Zhou
+, 
+Yulia Tsvetkov
+, 
+Alan W Black
+, 
+Zhou Yu
+
+","dialog systems
+history tracking",
+BERTScore: Evaluating Text Generation with BERT,"
+
+Tianyi Zhang*
+, 
+Varsha Kishore*
+, 
+Felix Wu*
+, 
+Kilian Q. Weinberger
+, 
+Yoav Artzi
+
+","Metric
+Evaluation
+Contextual Embedding
+Text Generation","We propose BERTScore, an automatic evaluation metric for text generation, which correlates better with human judgments and provides stronger model selection performance than existing metrics."
+Neural Execution of Graph Algorithms,"
+
+Petar Veličković
+, 
+Rex Ying
+, 
+Matilde Padovano
+, 
+Raia Hadsell
+, 
+Charles Blundell
+
+","Graph Neural Networks
+Graph Algorithms
+Learning to Execute
+Program Synthesis
+Message Passing Neural Networks
+Deep Learning","We supervise graph neural networks to imitate intermediate and step-wise outputs of classical graph algorithms, recovering highly favourable insights."
+On the Need for Topology-Aware Generative Models for Manifold-Based Defenses,"
+
+Uyeong Jang
+, 
+Susmit Jha
+, 
+Somesh Jha
+
+","Manifold-based Defense
+Robust Learning
+Adversarial Attacks",
+FSNet: Compression of Deep Convolutional Neural Networks by Filter Summary,"
+
+Yingzhen Yang
+, 
+Jiahui Yu
+, 
+Nebojsa Jojic
+, 
+Jun Huan
+, 
+Thomas S. Huang
+
+","Compression of Convolutional Neural Networks
+Filter Summary CNNs
+Weight Sharing",We present a novel method of compression of deep Convolutional Neural Networks (CNNs) by weight sharing through a new representation of convolutional filters.
+Capsules with Inverted Dot-Product Attention Routing,"
+
+Yao-Hung Hubert Tsai
+, 
+Nitish Srivastava
+, 
+Hanlin Goh
+, 
+Ruslan Salakhutdinov
+
+","capsule networks
+routing
+attention","We present a new routing method for Capsule networks, and it performs at-par with ResNet-18 on CIFAR-10/ CIFAR-100."
+Composition-based Multi-Relational Graph Convolutional Networks,"
+
+Shikhar Vashishth
+, 
+Soumya Sanyal
+, 
+Vikram Nitin
+, 
+Partha Talukdar
+
+","Graph Convolutional Networks
+Multi-relational Graphs
+Knowledge Graph Embeddings
+Link Prediction",A Composition-based Graph Convolutional framework for multi-relational graphs.
+Gradient-Based Neural DAG Learning,"
+
+Sébastien Lachapelle
+, 
+Philippe Brouillard
+, 
+Tristan Deleu
+, 
+Simon Lacoste-Julien
+
+","Structure Learning
+Causality
+Density estimation",We are proposing a new score-based approach to structure/causal learning leveraging neural networks and a recent continuous constrained formulation to this problem
+The Local Elasticity of Neural Networks,"
+
+Hangfeng He
+, 
+Weijie Su
+
+",,
+Composing Task-Agnostic Policies with Deep Reinforcement Learning,"
+
+Ahmed H. Qureshi
+, 
+Jacob J. Johnson
+, 
+Yuzhe Qin
+, 
+Taylor Henderson
+, 
+Byron Boots
+, 
+Michael C. Yip
+
+","composition
+transfer learning
+deep reinforcement learning",We propose a novel reinforcement learning-based skill transfer and composition method that takes the agent's primitive policies to solve unseen tasks.
+Convergence of Gradient Methods on Bilinear Zero-Sum Games,"
+
+Guojun Zhang
+, 
+Yaoliang Yu
+
+","GAN
+gradient algorithm
+convergence
+min-max optimization
+bilinear game","We systematically analyze the convergence of popular gradient algorithms for solving bilinear games, with both simultaneous and alternating updates."
+Discovering Motor Programs by Recomposing Demonstrations,"
+
+Tanmay Shankar
+, 
+Shubham Tulsiani
+, 
+Lerrel Pinto
+, 
+Abhinav Gupta
+
+","Learning from Demonstration
+Imitation Learning
+Motor Primitives","We learn a space of motor primitives from unannotated robot demonstrations, and show these primitives are semantically meaningful and can be composed for new robot tasks."
+Learning from Explanations with Neural Execution Tree,"
+
+Ziqi Wang*
+, 
+Yujia Qin*
+, 
+Wenxuan Zhou
+, 
+Jun Yan
+, 
+Qinyuan Ye
+, 
+Leonardo Neves
+, 
+Zhiyuan Liu
+, 
+Xiang Ren
+
+",,
+Jelly Bean World: A Testbed for Never-Ending Learning,"
+
+Emmanouil Antonios Platanios
+, 
+Abulhair Saparov
+, 
+Tom Mitchell
+
+",,
+Coherent Gradients: An Approach to Understanding Generalization in Gradient Descent-based Optimization,"
+
+Satrajit Chatterjee
+
+","generalization
+deep learning",We propose a hypothesis for why gradient descent generalizes based on how per-example gradients interact with each other.
+Probabilistic Connection Importance Inference and Lossless Compression of Deep Neural Networks,"
+
+Xin Xing
+, 
+Long Sha
+, 
+Pengyu Hong
+, 
+Zuofeng Shang
+, 
+Jun S. Liu
+
+",,
+MEMO: A Deep Network for Flexible Combination of Episodic Memories,"
+
+Andrea Banino
+, 
+Adrià Puigdomènech Badia
+, 
+Raphael Köster
+, 
+Martin J. Chadwick
+, 
+Vinicius Zambaldi
+, 
+Demis Hassabis
+, 
+Caswell Barry
+, 
+Matthew Botvinick
+, 
+Dharshan Kumaran
+, 
+Charles Blundell
+
+","Memory Augmented Neural Networks
+Deep Learning",A memory architecture that support inferential reasoning.
+Economy Statistical Recurrent Units For Inferring Nonlinear Granger Causality,"
+
+Saurabh Khanna
+, 
+Vincent Y. F. Tan
+
+","Recurrent neural networks
+Granger causality
+Causal inference
+Statistical Recurrent Unit",A new recurrent neural network architecture for detecting pairwise Granger causality between nonlinearly interacting time series. 
+Bayesian Meta Sampling for Fast Uncertainty Adaptation,"
+
+Zhenyi Wang
+, 
+Yang Zhao
+, 
+Ping Yu
+, 
+Ruiyi Zhang
+, 
+Changyou Chen
+
+","Bayesian Sampling
+Uncertainty Adaptation
+Meta Learning
+Variational Inference",We proposed a Bayesian meta sampling method for adapting the model uncertainty in meta learning
+Non-Autoregressive Dialog State Tracking,"
+
+Hung Le
+, 
+Richard Socher
+, 
+Steven C.H. Hoi
+
+","task-oriented
+dialogues
+dialogue state tracking
+non-autoregressive","We propose the first non-autoregressive neural model for Dialogue State Tracking (DST), achieving the SOTA accuracy (49.04%) on MultiWOZ2.1 benchmark, and reducing inference latency by an order of magnitude."
+Extreme Tensoring for Low-Memory Preconditioning,"
+
+Xinyi Chen
+, 
+Naman Agarwal
+, 
+Elad Hazan
+, 
+Cyril Zhang
+, 
+Yi Zhang
+
+","optimization
+deep learning",
+RNNs Incrementally Evolving on an Equilibrium Manifold: A Panacea for Vanishing and Exploding Gradients?,"
+
+Anil Kag
+, 
+Ziming Zhang
+, 
+Venkatesh Saligrama
+
+","novel recurrent neural architectures
+learning representations of outputs or states",Incremental-RNNs resolves exploding/vanishing gradient problem by updating state vectors based on difference between previous state and that predicted by an ODE.
+The Early Phase of Neural Network Training,"
+
+Jonathan Frankle
+, 
+David J. Schwab
+, 
+Ari S. Morcos
+
+","empirical
+learning dynamics
+lottery tickets
+critical periods
+early","We thoroughly investigate neural network learning dynamics over the early phase of training, finding that these changes are crucial and difficult to approximate, though extended pretraining can recover them."
+NeurQuRI: Neural Question Requirement Inspector for Answerability Prediction in Machine Reading Comprehension,"
+
+Seohyun Back
+, 
+Sai Chetan Chinthakindi
+, 
+Akhil Kedia
+, 
+Haejun Lee
+, 
+Jaegul Choo
+
+","Question Answering
+Machine Reading Comprehension
+Answerability Prediction
+Neural Checklist","We propose a neural question requirement inspection model called NeurQuRI that extracts a list of conditions from the question, each of which should be satisfied by the candidate answer generated by an MRC model."
+Towards Stabilizing Batch Statistics in Backward Propagation of Batch Normalization,"
+
+Junjie Yan
+, 
+Ruosi Wan
+, 
+Xiangyu Zhang
+, 
+Wei Zhang
+, 
+Yichen Wei
+, 
+Jian Sun
+
+","batch normalization
+small batch size
+backward propagation",We propose a novel normalization method to handle small batch size cases.
+Single Episode Policy Transfer in Reinforcement Learning,"
+
+Jiachen Yang
+, 
+Brenden Petersen
+, 
+Hongyuan Zha
+, 
+Daniel Faissol
+
+","transfer learning
+reinforcement learning","Single episode policy transfer in a family of environments with related dynamics, via optimized probing for rapid inference of latent variables and immediate execution of a universal policy."
+Generalization through Memorization: Nearest Neighbor Language Models,"
+
+Urvashi Khandelwal
+, 
+Omer Levy
+, 
+Dan Jurafsky
+, 
+Luke Zettlemoyer
+, 
+Mike Lewis
+
+","language models
+k-nearest neighbors","We extend a pre-trained neural language model by linearly interpolating it with a k-nearest neighbors model, achieving new state-of-the-art results on Wikitext-103 with no additional training."
+Transformer-XH: Multi-Evidence Reasoning with eXtra Hop Attention,"
+
+Chen Zhao
+, 
+Chenyan Xiong
+, 
+Corby Rosset
+, 
+Xia Song
+, 
+Paul Bennett
+, 
+Saurabh Tiwary
+
+","Transformer-XH
+multi-hop QA
+fact verification
+extra hop attention
+structured modeling","We present Transformer-XH, which upgrades Transformer with eXtra Hop attentions to intrinsically model structured texts in a data driven way. "
+Synthesizing Programmatic Policies that Inductively Generalize,"
+
+Jeevana Priya Inala
+, 
+Osbert Bastani
+, 
+Zenna Tavares
+, 
+Armando Solar-Lezama
+
+","Program synthesis
+reinforcement learning
+inductive generalization",An approach to learn program policies for control tasks that inductively generalize. 
+Decoding As Dynamic Programming For Recurrent Autoregressive Models,"
+
+Najam Zaidi
+, 
+Trevor Cohn
+, 
+Gholamreza Haffari
+
+",Decoding,Approximate inference using dynamic programming for Autoregressive models.
+Deep Double Descent: Where Bigger Models and More Data Hurt,"
+
+Preetum Nakkiran
+, 
+Gal Kaplun
+, 
+Yamini Bansal
+, 
+Tristan Yang
+, 
+Boaz Barak
+, 
+Ilya Sutskever
+
+","deep learning
+double descent
+optimization
+SGD
+complexity","We demonstrate, and characterize, realistic settings where bigger models are worse, and more data hurts."
+Intriguing Properties of Adversarial Training at Scale,"
+
+Cihang Xie
+, 
+Alan Yuille
+
+","adversarial defense
+adversarial machine learning",The first rigor diagnose of large-scale adversarial training on ImageNet
+Shifted and Squeezed 8-bit Floating Point format for Low-Precision Training of Deep Neural Networks,"
+
+Leopold Cambier
+, 
+Anahita Bhiwandiwalla
+, 
+Ting Gong
+, 
+Oguz H. Elibol
+, 
+Mehran Nekuii
+, 
+Hanlin Tang
+
+","Low-precision training
+numerics
+deep learning","We propose a novel 8-bit format that eliminates the need for loss scaling, stochastic rounding, and other low precision techniques"
+Distributed Bandit Learning: Near-Optimal Regret with Efficient Communication,"
+
+Yuanhao Wang
+, 
+Jiachen Hu
+, 
+Xiaoyu Chen
+, 
+Liwei Wang
+
+","Theory
+Bandit Algorithms
+Communication Efficiency",
+Biologically inspired sleep algorithm for increased generalization and adversarial robustness in deep neural networks,"
+
+Timothy Tadros
+, 
+Giri Krishnan
+, 
+Ramyaa Ramyaa
+, 
+Maxim Bazhenov
+
+","Adversarial Robustness
+Generalization
+Neural Computing
+Deep Learning",We describe a biologically inspired sleep algorithm for increasing an artificial neural network's ability to extract the gist of a training set and exhibit increased robustness to adversarial attacks and general distortions.
+A Closer Look at the Optimization Landscapes of Generative Adversarial Networks,"
+
+Hugo Berard
+, 
+Gauthier Gidel
+, 
+Amjad Almahairi
+, 
+Pascal Vincent
+, 
+Simon Lacoste-Julien
+
+","Deep Learning
+Generative models
+GANs
+Optimization
+Visualization","By proposing new visualization techniques we give better insights on GANs optimization in practical settings, we show that GANs on challenging datasets exhibit rotational behavior and do not converge to Nash-Equilibria"
+On the Global Convergence of Training Deep Linear ResNets,"
+
+Difan Zou
+, 
+Philip M. Long
+, 
+Quanquan Gu
+
+",,"Under certain condition on the input and output linear transformations, both GD and SGD can achieve global convergence for training deep linear ResNets."
+Towards a Deep Network Architecture for Structured Smoothness,"
+
+Haroun Habeeb
+, 
+Oluwasanmi Koyejo
+
+",,A feedforward layer to incorporate structured smoothness into a deep learning model
+Revisiting Self-Training for Neural Sequence Generation,"
+
+Junxian He
+, 
+Jiatao Gu
+, 
+Jiajun Shen
+, 
+Marc'Aurelio Ranzato
+
+","self-training
+semi-supervised learning
+neural sequence generatioin","We revisit self-training as a semi-supervised learning method for neural sequence generation problem, and show that self-training can be quite successful with injected noise."
+Denoising and Regularization via Exploiting the Structural Bias of Convolutional Generators,"
+
+Reinhard Heckel and Mahdi Soltanolkotabi
+
+","theory for deep learning
+convolutional network
+deep image prior
+deep decoder
+dynamics of gradient descent
+overparameterization",
+Variational Autoencoders for Highly Multivariate Spatial Point Processes Intensities,"
+
+Baichuan Yuan
+, 
+Xiaowei Wang
+, 
+Jianxin Ma
+, 
+Chang Zhou
+, 
+Andrea L. Bertozzi
+, 
+Hongxia Yang
+
+","VAE
+collaborative filtering
+recommender systems
+spatial point process",
+Model-Augmented Actor-Critic: Backpropagating through Paths,"
+
+Ignasi Clavera
+, 
+Yao Fu
+, 
+Pieter Abbeel
+
+","reinforcement learning
+model-based
+actor-critic
+pathwise",Policy gradient through backpropagation through time using learned models and Q-functions. SOTA results in reinforcement learning benchmark environments.
+LambdaNet: Probabilistic Type Inference using Graph Neural Networks,"
+
+Jiayi Wei
+, 
+Maruth Goyal
+, 
+Greg Durrett
+, 
+Isil Dillig
+
+","Type inference
+Graph neural network
+Programming languages
+Pointer network","We have presented LambdaNet, a neural architecture for type inference that combines the strength of explicit program analysis with graph neural networks."
+From Inference to Generation: End-to-end Fully Self-supervised Generation of Human Face from Speech,"
+
+Hyeong-Seok Choi
+, 
+Changdae Park
+, 
+Kyogu Lee
+
+","Multi-modal learning
+Self-supervised learning
+Voice profiling
+Conditional GANs",This paper proposes a method of end-to-end multi-modal generation of human face from speech based on a self-supervised learning framework.
+Learning from Unlabelled Videos Using Contrastive Predictive Neural 3D Mapping,"
+
+Adam W. Harley
+, 
+Shrinidhi K. Lakshmikanth
+, 
+Fangyu Li
+, 
+Xian Zhou
+, 
+Hsiao-Yu Fish Tung
+, 
+Katerina Fragkiadaki
+
+","3D feature learning
+unsupervised learning
+inverse graphics
+object discovery","We show that with the right loss and architecture, view-predictive learning improves 3D object detection"
+Decoupling Representation and Classifier for Long-Tailed Recognition,"
+
+Bingyi Kang
+, 
+Saining Xie
+, 
+Marcus Rohrbach
+, 
+Zhicheng Yan
+, 
+Albert Gordo
+, 
+Jiashi Feng
+, 
+Yannis Kalantidis
+
+","long-tailed recognition
+classification",
+Robust Reinforcement Learning for Continuous Control with Model Misspecification,"
+
+Daniel J. Mankowitz
+, 
+Nir Levine
+, 
+Rae Jeong
+, 
+Abbas Abdolmaleki
+, 
+Jost Tobias Springenberg
+, 
+Yuanyuan Shi
+, 
+Jackie Kay
+, 
+Todd Hester
+, 
+Timothy Mann
+, 
+Martin Riedmiller
+
+","reinforcement learning
+robustness",A framework for incorporating robustness to model misspecification into continuous control Reinforcement Learning algorithms.
+Cross-lingual Alignment vs Joint Training: A Comparative Study and A Simple Unified Framework,"
+
+Zirui Wang*
+, 
+Jiateng Xie*
+, 
+Ruochen Xu
+, 
+Yiming Yang
+, 
+Graham Neubig
+, 
+Jaime G. Carbonell
+
+",Cross-lingual Representation,We conduct a comparative study of cross-lingual alignment vs joint training methods and unify these two previously exclusive paradigms in a new framework. 
+Training Recurrent Neural Networks Online by Learning Explicit State Variables,"
+
+Somjit Nath
+, 
+Vincent Liu
+, 
+Alan Chan
+, 
+Xin Li
+, 
+Adam White
+, 
+Martha White
+
+","Recurrent Neural Network
+Partial Observability
+Online Prediction
+Incremental Learning",
+Uncertainty-guided Continual Learning with Bayesian Neural Networks,"
+
+Sayna Ebrahimi
+, 
+Mohamed Elhoseiny
+, 
+Trevor Darrell
+, 
+Marcus Rohrbach
+
+","continual learning
+catastrophic forgetting",A regularization-based approach for continual learning using Bayesian neural networks to predict parameters' importance
+Curriculum Loss: Robust Learning and Generalization against Label Corruption,"
+
+Yueming Lyu
+, 
+Ivor W. Tsang
+
+","Curriculum Learning
+deep learning",A novel loss bridges curriculum learning and robust learning
+Picking Winning Tickets Before Training by Preserving Gradient Flow,"
+
+Chaoqi Wang
+, 
+Guodong Zhang
+, 
+Roger Grosse
+
+","neural network
+pruning before training
+weight pruning",We introduced a pruning criterion for pruning networks before training by preserving gradient flow.
+"Generative Models for Effective ML on Private, Decentralized Datasets","
+
+Sean Augenstein
+, 
+H. Brendan McMahan
+, 
+Daniel Ramage
+, 
+Swaroop Ramaswamy
+, 
+Peter Kairouz
+, 
+Mingqing Chen
+, 
+Rajiv Mathews
+, 
+Blaise Aguera y Arcas
+
+","generative models
+federated learning
+decentralized learning
+differential privacy
+privacy
+security
+GAN","Generative Models + Federated Learning + Differential Privacy gives data scientists a way to analyze private, decentralized data (e.g., on mobile devices) where direct inspection is prohibited."
+Inductive representation learning on temporal graphs,"
+
+da Xu
+, 
+chuanwei ruan
+, 
+evren korpeoglu
+, 
+sushant kumar
+, 
+kannan achan
+
+","temporal graph
+inductive representation learning
+functional time encoding
+self-attention",
+BatchEnsemble: an Alternative Approach to Efficient Ensemble and Lifelong Learning,"
+
+Yeming Wen
+, 
+Dustin Tran
+, 
+Jimmy Ba
+
+","deep learning
+ensembles","We introduced BatchEnsemble, an efficient method for ensembling and lifelong learning which can be used to improve the accuracy and uncertainty of any neural network like typical ensemble methods."
+Towards neural networks that provably know when they don't know,"
+
+Alexander Meinke
+, 
+Matthias Hein
+
+",,
+Iterative energy-based projection on a normal data manifold for anomaly localization,"
+
+David Dehaene
+, 
+Oriel Frigo
+, 
+Sébastien Combrexelle
+, 
+Pierre Eline
+
+","deep learning
+visual inspection
+unsupervised anomaly detection
+anomaly localization
+autoencoder
+variational autoencoder
+gradient descent
+inpainting",We use gradient descent on a regularized autoencoder loss to correct anomalous images.
+Towards Stable and Efficient Training of Verifiably Robust Neural Networks,"
+
+Huan Zhang
+, 
+Hongge Chen
+, 
+Chaowei Xiao
+, 
+Sven Gowal
+, 
+Robert Stanforth
+, 
+Bo Li
+, 
+Duane Boning
+, 
+Cho-Jui Hsieh
+
+","Robust Neural Networks
+Verifiable Training
+Certified Adversarial Defense","We propose a new certified adversarial training method, CROWN-IBP, that achieves state-of-the-art robustness for L_inf norm adversarial perturbations."
+Frequency-based Search-control in Dyna,"
+
+Yangchen Pan
+, 
+Jincheng Mei
+, 
+Amir-massoud Farahmand
+
+","Model-based reinforcement learning
+search-control
+Dyna
+frequency of a signal",Acquire states from high frequency region for search-control in Dyna.
+Learning representations for binary-classification without backpropagation,"
+
+Mathias Lechner
+
+","feedback alignment
+alternatives to backpropagation
+biologically motivated learning algorithms",First feedback alignment algorithm with provable learning guarantees for networks with single output neuron
+Polylogarithmic width suffices for gradient descent to achieve arbitrarily small test error with shallow ReLU networks,"
+
+Ziwei Ji
+, 
+Matus Telgarsky
+
+","neural tangent kernel
+polylogarithmic width
+test error
+gradient descent
+classification",
+Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics,"
+
+Sungyong Seo*
+, 
+Chuizheng Meng*
+, 
+Yan Liu
+
+","physics-aware learning
+spatial difference operators
+sparsely-observed dynamics",We propose physics-aware difference graph networks designed to effectively learn spatial differences to modeling sparsely-observed dynamics.
+HiLLoC: lossless image compression with hierarchical latent variable models,"
+
+James Townsend
+, 
+Thomas Bird
+, 
+Julius Kunze
+, 
+David Barber
+
+","compression
+variational inference
+lossless compression
+deep latent variable models","We scale up lossless compression with latent variables, achieving state of the art on full-size ImageNet images."
+IMPACT: Importance Weighted Asynchronous Architectures with Clipped Target Networks,"
+
+Michael Luo
+, 
+Jiahao Yao
+, 
+Richard Liaw
+, 
+Eric Liang
+, 
+Ion Stoica
+
+","Reinforcement Learning
+Artificial Intelligence
+Distributed Computing
+Neural Networks",IMPACT helps RL agents train faster by decreasing training wall-clock time and increasing sample efficiency simultaneously.
+On Bonus Based Exploration Methods In The Arcade Learning Environment,"
+
+Adrien Ali Taiga
+, 
+William Fedus
+, 
+Marlos C. Machado
+, 
+Aaron Courville
+, 
+Marc G. Bellemare
+
+","exploration
+arcade learning environment
+bonus-based methods",We find that existing bonus-based exploration methods have not been able to address the exploration-exploitation trade-off in the Arcade Learning Environment. 
+Adaptive Correlated Monte Carlo for Contextual Categorical Sequence Generation,"
+
+Xinjie Fan
+, 
+Yizhe Zhang
+, 
+Zhendong Wang
+, 
+Mingyuan Zhou
+
+","binary softmax
+discrete variables
+policy gradient
+pseudo actions
+reinforcement learning
+variance reduction",
+Smoothness and Stability in GANs,"
+
+Casey Chu
+, 
+Kentaro Minami
+, 
+Kenji Fukumizu
+
+","generative adversarial networks
+stability
+smoothness
+convex conjugate",We develop a principled theoretical framework for understanding and enforcing the stability of various types of GANs
+SNOW: Subscribing to Knowledge via Channel Pooling for Transfer & Lifelong Learning of Convolutional Neural Networks,"
+
+Chungkuk Yoo
+, 
+Bumsoo Kang
+, 
+Minsik Cho
+
+","channel pooling
+efficient training and inferencing
+lifelong learning
+transfer learning
+multi task","We propose SNOW, an efficient way of transfer and lifelong learning by subscribing knowledge of a source model for new tasks through a novel channel pooling block."
+Empirical Studies on the Properties of Linear Regions in Deep Neural Networks,"
+
+Xiao Zhang
+, 
+Dongrui Wu
+
+","deep learning
+linear region
+optimization",
+Black-box Off-policy Estimation for Infinite-Horizon Reinforcement Learning,"
+
+Ali Mousavi
+, 
+Lihong Li
+, 
+Qiang Liu
+, 
+Denny Zhou
+
+","reinforcement learning
+off-policy estimation
+importance sampling
+propensity score",We present a novel approach for the off-policy estimation problem in infinite-horizon RL.
+PairNorm: Tackling Oversmoothing in GNNs,"
+
+Lingxiao Zhao
+, 
+Leman Akoglu
+
+","Graph Neural Network
+oversmoothing
+normalization",We proposed a normalization layer for GNN models to solve the oversmoothing problem.
+Unsupervised Clustering using Pseudo-semi-supervised Learning,"
+
+Divam Gupta
+, 
+Ramachandran Ramjee
+, 
+Nipun Kwatra
+, 
+Muthian Sivathanu
+
+","Unsupervised Learning
+Unsupervised Clustering
+Deep Learning",Using ensembles and pseudo labels for unsupervised clustering 
+Simple and Effective Regularization Methods for Training on Noisily Labeled Data with Generalization Guarantee,"
+
+Wei Hu
+, 
+Zhiyuan Li
+, 
+Dingli Yu
+
+","deep learning theory
+regularization
+noisy labels",
+Controlling generative models with continuous factors of variations,"
+
+Antoine Plumerault
+, 
+Hervé Le Borgne
+, 
+Céline Hudelot
+
+","Generative models
+factor of variation
+GAN
+beta-VAE
+interpretable representation
+interpretability",A model to control the generation of images with GAN and beta-VAE with regard to scale and position of the objects
+Symplectic ODE-Net: Learning Hamiltonian Dynamics with Control,"
+
+Yaofeng Desmond Zhong
+, 
+Biswadip Dey
+, 
+Amit Chakraborty
+
+","Deep Model Learning
+Physics-based Priors
+Control of Mechanical Systems","This work enforces Hamiltonian dynamics with control to learn system models from embedded position and velocity data, and exploits this physically-consistent dynamics to synthesize model-based control via energy shaping."
+"Understanding l4-based Dictionary Learning: Interpretation, Stability, and Robustness","
+
+Yuexiang Zhai
+, 
+Hermish Mehta
+, 
+Zhengyuan Zhou
+, 
+Yi Ma
+
+","L4-norm Maximization
+Robust Dictionary Learning","We compare the l4-norm based dictionary learning with PCA, ICA and show its stability as well as robustness."
+Quantum Algorithms for Deep Convolutional Neural Networks,"
+
+Iordanis Kerenidis
+, 
+Jonas Landman
+, 
+Anupam Prakash
+
+","quantum computing
+quantum machine learning
+convolutional neural network
+theory
+algorithm",We provide the first algorithm for quantum computers implementing universal convolutional neural network with a speedup
+Self-Supervised Learning of Appliance Usage,"
+
+Chen-Yu Hsu
+, 
+Abbas Zeitoun
+, 
+Guang-He Lee
+, 
+Dina Katabi
+, 
+Tommi Jaakkola
+
+","Appliance usage
+self-supervised learning
+multi-modal learning
+unsupervised learning","We learn appliance usage patterns in homes without labels, using self-supervised learning with energy and location data"
+Deep Graph Matching Consensus,"
+
+Matthias Fey
+, 
+Jan E. Lenssen
+, 
+Christopher Morris
+, 
+Jonathan Masci
+, 
+Nils M. Kriege
+
+","graph matching
+graph neural networks
+neighborhood consensus
+deep learning",We develop a deep graph matching architecture which refines initial correspondences in order to reach neighborhood consensus.
+Beyond Linearization: On Quadratic and Higher-Order Approximation of Wide Neural Networks,"
+
+Yu Bai
+, 
+Jason D. Lee
+
+","Neural Tangent Kernels
+over-parametrized neural networks
+deep learning theory","Wide neural networks can escape the NTK regime and couple with quadratic models, with provably nice optimization landscape and better generalization."
+Dynamic Sparse Training: Find Efficient Sparse Network From Scratch With Trainable Masked Layers,"
+
+Junjie LIU
+, 
+Zhe XU
+, 
+Runbin SHI
+, 
+Ray C. C. Cheung
+, 
+Hayden K.H. So
+
+","neural network pruning
+sparse learning
+network compression
+architecture search",We present a novel network pruning method that can find the optimal sparse structure during the training process with trainable pruning threshold
+"Triple Wins: Boosting Accuracy, Robustness and Efficiency Together by Enabling Input-Adaptive Inference","
+
+Ting-Kuei Hu
+, 
+Tianlong Chen
+, 
+Haotao Wang
+, 
+Zhangyang Wang
+
+","adversarial robustness
+efficient inference","Is it possible to co-design model accuracy, robustness and efficiency to achieve their triple wins? Yes!"
+Neural Policy Gradient Methods: Global Optimality and Rates of Convergence,"
+
+Lingxiao Wang
+, 
+Qi Cai
+, 
+Zhuoran Yang
+, 
+Zhaoran Wang
+
+",,
+Double Neural Counterfactual Regret Minimization,"
+
+Hui Li
+, 
+Kailiang Hu
+, 
+Shaohua Zhang
+, 
+Yuan Qi
+, 
+Le Song
+
+","Counterfactual Regret Minimization
+Imperfect Information game
+Neural Strategy
+Deep Learning
+Robust Sampling",We proposed a double neural framework to solve large-scale imperfect information game. 
+GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation,"
+
+Chence Shi*
+, 
+Minkai Xu*
+, 
+Zhaocheng Zhu
+, 
+Weinan Zhang
+, 
+Ming Zhang
+, 
+Jian Tang
+
+","Molecular graph generation
+deep generative models
+normalizing flows
+autoregressive models",A flow-based autoregressive model for molecular graph generation. Reaching state-of-the-art results on molecule generation and properties optimization.
+The Gambler's Problem and Beyond,"
+
+Baoxiang Wang
+, 
+Shuai Li
+, 
+Jiajin Li
+, 
+Siu On Chan
+
+","the gambler's problem
+reinforcement learning
+fractal
+self-similarity
+Bellman equation",This simple problem's optimal value function is fractal and is like a Cantor function.
+Multilingual Alignment of Contextual Word Representations,"
+
+Steven Cao
+, 
+Nikita Kitaev
+, 
+Dan Klein
+
+","multilingual
+natural language processing
+embedding alignment
+BERT
+word embeddings
+transfer",We propose procedures for evaluating and strengthening contextual embedding alignment and show that they both improve multilingual BERT's zero-shot XNLI transfer and provide useful insights into the model.
+The Curious Case of Neural Text Degeneration,"
+
+Ari Holtzman
+, 
+Jan Buys
+, 
+Li Du
+, 
+Maxwell Forbes
+, 
+Yejin Choi
+
+","generation
+text
+NLG
+NLP
+natural language
+natural language generation
+language model
+neural
+neural language model",Current language generation systems either aim for high likelihood and devolve into generic repetition or miscalibrate their stochasticity—we provide evidence of both and propose a solution: Nucleus Sampling.
+Graph Convolutional Reinforcement Learning,"
+
+Jiechuan Jiang
+, 
+Chen Dun
+, 
+Tiejun Huang
+, 
+Zongqing Lu
+
+",,
+Meta-Learning Deep Energy-Based Memory Models,"
+
+Sergey Bartunov
+, 
+Jack Rae
+, 
+Simon Osindero
+, 
+Timothy Lillicrap
+
+","associative memory
+energy-based memory
+meta-learning
+compressive memory",Deep associative memory models using arbitrary neural networks as a storage.
+Exploratory Not Explanatory: Counterfactual Analysis of Saliency Maps for Deep Reinforcement Learning,"
+
+Akanksha Atrey
+, 
+Kaleigh Clary
+, 
+David Jensen
+
+","explainability
+saliency maps
+representations
+deep reinforcement learning",Proposing a new counterfactual-based methodology to evaluate the hypotheses generated from saliency maps about deep RL agent behavior. 
+Fast Neural Network Adaptation via Parameter Remapping and Architecture Search,"
+
+Jiemin Fang*
+, 
+Yuzhu Sun*
+, 
+Kangjian Peng*
+, 
+Qian Zhang
+, 
+Yuan Li
+, 
+Wenyu Liu
+, 
+Xinggang Wang
+
+",,
+Guiding Program Synthesis by Learning to Generate Examples,"
+
+Larissa Laich
+, 
+Pavol Bielik
+, 
+Martin Vechev
+
+","program synthesis
+programming by examples",
+SNODE: Spectral Discretization of Neural ODEs for System Identification,"
+
+Alessio Quaglino
+, 
+Marco Gallieri
+, 
+Jonathan Masci
+, 
+Jan Koutník
+
+","Recurrent neural networks
+system identification
+neural ODEs",This paper proposes the use of spectral element methods for fast and accurate training of Neural Ordinary Differential Equations for system identification.
+Generalized Convolutional Forest Networks for Domain Generalization and Visual Recognition,"
+
+Jongbin Ryu
+, 
+Gitaek Kwon
+, 
+Ming-Hsuan Yang
+, 
+Jongwoo Lim
+
+",,
+Once-for-All: Train One Network and Specialize it for Efficient Deployment,"
+
+Han Cai
+, 
+Chuang Gan
+, 
+Tianzhe Wang
+, 
+Zhekai Zhang
+, 
+Song Han
+
+","Efficient Deep Learning
+Specialized Neural Network Architecture
+AutoML",We introduce techniques to train a single once-for-all network that fits many hardware platforms.
+Multi-Agent Interactions Modeling with Correlated Policies,"
+
+Minghuan Liu
+, 
+Ming Zhou
+, 
+Weinan Zhang
+, 
+Yuzheng Zhuang
+, 
+Jun Wang
+, 
+Wulong Liu
+, 
+Yong Yu
+
+","Multi-agent reinforcement learning
+Imitation learning",Modeling complex multi-agent interactions under multi-agent imitation learning framework with explicit modeling of correlated policies by approximating opponents’ policies. 
+PCMC-Net: Feature-based Pairwise Choice Markov Chains,"
+
+Alix Lhéritier
+
+","choice modeling
+pairwise choice Markov chains
+deep learning
+amortized inference
+automatic differentiation
+airline itinerary choice modeling",We propose a generic neural network architecture equipping Pairwise Choice Markov Chains choice models with amortized and automatic differentiation based inference using alternatives' and individuals' features.
+Implementing Inductive bias for different navigation tasks through diverse RNN attrractors,"
+
+Tie XU
+, 
+Omri Barak
+
+","navigation
+Recurrent Neural Networks
+dynamics
+inductive bias
+pre-training
+reinforcement learning","Task agnostic pre-training can shape RNN's attractor landscape, and form diverse inductive bias for different navigation tasks   "
+Query2box: Reasoning over Knowledge Graphs in Vector Space Using Box Embeddings,"
+
+Hongyu Ren*
+, 
+Weihua Hu*
+, 
+Jure Leskovec
+
+","knowledge graph embeddings
+logical reasoning
+query answering",Answering a wide class of logical queries over knowledge graphs with box embeddings in vector space
+Rethinking the Hyperparameters for Fine-tuning,"
+
+Hao Li
+, 
+Pratik Chaudhari
+, 
+Hao Yang
+, 
+Michael Lam
+, 
+Avinash Ravichandran
+, 
+Rahul Bhotika
+, 
+Stefano Soatto
+
+","fine-tuning
+hyperparameter search
+transfer learning",This paper re-examines several common practices of setting hyper-parameters for fine-tuning and identify optimal hyperparameter depends on source-target domain similarity.
+Plug and Play Language Models: A Simple Approach to Controlled Text Generation,"
+
+Sumanth Dathathri
+, 
+Andrea Madotto
+, 
+Janice Lan
+, 
+Jane Hung
+, 
+Eric Frank
+, 
+Piero Molino
+, 
+Jason Yosinski
+, 
+Rosanne Liu
+
+","controlled text generation
+generative models
+conditional generative models
+language modeling
+transformer",We control the topic and sentiment of text generation (almost) without any training. 
+Provable Benefit of Orthogonal Initialization in Optimizing Deep Linear Networks,"
+
+Wei Hu
+, 
+Lechao Xiao
+, 
+Jeffrey Pennington
+
+","deep learning theory
+non-convex optimization
+orthogonal initialization","We provide for the first time a rigorous proof that orthogonal initialization speeds up convergence relative to Gaussian initialization, for deep linear networks."
+RGBD-GAN: Unsupervised 3D Representation Learning From Natural Image Datasets via RGBD Image Synthesis,"
+
+Atsuhiro Noguchi
+, 
+Tatsuya Harada
+
+","image generation
+3D vision
+unsupervised representation learning",RGBD image generation for unsupervised camera parameter conditioning
+Towards Verified Robustness under Text Deletion Interventions,"
+
+Johannes Welbl
+, 
+Po-Sen Huang
+, 
+Robert Stanforth
+, 
+Sven Gowal
+, 
+Krishnamurthy (Dj) Dvijotham
+, 
+Martin Szummer
+, 
+Pushmeet Kohli
+
+","natural language processing
+specification
+verification
+model undersensitivity
+adversarial
+interval bound propagation",Formal verification of a specification on a model's prediction undersensitivity using Interval Bound Propagation
+Jacobian Adversarially Regularized Networks for Robustness,"
+
+Alvin Chan
+, 
+Yi Tay
+, 
+Yew Soon Ong
+, 
+Jie Fu
+
+","adversarial examples
+robust machine learning
+deep learning",We show that training classifiers to produce salient input Jacobian matrices with a GAN-like regularization can boost adversarial robustness.
+Thinking While Moving: Deep Reinforcement Learning with Concurrent Control,"
+
+Ted Xiao
+, 
+Eric Jang
+, 
+Dmitry Kalashnikov
+, 
+Sergey Levine
+, 
+Julian Ibarz
+, 
+Karol Hausman
+, 
+Alexander Herzog
+
+","deep reinforcement learning
+continuous-time
+robotics","Reinforcement learning formulation that allows agents to think and act at the same time, demonstrated on real-world robotic grasping."
+Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning,"
+
+Qian Long*
+, 
+Zihan Zhou*
+, 
+Abhinav Gupta
+, 
+Fei Fang
+, 
+Yi Wu†
+, 
+Xiaolong Wang†
+
+","multi-agent reinforcement learning
+evolutionary learning
+curriculum learning",
+ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators,"
+
+Kevin Clark
+, 
+Minh-Thang Luong
+, 
+Quoc V. Le
+, 
+Christopher D. Manning
+
+","Natural Language Processing
+Representation Learning",A text encoder trained to distinguish real input tokens from plausible fakes efficiently learns effective language representations.
+Environmental drivers of systematicity and generalization in a situated agent,"
+
+Felix Hill
+, 
+Andrew Lampinen
+, 
+Rosalia Schneider
+, 
+Stephen Clark
+, 
+Matthew Botvinick
+, 
+James L. McClelland
+, 
+Adam Santoro
+
+","systematicitiy
+systematic
+generalization
+combinatorial
+agent
+policy
+language
+compositionality",We isolate the environmental and training factors that contribute to emergent systematic generalization in a situated language-learning agent
+Abstract Diagrammatic Reasoning with Multiplex Graph Networks,"
+
+Duo Wang
+, 
+Mateja Jamnik
+, 
+Pietro Lio
+
+","reasoning
+Raven Progressive Matrices
+graph neural networks
+multiplex graphs","MXGNet is a multilayer, multiplex graph based architecture which achieves good performance on various diagrammatic reasoning tasks."
+A Baseline for Few-Shot Image Classification,"
+
+Guneet Singh Dhillon
+, 
+Pratik Chaudhari
+, 
+Avinash Ravichandran
+, 
+Stefano Soatto
+
+","few-shot learning
+transductive learning
+fine-tuning
+baseline
+meta-learning",Transductive fine-tuning of a deep network is a strong baseline for few-shot image classification and outperforms the state-of-the-art on all standard benchmarks.
+Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering,"
+
+Akari Asai
+, 
+Kazuma Hashimoto
+, 
+Hannaneh Hajishirzi
+, 
+Richard Socher
+, 
+Caiming Xiong
+
+","Multi-hop Open-domain Question Answering
+Graph-based Retrieval
+Multi-step Retrieval",Graph-based recurrent retriever that learns to retrieve reasoning paths over Wikipedia Graph outperforms the most recent state of the art on HotpotQA by more than 14 points.
+Padé Activation Units: End-to-end Learning of Flexible Activation Functions in Deep Networks,"
+
+Alejandro Molina
+, 
+Patrick Schramowski
+, 
+Kristian Kersting
+
+",,"We introduce PAU, a new learnable activation function for neural networks. They free the network designers from the activation selection process and increase the test prediction accuracy."
+A FRAMEWORK FOR ROBUSTNESS CERTIFICATION OF SMOOTHED CLASSIFIERS USING F-DIVERGENCES,"
+
+Krishnamurthy (Dj) Dvijotham
+, 
+Jamie Hayes
+, 
+Borja Balle
+, 
+Zico Kolter
+, 
+Chongli Qin
+, 
+Andras Gyorgy
+, 
+Kai Xiao
+, 
+Sven Gowal
+, 
+Pushmeet Kohli
+
+","verification of machine learning
+certified robustness of neural networks",Develop a general framework to establish certified robustness of ML models against various classes of adversarial perturbations
+Contrastive Representation Distillation,"
+
+Yonglong Tian
+, 
+Dilip Krishnan
+, 
+Phillip Isola
+
+","Knowledge Distillation
+Representation Learning
+Contrastive Learning
+Mutual Information",Representation/knowledge distillation by maximizing mutual information between teacher and student
+Certified Defenses for Adversarial Patches,"
+
+Ping-yeh Chiang*
+, 
+Renkun Ni*
+, 
+Ahmed Abdelkader
+, 
+Chen Zhu
+, 
+Christoph Studor
+, 
+Tom Goldstein
+
+","certified defenses
+patch attack
+adversarial robustness
+sparse defense",
+Sample Efficient Policy Gradient Methods with Recursive Variance Reduction,"
+
+Pan Xu
+, 
+Felicia Gao
+, 
+Quanquan Gu
+
+","Policy Gradient
+Reinforcement Learning
+Sample Efficiency",
+Deep Symbolic Superoptimization Without Human Knowledge,"
+
+Hui Shi
+, 
+Yang Zhang
+, 
+Xinyun Chen
+, 
+Yuandong Tian
+, 
+Jishen Zhao
+
+",,
+Explain Your Move: Understanding Agent Actions Using Specific and Relevant Feature Attribution,"
+
+Nikaash Puri
+, 
+Sukriti Verma
+, 
+Piyush Gupta
+, 
+Dhruv Kayastha
+, 
+Shripad Deshmukh
+, 
+Balaji Krishnamurthy
+, 
+Sameer Singh
+
+","Deep Reinforcement Learning
+Saliency maps
+Chess
+Go
+Atari
+Interpretable AI
+Explainable AI","We propose a model-agnostic approach to explain the behaviour of black-box deep RL agents, trained to play Atari and board games, by highlighting relevant portions of the input state."
+Universal Approximation with Certified Networks,"
+
+Maximilian Baader
+, 
+Matthew Mirman
+, 
+Martin Vechev
+
+","adversarial robustness
+universal approximation
+certified network
+interval bound propagation",We prove that for a large class of functions f there exists an interval certified robust network approximating f up to arbitrary precision.
+Measuring and Improving the Use of Graph Information in Graph Neural Networks,"
+
+Yifan Hou
+, 
+Jian Zhang
+, 
+James Cheng
+, 
+Kaili Ma
+, 
+Richard T. B. Ma
+, 
+Hongzhi Chen
+, 
+Ming-Chang Yang
+
+",,
+State-only Imitation with Transition Dynamics Mismatch,"
+
+Tanmay Gangwani
+, 
+Jian Peng
+
+","Imitation learning
+Reinforcement Learning
+Inverse Reinforcement Learning",Algorithm for imitation with state-only expert demonstrations; builds on adversarial-IRL; experiments with transition dynamics mismatch b/w expert and imitator
+Adversarial AutoAugment,"
+
+Xinyu Zhang
+, 
+Qiang Wang
+, 
+Jian Zhang
+, 
+Zhao Zhong
+
+","Automatic Data Augmentation
+Adversarial Learning
+Reinforcement Learning",We introduce the idea of adversarial learning into automatic data augmentation to improve the generalization  of a targe network.
+Meta Dropout: Learning to Perturb Latent Features for Generalization,"
+
+Hae Beom Lee
+, 
+Taewook Nam
+, 
+Eunho Yang
+, 
+Sung Ju Hwang
+
+",,
+Rényi Fair Inference,"
+
+Sina Baharlouei
+, 
+Maher Nouiehed
+, 
+Ahmad Beirami
+, 
+Meisam Razaviyayn
+
+",,
+Learning transport cost from subset correspondence,"
+
+Ruishan Liu
+, 
+Akshay Balsubramani
+, 
+James Zou
+
+",,
+BlockSwap: Fisher-guided Block Substitution for Network Compression on a Budget,"
+
+Jack Turner
+, 
+Elliot J. Crowley
+, 
+Michael O'Boyle
+, 
+Amos Storkey
+, 
+Gavin Gray
+
+","model compression
+architecture search
+efficiency
+budget
+convolutional neural networks",A simple and effective method for reducing large neural networks to flexible parameter targets based on block substitution.
+Variance Reduction With Sparse Gradients,"
+
+Melih Elibol
+, 
+Lihua Lei
+, 
+Michael I. Jordan
+
+","optimization
+variance reduction
+machine learning
+deep neural networks",We use sparsity to improve the computational complexity of variance reduction methods.
+Abductive Commonsense Reasoning,"
+
+Chandra Bhagavatula
+, 
+Ronan Le Bras
+, 
+Chaitanya Malaviya
+, 
+Keisuke Sakaguchi
+, 
+Ari Holtzman
+, 
+Hannah Rashkin
+, 
+Doug Downey
+, 
+Wen-tau Yih
+, 
+Yejin Choi
+
+","Abductive Reasoning
+Commonsense Reasoning
+Natural Language Inference
+Natural Language Generation",
+Discrepancy Ratio: Evaluating Model Performance When Even Experts Disagree on the Truth,"
+
+Igor Lovchinsky
+, 
+Alon Daks
+, 
+Israel Malkin
+, 
+Pouya Samangouei
+, 
+Ardavan Saeedi
+, 
+Yang Liu
+, 
+Swami Sankaranarayanan
+, 
+Tomer Gafner
+, 
+Ben Sternlieb
+, 
+Patrick Maher
+, 
+Nathan Silberman
+
+","Evaluation Metrics
+Medical Imaging",A framework for evaluating model performance when even experts disagree on what the ground truth is.
+Weakly Supervised Disentanglement with Guarantees,"
+
+Rui Shu
+, 
+Yining Chen
+, 
+Abhishek Kumar
+, 
+Stefano Ermon
+, 
+Ben Poole
+
+","disentanglement
+theory of disentanglement
+representation learning
+generative models",We construct a theoretical framework for weakly supervised disentanglement and conducted lots of experiments to back up the theory.
+Nesterov Accelerated Gradient and Scale Invariance for Adversarial Attacks,"
+
+Jiadong Lin
+, 
+Chuanbiao Song
+, 
+Kun He
+, 
+Liwei Wang
+, 
+John E. Hopcroft
+
+","adversarial examples
+adversarial attack
+transferability
+Nesterov accelerated gradient
+scale invariance",We proposed a Nesterov Iterative Fast Gradient Sign Method (NI-FGSM) and a Scale-Invariant attack Method (SIM) that can boost the transferability of adversarial examples for image classification.
+Fantastic Generalization Measures and Where to Find Them,"
+
+Yiding Jiang*
+, 
+Behnam Neyshabur*
+, 
+Hossein Mobahi
+, 
+Dilip Krishnan
+, 
+Samy Bengio
+
+","Generalization
+correlation
+experiments","We empirically study generalization measures over more than 2000 models, identify common pitfall in existing practice of studying generalization measures and provide some new bounds based on measures in our study."
+Robustness Verification for Transformers,"
+
+Zhouxing Shi
+, 
+Huan Zhang
+, 
+Kai-Wei Chang
+, 
+Minlie Huang
+, 
+Cho-Jui Hsieh
+
+","Robustness
+Verification
+Transformers",We propose the first algorithm for verifying the robustness of Transformers.
+Network Randomization: A Simple Technique for Generalization in Deep Reinforcement Learning,"
+
+Kimin Lee
+, 
+Kibok Lee
+, 
+Jinwoo Shin
+, 
+Honglak Lee
+
+","Deep reinforcement learning
+Generalization in visual domains",We propose a simple randomization technique for improving generalization in deep reinforcement learning across tasks with various unseen visual patterns.
+Tensor Decompositions for Temporal Knowledge Base Completion,"
+
+Timothée Lacroix
+, 
+Guillaume Obozinski
+, 
+Nicolas Usunier
+
+","knowledge base completion
+temporal embeddings",We propose new tensor decompositions and associated regularizers to obtain state of the art performances on temporal knowledge base completion.
+On Universal Equivariant Set Networks,"
+
+Nimrod Segol
+, 
+Yaron Lipman
+
+","deep learning
+universality
+set functions
+equivariance",Settling permutation equivariance universality for popular deep models. 
+Provable robustness against all adversarial lp-perturbations for p≥1,"
+
+Francesco Croce
+, 
+Matthias Hein
+
+","adversarial robustness
+provable guarantees",
+"Don't Use Large Mini-batches, Use Local SGD","
+
+Tao Lin
+, 
+Sebastian U. Stich
+, 
+Kumar Kshitij Patel
+, 
+Martin Jaggi
+
+",,
+Kernel of CycleGAN as a principal homogeneous space,"
+
+Nikita Moriakov
+, 
+Jonas Adler
+, 
+Jonas Teuwen
+
+","Generative models
+CycleGAN","The space of approximate solutions of CycleGAN admits a lot of symmetry, and an identity loss does not fix this."
+Distributionally Robust Neural Networks,"
+
+Shiori Sagawa*
+, 
+Pang Wei Koh*
+, 
+Tatsunori B. Hashimoto
+, 
+Percy Liang
+
+","distributionally robust optimization
+deep learning
+robustness
+generalization
+regularization","Overparameterized neural networks can be distributionally robust, but only when you account for generalization. "
+On Solving Minimax Optimization Locally: A Follow-the-Ridge Approach,"
+
+Yuanhao Wang*
+, 
+Guodong Zhang*
+, 
+Jimmy Ba
+
+","minimax optimization
+smooth differentiable games
+local convergence
+generative adversarial networks
+optimization",
+A Neural Dirichlet Process Mixture Model for Task-Free Continual Learning,"
+
+Soochan Lee
+, 
+Junsoo Ha
+, 
+Dongsu Zhang
+, 
+Gunhee Kim
+
+","continual learning
+task-free
+task-agnostic",We propose an expansion-based approach for task-free continual learning for the first time. Our model consists of a set of neural network experts and expands the number of experts under the Bayesian nonparametric principle.
+Hyper-SAGNN: a self-attention based graph neural network for hypergraphs,"
+
+Ruochi Zhang
+, 
+Yuesong Zou
+, 
+Jian Ma
+
+","graph neural network
+hypergraph
+representation learning",We develop a new self-attention based graph neural network called Hyper-SAGNN applicable to homogeneous and heterogeneous hypergraphs with variable hyperedge sizes that can fulfill tasks like node classification and hyperedge prediction. 
+Neural Epitome Search for Architecture-Agnostic Network Compression,"
+
+Daquan Zhou
+, 
+Xiaojie Jin
+, 
+Qibin Hou
+, 
+Kaixin Wang
+, 
+Jianchao Yang
+, 
+Jiashi Feng
+
+","Network Compression
+Classification
+Deep Learning
+Weights Sharing",We present a novel neural network compression method which can reuse the parameters efficiently to reduce the model size.
+On the Equivalence between Positional Node Embeddings and Structural Graph Representations,"
+
+Balasubramaniam Srinivasan
+, 
+Bruno Ribeiro
+
+","Graph Neural Networks
+Structural Graph Representations
+Node Embeddings
+Relational Learning
+Invariant Theory
+Theory
+Deep Learning
+Representational Power
+Graph Isomorphism",We develop the foundations of a unifying theoretical framework connecting node embeddings and structural graph representations through invariant theory
+Probability Calibration for Knowledge Graph Embedding Models,"
+
+Pedro Tabacof
+, 
+Luca Costabello
+
+","knowledge graph embeddings
+probability calibration
+calibration
+graph representation learning
+knowledge graphs",We propose a novel method to calibrate knowledge graph embedding models without the need of negative examples.
+Why Not to Use Zero Imputation? Correcting Sparsity Bias in Training Neural Networks,"
+
+Joonyoung Yi
+, 
+Juhyuk Lee
+, 
+Kwang Joon Kim
+, 
+Sung Ju Hwang
+, 
+Eunho Yang
+
+","Missing Data
+Collaborative Filtering
+Health Care
+Tabular Data
+High Dimensional Data
+Deep Learning
+Neural Networks",
+DropEdge: Towards Deep Graph Convolutional Networks on Node Classification,"
+
+Yu Rong
+, 
+Wenbing Huang
+, 
+Tingyang Xu
+, 
+Junzhou Huang
+
+","graph neural network
+over-smoothing
+over-fitting
+dropedge
+graph convolutional networks","This paper proposes DropEdge, a novel and flexible technique to alleviate over-smoothing and overfitting issue in deep Graph Convolutional Networks."
+Masked Based Unsupervised Content Transfer,"
+
+Ron Mokady
+, 
+Sagie Benaim
+, 
+Lior Wolf
+, 
+Amit Bermano
+
+",,
+U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation,"
+
+Junho Kim
+, 
+Minjae Kim
+, 
+Hyeonwoo Kang
+, 
+Kwang Hee Lee
+
+","Image-to-Image Translation
+Generative Attentional Networks
+Adaptive Layer-Instance Normalization",
+Inductive and Unsupervised Representation Learning on Graph Structured Objects,"
+
+Lichen Wang
+, 
+Bo Zong
+, 
+Qianqian Ma
+, 
+Wei Cheng
+, 
+Jingchao Ni
+, 
+Wenchao Yu
+, 
+Yanchi Liu
+, 
+Dongjin Song
+, 
+Haifeng Chen
+, 
+Yun Fu
+
+","Graph representation learning
+Graph isomorphism
+Graph similarity learning",This paper proposed a novel framework for graph similarity learning in inductive and unsupervised scenario.
+Batch-shaping for learning conditional channel gated networks,"
+
+Babak Ehteshami Bejnordi
+, 
+Tijmen Blankevoort
+, 
+Max Welling
+
+","Conditional computation
+channel gated networks
+gating
+Batch-shaping
+distribution matching
+image classification
+semantic segmentation",A method that trains large capacity neural networks with significantly improved accuracy and lower dynamic computational cost
+Learning Robust Representations via Multi-View Information Bottleneck,"
+
+Marco Federici
+, 
+Anjan Dutta
+, 
+Patrick Forré
+, 
+Nate Kushman
+, 
+Zeynep Akata
+
+","Information Bottleneck
+Multi-View Learning
+Representation Learning
+Information Theory",We extend the information bottleneck method to the unsupervised multiview setting and show state of the art results on standard datasets
+Deep probabilistic subsampling for task-adaptive compressed sensing,"
+
+Iris A.M. Huijben
+, 
+Bastiaan S. Veeling
+, 
+Ruud J.G. van Sloun
+
+",,
+Robust anomaly detection and backdoor attack detection via differential privacy,"
+
+Min Du
+, 
+Ruoxi Jia
+, 
+Dawn Song
+
+","outlier detection
+novelty detection
+backdoor attack detection
+system log anomaly detection
+differential privacy","This paper shows that differential privacy could improve the utility of outlier detection, novelty detection and backdoor attack detection, through both a theoretical analysis and extensive experimental results (constructed and real-world)."
+Learning to Guide Random Search,"
+
+Ozan Sener
+, 
+Vladlen Koltun
+
+","Random search
+Derivative-free optimization
+Learning continuous control",We improve the sample-efficiency of the random search for functions defined on low-dimensional manifolds. Our method jointly learns the underlying manifold and optimizes the function.
+Lagrangian Fluid Simulation with Continuous Convolutions,"
+
+Benjamin Ummenhofer
+, 
+Lukas Prantl
+, 
+Nils Thuerey
+, 
+Vladlen Koltun
+
+","particle-based physics
+fluid mechanics
+continuous convolutions
+material estimation",We learn particle-based fluid simulation with convolutional networks.
+Reinforced Genetic Algorithm Learning for Optimizing Computation Graphs,"
+
+Aditya Paliwal
+, 
+Felix Gimeno
+, 
+Vinod Nair
+, 
+Yujia Li
+, 
+Miles Lubin
+, 
+Pushmeet Kohli
+, 
+Oriol Vinyals
+
+","reinforcement learning
+learning to optimize
+combinatorial optimization
+computation graphs
+model parallelism
+learning for systems","We use deep RL to learn a policy that directs the search of a genetic algorithm to better optimize the execution cost of computation graphs, and show improved results on real-world TensorFlow graphs."
+Compressive Transformers for Long-Range Sequence Modelling,"
+
+Jack W. Rae
+, 
+Anna Potapenko
+, 
+Siddhant M. Jayakumar
+, 
+Chloe Hillier
+, 
+Timothy P. Lillicrap
+
+","memory
+language modeling
+transformer
+compression","Long-range transformer using a compressive memory, achieves sota in wikitext-103 and enwik8 LM benchmarks, release a new book-level LM benchmark PG-19."
+A Stochastic Derivative Free Optimization Method with Momentum,"
+
+Eduard Gorbunov
+, 
+Adel Bibi
+, 
+Ozan Sener
+, 
+El Houcine Bergou
+, 
+Peter Richtarik
+
+","derivative-free optimization
+stochastic optimization
+heavy ball momentum
+importance sampling",We develop and analyze a new derivative free optimization algorithm with momentum and importance sampling with applications to continuous control.
+Understanding and Improving Information Transfer in Multi-Task Learning,"
+
+Sen Wu
+, 
+Hongyang R. Zhang
+, 
+Christopher Ré
+
+",Multi-Task Learning,A Theoretical Study of Multi-Task Learning with Practical Implications for Improving Multi-Task Training and Transfer Learning
+Learning To Explore Using Active Neural SLAM,"
+
+Devendra Singh Chaplot
+, 
+Dhiraj Gandhi
+, 
+Saurabh Gupta
+, 
+Abhinav Gupta
+, 
+Ruslan Salakhutdinov
+
+","Navigation
+Exploration",A modular and hierarchical approach to learn policies for exploring 3D environments.
+EMPIR: Ensembles of Mixed Precision Deep Networks for Increased Robustness Against Adversarial Attacks,"
+
+Sanchari Sen
+, 
+Balaraman Ravindran
+, 
+Anand Raghunathan
+
+","ensembles
+mixed precision
+robustness
+adversarial attacks",We propose ensembles of mixed-precision DNNs as a new form of defense against adversarial attacks
+Quantifying Point-Prediction Uncertainty in Neural Networks via Residual Estimation with an I/O Kernel,"
+
+Xin Qiu
+, 
+Elliot Meyerson
+, 
+Risto Miikkulainen
+
+","Uncertainty Estimation
+Neural Networks
+Gaussian Process",Learning to Estimate Point-Prediction Uncertainty and Correct Output in Neural Networks
+B-Spline CNNs on Lie groups,"
+
+Erik J Bekkers
+
+","equivariance
+Lie groups
+B-Splines
+G-CNNs
+deep learning
+group convolution
+computer vision
+medical image analysis",The paper describes a flexible framework for building CNNs that are equivariant to a large class of transformations groups.
+Neural Outlier Rejection for Self-Supervised Keypoint Learning,"
+
+Jiexiong Tang
+, 
+Hanme Kim
+, 
+Vitor Guizilini
+, 
+Sudeep Pillai
+, 
+Rares Ambrus
+
+","Self-Supervised Learning
+Keypoint Detection
+Outlier Rejection
+Deep Learning","Learning to extract distinguishable keypoints from a proxy task, outlier rejection."
+Reducing Transformer Depth on Demand with Structured Dropout,"
+
+Angela Fan
+, 
+Edouard Grave
+, 
+Armand Joulin
+
+","reduction
+regularization
+pruning
+dropout
+transformer","Layerdrop, a form of structured dropout that allows you to train one model at training time and prune to any desired depth at test time. You can also use this to train even deeper models."
+Cross-Lingual Ability of Multilingual BERT: An Empirical Study,"
+
+Karthikeyan K
+, 
+Zihan Wang
+, 
+Stephen Mayhew
+, 
+Dan Roth
+
+","Cross-Lingual Learning
+Multilingual BERT","Comprehensive analysis on Linguistic Properties, Model Architecture, and Input and Learning Objective of cross-lingual ability of Multilingual BERT"
+SPACE: Unsupervised Object-Oriented Scene Representation via Spatial Attention and Decomposition,"
+
+Zhixuan Lin
+, 
+Yi-Fu Wu
+, 
+Skand Vishwanath Peri
+, 
+Weihao Sun
+, 
+Gautam Singh
+, 
+Fei Deng
+, 
+Jindong Jiang
+, 
+Sungjin Ahn
+
+","Generative models
+Unsupervised scene representation
+Object-oriented representation
+spatial attention",We propose a generative latent variable model for unsupervised scene decomposition that provides factorized object representation per foreground object while also decomposing background segments of complex morphology.
+RIDE: Rewarding Impact-Driven Exploration for Procedurally-Generated Environments,"
+
+Roberta Raileanu
+, 
+Tim Rocktäschel
+
+","reinforcement learning
+exploration
+curiosity",Reward agents for taking actions that lead to changes in the environment state.
+Low-dimensional statistical manifold embedding of directed graphs,"
+
+Thorben Funke
+, 
+Tian Guo
+, 
+Alen Lancic
+, 
+Nino Antulov-Fantulin
+
+","graph embedding
+information geometry
+graph representations","We propose a novel node embedding of directed graphs to statistical manifolds and analyze connections to divergence, geometry and efficient learning procedure."
+Efficient Probabilistic Logic Reasoning with Graph Neural Networks,"
+
+Yuyu Zhang
+, 
+Xinshi Chen
+, 
+Yuan Yang
+, 
+Arun Ramamurthy
+, 
+Bo Li
+, 
+Yuan Qi
+, 
+Le Song
+
+","probabilistic logic reasoning
+Markov Logic Networks
+graph neural networks",We employ graph neural networks in the variational EM framework for efficient inference and learning of Markov Logic Networks.
+GraphSAINT: Graph Sampling Based Inductive Learning Method,"
+
+Hanqing Zeng
+, 
+Hongkuan Zhou
+, 
+Ajitesh Srivastava
+, 
+Rajgopal Kannan
+, 
+Viktor Prasanna
+
+","Graph Convolutional Networks
+Graph sampling
+Network embedding",We propose a graph sampling based minibatch construction method for training deep Graph Convolutional Networks on large graphs. 
+You Only Train Once: Loss-Conditional Training of Deep Networks,"
+
+Alexey Dosovitskiy
+, 
+Josip Djolonga
+
+","deep learning
+image generation",A method to train a single model simultaneously minimizing a family of loss functions instead of training a set of per-loss models.
+Projection-Based Constrained Policy Optimization,"
+
+Tsung-Yen Yang
+, 
+Justinian Rosca
+, 
+Karthik Narasimhan
+, 
+Peter J. Ramadge
+
+","Reinforcement learning with constraints
+Safe reinforcement learning","We propose a new algorithm that learns constraint-satisfying policies, and provide theoretical analysis and empirical demonstration in the context of reinforcement learning with constraints."
+Infinite-Horizon Differentiable Model Predictive Control,"
+
+Sebastian East
+, 
+Marco Gallieri
+, 
+Jonathan Masci
+, 
+Jan Koutnik
+, 
+Mark Cannon
+
+","Model Predictive Control
+Riccati Equation
+Imitation Learning
+Safe Learning",
+Combining Q-Learning and Search with Amortized Value Estimates,"
+
+Jessica B. Hamrick
+, 
+Victor Bapst
+, 
+Alvaro Sanchez-Gonzalez
+, 
+Tobias Pfaff
+, 
+Theophane Weber
+, 
+Lars Buesing
+, 
+Peter W. Battaglia
+
+","model-based RL
+Q-learning
+MCTS
+search","We propose a model-based method called ""Search with Amortized Value Estimates"" (SAVE) which leverages both real and planned experience by combining Q-learning with Monte-Carlo Tree Search, achieving strong performance with very small search budgets."
+Training Generative Adversarial Networks from Incomplete Observations using Factorised Discriminators,"
+
+Daniel Stoller
+, 
+Sebastian Ewert
+, 
+Simon Dixon
+
+","Adversarial Learning
+Semi-supervised Learning
+Image generation
+Image segmentation
+Missing Data","We decompose the discriminator in a GAN in a principled way so that each component can be independently trained on different parts of the input. The resulting ""FactorGAN"" can be used for semi-supervised learning and in missing data scenarios."
+Decentralized Deep Learning with Arbitrary Communication Compression,"
+
+Anastasia Koloskova*
+, 
+Tao Lin*
+, 
+Sebastian U Stich
+, 
+Martin Jaggi
+
+",,"We propose Choco-SGD---decentralized SGD with compressed communication---for non-convex objectives and show its strong performance in various deep learning applications (on-device learning, datacenter case)."
+Toward Evaluating Robustness of Deep Reinforcement Learning with Continuous Control,"
+
+Tsui-Wei Weng
+, 
+Krishnamurthy (Dj) Dvijotham*
+, 
+Jonathan Uesato*
+, 
+Kai Xiao*
+, 
+Sven Gowal*
+, 
+Robert Stanforth*
+, 
+Pushmeet Kohli
+
+","deep learning
+reinforcement learning
+robustness
+adversarial examples",We study the problem of continuous control agents in deep RL with adversarial attacks and proposed a two-step algorithm based on learned model dynamics. 
+Gradient ℓ1 Regularization for Quantization Robustness,"
+
+Milad Alizadeh
+, 
+Arash Behboodi
+, 
+Mart van Baalen
+, 
+Christos Louizos
+, 
+Tijmen Blankevoort
+, 
+Max Welling
+
+","quantization
+regularization
+robustness
+gradient regularization",
+SpikeGrad: An ANN-equivalent Computation Model for Implementing Backpropagation with Spikes,"
+
+Johannes C. Thiele
+, 
+Olivier Bichler
+, 
+Antoine Dupret
+
+","spiking neural network
+neuromorphic engineering
+backpropagation",An implementation of the backpropagation algorithm using spiking neurons for forward and backward propagation.
+On the Relationship between Self-Attention and Convolutional Layers,"
+
+Jean-Baptiste Cordonnier
+, 
+Andreas Loukas
+, 
+Martin Jaggi
+
+","self-attention
+attention
+transformers
+convolution
+CNN
+image
+expressivity
+capacity",A self-attention layer can perform convolution and often learns to do so in practice.
+Learning-Augmented Data Stream Algorithms,"
+
+Tanqiu Jiang
+, 
+Yi Li
+, 
+Honghao Lin
+, 
+Yisong Ruan
+, 
+David P. Woodruff
+
+","streaming algorithms
+heavy hitters
+F_p moment
+distinct elements
+cascaded norms",
+Structured Object-Aware Physics Prediction for Video Modeling and Planning,"
+
+Jannik Kossen
+, 
+Karl Stelzner
+, 
+Marcel Hussing
+, 
+Claas Voelcker
+, 
+Kristian Kersting
+
+","self-supervised learning
+probabilistic deep learning
+structured models
+video prediction
+physics prediction
+planning
+variational auteoncoders
+model-based reinforcement learning
+VAEs
+unsupervised
+variational
+graph neural networks
+tractable probabilistic models
+attend-infer-repeat
+relational learning
+AIR
+sum-product networks
+object-oriented
+object-centric
+object-aware
+MCTS","We propose a structured object-aware video prediction model, which explicitly reasons about objects and demonstrate that it provides high-quality long term video predictions for planning."
+Incorporating BERT into Neural Machine Translation,"
+
+Jinhua Zhu
+, 
+Yingce Xia
+, 
+Lijun Wu
+, 
+Di He
+, 
+Tao Qin
+, 
+Wengang Zhou
+, 
+Houqiang Li
+, 
+Tieyan Liu
+
+","BERT
+Neural Machine Translation",
+MMA Training: Direct Input Space Margin Maximization through Adversarial Training,"
+
+Gavin Weiguang Ding
+, 
+Yash Sharma
+, 
+Kry Yik Chau Lui
+, 
+Ruitong Huang
+
+","adversarial robustness
+perturbation
+margin maximization
+deep learning",We propose MMA training to directly maximize input space margin in order to improve adversarial robustness primarily by removing the requirement of specifying a fixed distortion bound.
+Infinite-horizon Off-Policy Policy Evaluation with Multiple Behavior Policies,"
+
+Xinyun Chen
+, 
+Lu Wang
+, 
+Yizhe Hang
+, 
+Heng Ge
+, 
+Hongyuan Zha
+
+","off-policy policy evaluation
+multiple importance sampling
+kernel method
+variance reduction",A new partially policy-agnostic method for infinite-horizon off-policy policy evalution with multiple known or unknown behavior policies.
+vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations,"
+
+Alexei Baevski
+, 
+Steffen Schneider
+, 
+Michael Auli
+
+","speech recognition
+speech representation learning",Learn how to quantize speech signal and apply algorithms requiring discrete inputs to audio data such as BERT.
+Meta-learning curiosity algorithms,"
+
+Ferran Alet*
+, 
+Martin F. Schneider*
+, 
+Tomas Lozano-Perez
+, 
+Leslie Pack Kaelbling
+
+","meta-learning
+exploration
+curiosity",Meta-learning curiosity algorithms by searching through a rich space of programs yields novel designs that generalize across very different reinforcement-learning domains.
+Making Efficient Use of Demonstrations to Solve Hard Exploration Problems,"
+
+Caglar Gulcehre
+, 
+Tom Le Paine
+, 
+Bobak Shahriari
+, 
+Misha Denil
+, 
+Matt Hoffman
+, 
+Hubert Soyer
+, 
+Richard Tanburn
+, 
+Steven Kapturowski
+, 
+Neil Rabinowitz
+, 
+Duncan Williams
+, 
+Gabriel Barth-Maron
+, 
+Ziyu Wang
+, 
+Nando de Freitas
+, 
+Worlds Team
+
+","imitation learning
+deep learning
+reinforcement learning","We introduce R2D3, an agent that makes efficient use of demonstrations to solve hard exploration problems in partially observable environments with highly variable initial conditions."
+VariBAD: A Very Good Method for Bayes-Adaptive Deep RL via Meta-Learning,"
+
+Luisa Zintgraf
+, 
+Kyriacos Shiarlis
+, 
+Maximilian Igl
+, 
+Sebastian Schulze
+, 
+Yarin Gal
+, 
+Katja Hofmann
+, 
+Shimon Whiteson
+
+","Meta-Learning
+Bayesian Reinforcement Learning
+BAMDPs
+Deep Reinforcement Learning","VariBAD opens a path to tractable approximate Bayes-optimal exploration for deep RL using ideas from meta-learning, Bayesian RL, and approximate variational inference."
+Lookahead: A Far-sighted Alternative of Magnitude-based Pruning,"
+
+Sejun Park*
+, 
+Jaeho Lee*
+, 
+Sangwoo Mo
+, 
+Jinwoo Shin
+
+",network magnitude-based pruning,We study a multi-layer generalization of the magnitude-based pruning.
+Spike-based causal inference for weight alignment,"
+
+Jordan Guerguiev
+, 
+Konrad Kording
+, 
+Blake Richards
+
+","causal
+inference
+weight
+transport
+rdd
+regression
+discontinuity
+design
+cifar10
+biologically
+plausible",We present a learning rule for feedback weights in a spiking neural network that addresses the weight transport problem.
+Empirical Bayes Transductive Meta-Learning with Synthetic Gradients,"
+
+Shell Xu Hu
+, 
+Pablo Garcia Moreno
+, 
+Yang Xiao
+, 
+Xi Shen
+, 
+Guillaume Obozinski
+, 
+Neil Lawrence
+, 
+Andreas Damianou
+
+","Meta-learning
+Empirical Bayes
+Synthetic Gradient
+Information Bottleneck","We propose a transductive meta-learning algorithm using synthetic gradients, analyze its generalization via information bottleneck, show SOTA results on few-shot learning."
+Keep Doing What Worked: Behavior Modelling Priors for Offline Reinforcement Learning,"
+
+Noah Siegel
+, 
+Jost Tobias Springenberg
+, 
+Felix Berkenkamp
+, 
+Abbas Abdolmaleki
+, 
+Michael Neunert
+, 
+Thomas Lampe
+, 
+Roland Hafner
+, 
+Nicolas Heess
+, 
+Martin Riedmiller
+
+","Reinforcement Learning
+Off-policy
+Multitask
+Continuous Control","We develop a method for stable offline reinforcement learning from logged data. The key is to regularize the RL policy towards a learned ""advantage weighted"" model of the data."
+Understanding the Limitations of Conditional Generative Models,"
+
+Ethan Fetaya
+, 
+Joern-Henrik Jacobsen
+, 
+Will Grathwohl
+, 
+Richard Zemel
+
+","Conditional Generative Models
+Generative Classifiers
+Robustness
+Adversarial Examples",
+Demystifying Inter-Class Disentanglement,"
+
+Aviv Gabbay
+, 
+Yedid Hoshen
+
+","disentanglement
+latent optimization
+domain translation",Latent Optimization for Representation Disentanglement
+Mixed-curvature Variational Autoencoders,"
+
+Ondrej Skopek
+, 
+Octavian-Eugen Ganea
+, 
+Gary Bécigneul
+
+","variational autoencoders
+riemannian manifolds
+non-Euclidean geometry",Variational Autoencoders with latent spaces modeled as products of constant curvature Riemannian manifolds improve on image reconstruction over single-manifold variants.
+BinaryDuo: Reducing Gradient Mismatch in Binary Activation Network by Coupling Binary Activations,"
+
+Hyungjun Kim
+, 
+Kyungsu Kim
+, 
+Jinseok Kim
+, 
+Jae-Joon Kim
+
+",,
+Model-based reinforcement learning for biological sequence design,"
+
+Christof Angermueller
+, 
+David Dohan
+, 
+David Belanger
+, 
+Ramya Deshpande
+, 
+Kevin Murphy
+, 
+Lucy Colwell
+
+","reinforcement learning
+blackbox optimization
+molecule design","We augment model-free policy learning with a sequence-level surrogate reward functions and count-based visitation bonus and demonstrate effectiveness in the large batch, low-round regime seen in designing DNA and protein sequences."
+BayesOpt Adversarial Attack,"
+
+Binxin Ru
+, 
+Adam Cobb
+, 
+Arno Blaas
+, 
+Yarin Gal
+
+","Black-box Adversarial Attack
+Bayesian Optimisation
+Gaussian Process",We propose a query-efficient black-box attack which uses Bayesian optimisation in combination with Bayesian model selection to optimise over the adversarial perturbation and the optimal degree of search space dimension reduction. 
+Meta Reinforcement Learning with Autonomous Inference of Subtask Dependencies,"
+
+Sungryull Sohn
+, 
+Hyunjae Woo
+, 
+Jongwook Choi
+, 
+Honglak Lee
+
+","Meta reinforcement learning
+subtask graph",A novel meta-RL method that infers latent subtask structure
+Hypermodels for Exploration,"
+
+Vikranth Dwaracherla
+, 
+Xiuyuan Lu
+, 
+Morteza Ibrahimi
+, 
+Ian Osband
+, 
+Zheng Wen
+, 
+Benjamin Van Roy
+
+","exploration
+hypermodel
+reinforcement learning",Hypermodels can encode posterior distributions similar to large ensembles at much smaller computational cost. This can facilitate significant improvements in exploration.
+RaPP: Novelty Detection with Reconstruction along Projection Pathway,"
+
+Ki Hyun Kim
+, 
+Sangwoo Shim
+, 
+Yongsub Lim
+, 
+Jongseob Jeon
+, 
+Jeongwoo Choi
+, 
+Byungchan Kim
+, 
+Andre S. Yoon
+
+","Novelty Detection
+Anomaly Detection
+Outlier Detection
+Semi-supervised Learning",A new methodology for novelty detection by utilizing hidden space activation values obtained from a deep autoencoder.
+Dynamics-Aware Embeddings,"
+
+William Whitney
+, 
+Rajat Agarwal
+, 
+Kyunghyun Cho
+, 
+Abhinav Gupta
+
+","representation learning
+reinforcement learning
+rl",State and action embeddings which incorporate the dynamics improve exploration and RL from pixels.
+Functional Regularisation for Continual Learning with Gaussian Processes,"
+
+Michalis K. Titsias
+, 
+Jonathan Schwarz
+, 
+Alexander G. de G. Matthews
+, 
+Razvan Pascanu
+, 
+Yee Whye Teh
+
+","Continual Learning
+Gaussian Processes
+Lifelong learning
+Incremental Learning",Using inducing point sparse Gaussian process methods to overcome catastrophic forgetting in neural networks.
+You CAN Teach an Old Dog New Tricks! On Training Knowledge Graph Embeddings,"
+
+Daniel Ruffinelli
+, 
+Samuel Broscheit
+, 
+Rainer Gemulla
+
+","knowledge graph embeddings
+hyperparameter optimization",We study the impact of training strategies on the performance of knowledge graph embeddings.
+AdvectiveNet: An Eulerian-Lagrangian Fluidic Reservoir for Point Cloud Processing,"
+
+Xingzhe He
+, 
+Helen Lu Cao
+, 
+Bo Zhu
+
+","Point Cloud Processing
+Physical Reservoir Learning
+Eulerian-Lagrangian Method
+PIC/FLIP",We present a new grid-particle learning method to process point clouds motivated by computational fluid dynamics.
+Never Give Up: Learning Directed Exploration Strategies,"
+
+Adrià Puigdomènech Badia
+, 
+Pablo Sprechmann
+, 
+Alex Vitvitskyi
+, 
+Daniel Guo
+, 
+Bilal Piot
+, 
+Steven Kapturowski
+, 
+Olivier Tieleman
+, 
+Martin Arjovsky
+, 
+Alexander Pritzel
+, 
+Andrew Bolt
+, 
+Charles Blundell
+
+","deep reinforcement learning
+exploration
+intrinsic motivation",We propose a reinforcement learning agent to solve hard exploration games by learning a range of directed exploratory policies. 
+Fair Resource Allocation in Federated Learning,"
+
+Tian Li
+, 
+Maziar Sanjabi
+, 
+Ahmad Beirami
+, 
+Virginia Smith
+
+","federated learning
+fairness
+distributed optimization","We propose a novel optimization objective that encourages fairness in heterogeneous federated networks, and develop a scalable method to solve it."
+Smooth markets: A basic mechanism for organizing gradient-based learners,"
+
+David Balduzzi
+, 
+Wojciech M. Czarnecki
+, 
+Tom Anthony
+, 
+Ian Gemp
+, 
+Edward Hughes
+, 
+Joel Leibo
+, 
+Georgios Piliouras
+, 
+Thore Graepel
+
+","game theory
+optimization
+gradient descent
+adversarial learning",We introduce a class of n-player games suited to gradient-based methods.
+StructBERT: Incorporating Language Structures into Pre-training for Deep Language Understanding,"
+
+Wei Wang
+, 
+Bin Bi
+, 
+Ming Yan
+, 
+Chen Wu
+, 
+Jiangnan Xia
+, 
+Zuyi Bao
+, 
+Liwei Peng
+, 
+Luo Si
+
+",,
+Training binary neural networks with real-to-binary convolutions,"
+
+Brais Martinez
+, 
+Jing Yang
+, 
+Adrian Bulat
+, 
+Georgios Tzimiropoulos
+
+",binary networks,
+Permutation Equivariant Models for Compositional Generalization in Language,"
+
+Jonathan Gordon
+, 
+David Lopez-Paz
+, 
+Marco Baroni
+, 
+Diane Bouchacourt
+
+","Compositionality
+Permutation Equivariance
+Language Processing","We propose a link between permutation equivariance and compositional generalization, and provide equivariant language models"
+Phase Transitions for the Information Bottleneck in Representation Learning,"
+
+Tailin Wu
+, 
+Ian Fischer
+
+","Information Theory
+Representation Learning
+Phase Transition",We give a theoretical analysis of the Information Bottleneck objective to understand and predict observed phase transitions in the prediction vs. compression tradeoff.
+Variational Template Machine for Data-to-Text Generation,"
+
+Rong Ye
+, 
+Wenxian Shi
+, 
+Hao Zhou
+, 
+Zhongyu Wei
+, 
+Lei Li
+
+",,
+Memory-Based Graph Networks,"
+
+Amir Hosein Khasahmadi
+, 
+Kaveh Hassani
+, 
+Parsa Moradi
+, 
+Leo Lee
+, 
+Quaid Morris
+
+","Graph Neural Networks
+Memory Networks
+Hierarchial Graph Representation Learning",We introduce an efficient memory layer to jointly learn representations and coarsen the input graphs.
+AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty,"
+
+Dan Hendrycks*
+, 
+Norman Mu*
+, 
+Ekin Dogus Cubuk
+, 
+Barret Zoph
+, 
+Justin Gilmer
+, 
+Balaji Lakshminarayanan
+
+","robustness
+uncertainty","We obtain state-of-the-art on robustness to data shifts, and we maintain calibration under data shift even though even when accuracy drops"
+AtomNAS: Fine-Grained End-to-End Neural Architecture Search,"
+
+Jieru Mei
+, 
+Yingwei Li
+, 
+Xiaochen Lian
+, 
+Xiaojie Jin
+, 
+Linjie Yang
+, 
+Alan Yuille
+, 
+Jianchao Yang
+
+","Neural Architecture Search
+Image Classification",A new state-of-the-art on Imagenet for mobile setting
+Residual Energy-Based Models for Text Generation,"
+
+Yuntian Deng
+, 
+Anton Bakhtin
+, 
+Myle Ott
+, 
+Arthur Szlam
+, Marc'Aurelio Ranzato
+      ","energy-based models
+text generation",We show that Energy-Based models when trained on the residual of an auto-regressive language model can be used effectively and efficiently to generate text. 
+A closer look at the approximation capabilities of neural networks,"
+
+Kai Fong Ernest Chong
+
+","deep learning
+approximation
+universal approximation theorem",A quantitative refinement of the universal approximation theorem via an algebraic approach.
+Deep Audio Priors Emerge From Harmonic Convolutional Networks,"
+
+Zhoutong Zhang
+, 
+Yunyun Wang
+, 
+Chuang Gan
+, 
+Jiajun Wu
+, 
+Joshua B. Tenenbaum
+, 
+Antonio Torralba
+, 
+William T. Freeman
+
+","Audio
+Deep Prior",A new operation called Harmonic Convolution makes deep network model audio priors without training.
+Expected Information Maximization: Using the I-Projection for Mixture Density Estimation,"
+
+Philipp Becker
+, 
+Oleg Arenz
+, 
+Gerhard Neumann
+
+","density estimation
+information projection
+mixture models
+generative learning
+multimodal modeling","A novel, non-adversarial, approach to learn latent variable models in general and mixture models in particular by computing the I-Projection solely based on samples."
+A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms,"
+
+Yoshua Bengio
+, 
+Tristan Deleu
+, 
+Nasim Rahaman
+, 
+Nan Rosemary Ke
+, 
+Sebastien Lachapelle
+, 
+Olexa Bilaniuk
+, 
+Anirudh Goyal
+, 
+Christopher Pal
+
+","meta-learning
+transfer learning
+structure learning
+modularity
+causality",This paper proposes a meta-learning objective based on speed of adaptation to transfer distributions to discover a modular decomposition and causal variables.
+On the interaction between supervision and self-play in emergent communication,"
+
+Ryan Lowe*
+, 
+Abhinav Gupta*
+, 
+Jakob Foerster
+, 
+Douwe Kiela
+, 
+Joelle Pineau
+
+","multi-agent communication
+self-play
+emergent languages",
+Dynamic Model Pruning with Feedback,"
+
+Tao Lin
+, 
+Sebastian U. Stich
+, 
+Luis Barba
+, 
+Daniil Dmitriev
+, 
+Martin Jaggi
+
+","network pruning
+dynamic reparameterization
+model compression",
+Latent Normalizing Flows for Many-to-Many Cross-Domain Mappings,"
+
+Shweta Mahajan
+, 
+Iryna Gurevych
+, 
+Stefan Roth
+
+",,
+Transferring Optimality Across Data Distributions via Homotopy Methods,"
+
+Matilde Gargiani
+, 
+Andrea Zanelli
+, 
+Quoc Tran Dinh
+, 
+Moritz Diehl
+, 
+Frank Hutter
+
+","deep learning
+numerical optimization
+transfer learning","We propose a new homotopy-based method to transfer ""optimality knowledge"" across different data distributions in order to speed up training of deep models.  "
+Regularizing activations in neural networks via distribution matching with the Wasserstein metric,"
+
+Taejong Joo
+, 
+Donggu Kang
+, 
+Byunghoon Kim
+
+","regularization
+Wasserstein metric
+deep learning",
+Mutual Information Gradient Estimation for Representation Learning,"
+
+Liangjian Wen
+, 
+Yiji Zhou
+, 
+Lirong He
+, 
+Mingyuan Zhou
+, 
+Zenglin Xu
+
+","Mutual Information
+Score Estimation
+Representation Learning
+Information Bottleneck",
+Lite Transformer with Long-Short Range Attention,"
+
+Zhanghao Wu*
+, 
+Zhijian Liu*
+, 
+Ji Lin
+, 
+Yujun Lin
+, 
+Song Han
+
+","efficient model
+transformer",
+A Function Space View of Bounded Norm Infinite Width ReLU Nets: The Multivariate Case,"
+
+Greg Ongie
+, 
+Rebecca Willett
+, 
+Daniel Soudry
+, 
+Nathan Srebro
+
+","inductive bias
+regularization
+infinite-width networks
+ReLU networks","We characterize the space of functions realizable as a ReLU network with an unbounded number of units (infinite width), but where the Euclidean norm of the weights is bounded."
+Adversarial Lipschitz Regularization,"
+
+Dávid Terjék
+
+","generative adversarial networks
+wasserstein generative adversarial networks
+lipschitz regularization
+adversarial training",alternative to gradient penalty
+Compositional Language Continual Learning,"
+
+Yuanpeng Li
+, 
+Liang Zhao
+, 
+Kenneth Church
+, 
+Mohamed Elhoseiny
+
+","Compositionality
+Continual Learning
+Lifelong Learning
+Sequence to Sequence Modeling",
+End to End Trainable Active Contours via Differentiable Rendering,"
+
+Shir Gur
+, 
+Tal Shaharabany
+, 
+Lior Wolf
+
+",,
+Provable Filter Pruning for Efficient Neural Networks,"
+
+Lucas Liebenwein
+, 
+Cenk Baykal
+, 
+Harry Lang
+, 
+Dan Feldman
+, 
+Daniela Rus
+
+","theory
+compression
+filter pruning
+neural networks",A sampling-based filter pruning approach for convolutional neural networks exhibiting provable guarantees on the size and performance of the pruned network.
+Effect of Activation Functions on the Training of Overparametrized Neural Nets,"
+
+Abhishek Panigrahi
+, 
+Abhishek Shetty
+, 
+Navin Goyal
+
+","activation functions
+deep learning theory
+neural networks",We provide theoretical results about the effect of activation function on the training of highly overparametrized 2-layer neural networks
+Lipschitz constant estimation of Neural Networks via sparse polynomial optimization,"
+
+Fabian Latorre
+, 
+Paul Rolland
+, 
+Volkan Cevher
+
+","robust networks
+Lipschitz constant
+polynomial optimization",LP-based upper bounds on the Lipschitz constant of Neural Networks
+State Alignment-based Imitation Learning,"
+
+Fangchen Liu
+, 
+Zhan Ling
+, 
+Tongzhou Mu
+, 
+Hao Su
+
+","Imitation learning
+Reinforcement Learning",
+Learning to Group: A Bottom-Up Framework for 3D Part Discovery in Unseen Categories,"
+
+Tiange Luo
+, 
+Kaichun Mo
+, 
+Zhiao Huang
+, 
+Jiarui Xu
+, 
+Siyu Hu
+, 
+Liwei Wang
+, 
+Hao Su
+
+","Shape Segmentation
+Zero-Shot Learning
+Learning Representations","A zero-shot segmentation framework for 3D shapes. Model the segmentation as a decision-making process, we propose an iterative method to dynamically extend the receptive field for achieving universal shape segmentation."
+Discriminative Particle Filter Reinforcement Learning for Complex Partial observations,"
+
+Xiao Ma
+, 
+Peter Karkus
+, 
+David Hsu
+, 
+Wee Sun Lee
+, 
+Nan Ye
+
+","Reinforcement Learning
+Partial Observability
+Differentiable Particle Filtering","We introduce DPFRL, a framework for reinforcement learning under partial and complex observations with an importance-weighted particle filter"
+Unrestricted Adversarial Examples via Semantic Manipulation,"
+
+Anand Bhattad
+, 
+Min Jin Chong
+, 
+Kaizhao Liang
+, 
+Bo Li
+, 
+D. A. Forsyth
+
+","Adversarial Examples
+Semantic Manipulation
+Image Colorization
+Texture Transfer",We introduce unrestricted perturbations that manipulate semantically meaningful image-based visual descriptors - color and texture - in order to generate effective and  photorealistic adversarial examples.
+Classification-Based Anomaly Detection for General Data,"
+
+Liron Bergman
+, 
+Yedid Hoshen
+
+",anomaly detection,"Anomaly detection method that uses: openset techniques for better generalization, random-transformation classification for non-image data."
+Scale-Equivariant Steerable Networks,"
+
+Ivan Sosnovik
+, 
+Michał Szmaja
+, 
+Arnold Smeulders
+
+","Scale Equivariance
+Steerable Filters",
+On Generalization Error Bounds of Noisy Gradient Methods for Non-Convex Learning,"
+
+Jian Li
+, 
+Xuanyuan Luo
+, 
+Mingda Qiao
+
+","learning theory
+generalization
+nonconvex learning
+stochastic gradient descent
+Langevin dynamics","We give some generalization error bounds of noisy gradient methods such as SGLD, Langevin dynamics, noisy momentum and so forth."
+Consistency Regularization for Generative Adversarial Networks,"
+
+Han Zhang
+, 
+Zizhao Zhang
+, 
+Augustus Odena
+, 
+Honglak Lee
+
+","Generative Adversarial Networks
+Consistency Regularization
+GAN",
+Differentiable learning of numerical rules in knowledge graphs,"
+
+Po-Wei Wang
+, 
+Daria Stepanova
+, 
+Csaba Domokos
+, 
+J. Zico Kolter
+
+","knowledge graphs
+rule learning
+differentiable neural logic",We present an efficient approach to integrating numerical comparisons into differentiable rule learning in knowledge graphs
+Learning to Move with Affordance Maps,"
+
+William Qi
+, 
+Ravi Teja Mullapudi
+, 
+Saurabh Gupta
+, 
+Deva Ramanan
+
+","navigation
+exploration","We address the task of autonomous exploration and navigation using spatial affordance maps that can be learned in a self-supervised manner, these outperform classic geometric baselines while being more sample efficient than contemporary RL algorithms"
+"Neural tangent kernels, transportation mappings, and universal approximation","
+
+Ziwei Ji
+, 
+Matus Telgarsky
+, 
+Ruicheng Xian
+
+","Neural Tangent Kernel
+universal approximation
+Barron
+transport mapping","The NTK linearization is a universal approximator, even when looking arbitrarily close to initialization"
+SCALOR: Generative World Models with Scalable Object Representations,"
+
+Jindong Jiang*
+, 
+Sepehr Janghorbani*
+, 
+Gerard De Melo
+, 
+Sungjin Ahn
+
+",,
+Prediction Poisoning: Towards Defenses Against DNN Model Stealing Attacks,"
+
+Tribhuvanesh Orekondy
+, 
+Bernt Schiele
+, 
+Mario Fritz
+
+","model functionality stealing
+adversarial machine learning",We propose the first approach that can resist DNN model stealing/extraction attacks
+Domain Adaptive Multibranch Networks,"
+
+Róger Bermúdez-Chacón
+, 
+Mathieu Salzmann
+, 
+Pascal Fua
+
+","Domain Adaptation
+Computer Vision","A Multiflow Network is a dynamic architecture for domain adaptation that learns potentially different computational graphs per domain, so as to map them to a common representation where inference can be performed in a domain-agnostic fashion."
+DiffTaichi: Differentiable Programming for Physical Simulation,"
+
+Yuanming Hu
+, 
+Luke Anderson
+, 
+Tzu-Mao Li
+, 
+Qi Sun
+, 
+Nathan Carr
+, 
+Jonathan Ragan-Kelley
+, 
+Fredo Durand
+
+","Differentiable programming
+robotics
+optimal control
+physical simulation
+machine learning system","We study the problem of learning and optimizing through physical simulations via differentiable programming, using our proposed DiffSim programming language and compiler."
+Pitfalls of In-Domain Uncertainty Estimation and Ensembling in Deep Learning,"
+
+Arsenii Ashukha
+, 
+Alexander Lyzhov
+, 
+Dmitry Molchanov
+, 
+Dmitry Vetrov
+
+","uncertainty
+in-domain uncertainty
+deep ensembles
+ensemble learning
+deep learning",We highlight the problems with common metrics of in-domain uncertainty and perform a broad study of modern ensembling techniques.
+Episodic Reinforcement Learning with Associative Memory,"
+
+Guangxiang Zhu*
+, 
+Zichuan Lin*
+, 
+Guangwen Yang
+, 
+Chongjie Zhang
+
+","Deep Reinforcement Learning
+Episodic Control
+Episodic Memory
+Associative Memory
+Non-Parametric Method
+Sample Efficiency",
+Sub-policy Adaptation for Hierarchical Reinforcement Learning,"
+
+Alexander Li
+, 
+Carlos Florensa
+, 
+Ignasi Clavera
+, 
+Pieter Abbeel
+
+","Hierarchical Reinforcement Learning
+Transfer
+Skill Discovery","We propose HiPPO, a stable Hierarchical Reinforcement Learning algorithm that can train several levels of the hierarchy simultaneously, giving good performance both in skill discovery and adaptation."
+Critical initialisation in continuous approximations of binary neural networks,"
+
+George Stamatescu
+, 
+Federica Gerace
+, 
+Carlo Lucibello
+, 
+Ian Fuss
+, 
+Langford White
+
+",,signal propagation theory applied to continuous surrogates of binary nets;  counter intuitive initialisation; reparameterisation trick not helpful
+Deep Orientation Uncertainty Learning based on a Bingham Loss,"
+
+Igor Gilitschenski
+, 
+Roshni Sahoo
+, 
+Wilko Schwarting
+, 
+Alexander Amini
+, 
+Sertac Karaman
+, 
+Daniela Rus
+
+","Orientation Estimation
+Directional Statistics
+Bingham Distribution",A method for learning to predict uncertainties over orientations using the Bingham Distribution
+Co-Attentive Equivariant Neural Networks: Focusing Equivariance On Transformations Co-Occurring in Data,"
+
+David W. Romero
+, 
+Mark Hoogendoorn
+
+","Equivariant Neural Networks
+Attention Mechanisms
+Deep Learning",We utilize attention to restrict equivariant neural networks to the set or co-occurring transformations in data. 
+Mixed Precision DNNs: All you need is a good parametrization,"
+
+Stefan Uhlich
+, 
+Lukas Mauch
+, 
+Fabien Cardinaux
+, 
+Kazuki Yoshiyama
+, 
+Javier Alonso Garcia
+, 
+Stephen Tiedemann
+, 
+Thomas Kemp
+, 
+Akira Nakamura
+
+","Deep Neural Network Compression
+Quantization
+Straight through gradients",
+Information Geometry of Orthogonal Initializations and Training,"
+
+Piotr Aleksander Sokół
+, 
+Il Memming Park
+
+","Fisher
+mean-field
+deep learning","nearly isometric DNN initializations imply low parameter space curvature, and a lower condition number, but that's not always great"
+Extreme Classification via Adversarial Softmax Approximation,"
+
+Robert Bamler
+, 
+Stephan Mandt
+
+","Extreme classification
+negative sampling","An efficient, unbiased approximation of the softmax loss function for extreme classification"
+Learning Nearly Decomposable Value Functions Via Communication Minimization,"
+
+Tonghan Wang*
+, 
+Jianhao Wang*
+, 
+Chongyi Zheng
+, 
+Chongjie Zhang
+
+","Multi-agent reinforcement learning
+Nearly decomposable value function
+Minimized communication
+Multi-agent systems",
+Robust Subspace Recovery Layer for Unsupervised Anomaly Detection,"
+
+Chieh-Hsin Lai
+, 
+Dongmian Zou
+, 
+Gilad Lerman
+
+","robust subspace recovery
+unsupervised anomaly detection
+outliers
+latent space
+autoencoder",This work proposes an autoencoder with a novel robust subspace recovery layer for unsupervised anomaly detection and demonstrates state-of-the-art results on various datasets.
+Learning to Coordinate Manipulation Skills via Skill Behavior Diversification,"
+
+Youngwoon Lee
+, 
+Jingyun Yang
+, 
+Joseph J. Lim
+
+","reinforcement learning
+hierarchical reinforcement learning
+modular framework
+skill coordination
+bimanual manipulation",We propose to tackle complex tasks of multiple agents by learning composable primitive skills and coordination of the skills. 
+NAS-Bench-1Shot1: Benchmarking and Dissecting One-shot Neural Architecture Search,"
+
+Arber Zela
+, 
+Julien Siems
+, 
+Frank Hutter
+
+","Neural Architecture Search
+Deep Learning
+Computer Vision",
+Conservative Uncertainty Estimation By Fitting Prior Networks,"
+
+Kamil Ciosek
+, 
+Vincent Fortuin
+, 
+Ryota Tomioka
+, 
+Katja Hofmann
+, 
+Richard Turner
+
+","uncertainty quantification
+deep learning
+Gaussian process
+epistemic uncertainty
+random network
+prior
+Bayesian inference",We provide theoretical support to uncertainty estimates for deep learning obtained fitting random priors.
+Understanding Generalization in Recurrent Neural Networks,"
+
+Zhuozhuo Tu
+, 
+Fengxiang He
+, 
+Dacheng Tao
+
+","generalization
+recurrent neural networks
+learning theory",We prove generalization bounds for recurrent neural networks based on matrix 1-norm and Fisher-Rao norm.
+The Shape of Data: Intrinsic Distance for Data Distributions,"
+
+Anton Tsitsulin
+, 
+Marina Munkhoeva
+, 
+Davide Mottin
+, 
+Panagiotis Karras
+, 
+Alex Bronstein
+, 
+Ivan Oseledets
+, 
+Emmanuel Mueller
+
+","Deep Learning
+Generative Models
+Nonlinear Dimensionality Reduction
+Manifold Learning
+Similarity and Distance Learning
+Spectral Methods",We propose a metric for comparing data distributions based on their geometry while not relying on any positional information.
+How to 0wn the NAS in Your Spare Time,"
+
+Sanghyun Hong
+, 
+Michael Davinroy
+, 
+Yiǧitcan Kaya
+, 
+Dana Dachman-Soled
+, 
+Tudor Dumitraş
+
+",Reconstructing Novel Deep Learning Systems,"We design an algorithm that reconstructs the key components of a novel deep learning system by exploiting a small amount of information leakage from a cache side-channel attack, Flush+Reload."
+Enabling Deep Spiking Neural Networks with Hybrid Conversion and Spike Timing Dependent Backpropagation,"
+
+Nitin Rathi
+, 
+Gopalakrishnan Srinivasan
+, 
+Priyadarshini Panda
+, 
+Kaushik Roy
+
+","spiking neural networks
+ann-snn conversion
+spike-based backpropagation
+imagenet",A hybrid training technique that combines ANN-SNN conversion and spike-based backpropagation to optimize training effort and inference latency.
+BREAKING CERTIFIED DEFENSES: SEMANTIC ADVERSARIAL EXAMPLES WITH SPOOFED ROBUSTNESS CERTIFICATES,"
+
+Amin Ghiasi
+, 
+Ali Shafahi
+, 
+Tom Goldstein
+
+",,
+Query-efficient Meta Attack to Deep Neural Networks,"
+
+Jiawei Du
+, 
+Hu Zhang
+, 
+Joey Tianyi Zhou
+, 
+Yi Yang
+, 
+Jiashi Feng
+
+","Adversarial attack
+Meta learning",
+Massively Multilingual Sparse Word Representations,"
+
+Gábor Berend
+
+","sparse word representations
+multilinguality
+sparse coding",We propose an efficient algorithm for determining multilingually comparable sparse word representations that we release for 27 typologically diverse languages.
+Monotonic Multihead Attention,"
+
+Xutai Ma
+, 
+Juan Miguel Pino
+, 
+James Cross
+, 
+Liezl Puzon
+, 
+Jiatao Gu
+
+","Simultaneous Translation
+Transformer
+Monotonic Attention",Make the transformer streamable with monotonic attention.
+Gradients as Features for Deep Representation Learning,"
+
+Fangzhou Mu
+, 
+Yingyu Liang
+, 
+Yin Li
+
+","representation learning
+gradient features
+deep learning","Given a pre-trained model, we explored the per-sample gradients of the model parameters relative to a task-specific loss, and constructed a linear model that combines gradients of model parameters and the activation of the model."
+"Pay Attention to Features, Transfer Learn Faster CNNs","
+
+Kafeng Wang
+, 
+Xitong Gao
+, 
+Yiren Zhao
+, 
+Xingjian Li
+, 
+Dejing Dou
+, 
+Cheng-Zhong Xu
+
+","transfer learning
+pruning
+faster CNNs","We introduce attentive feature distillation and selection, to fine-tune a large model and produce a faster one."

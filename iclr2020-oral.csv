@@ -1,0 +1,731 @@
+CATER: A diagnostic dataset for Compositional Actions & TEmporal Reasoning,"
+
+Rohit Girdhar
+, 
+Deva Ramanan
+
+","Video Understanding
+Temporal Reasoning","We propose a new video understanding benchmark, with tasks that by-design require temporal reasoning to be solved, unlike most existing video datasets."
+BackPACK: Packing more into Backprop,"
+
+Felix Dangel
+, 
+Frederik Kunstner
+, 
+Philipp Hennig
+
+",,
+GenDICE: Generalized Offline Estimation of Stationary Values,"
+
+Ruiyi Zhang*
+, 
+Bo Dai*
+, 
+Lihong Li
+, 
+Dale Schuurmans
+
+","Off-policy Policy Evaluation
+Reinforcement Learning
+Stationary Distribution Correction Estimation
+Fenchel Dual","In this paper, we proposed a novel algorithm, GenDICE, for general stationary distribution correction estimation, which can handle both discounted and average off-policy evaluation on multiple behavior-agnostic samples."
+Principled Weight Initialization for Hypernetworks,"
+
+Oscar Chang
+, 
+Lampros Flokas
+, 
+Hod Lipson
+
+","hypernetworks
+initialization
+optimization
+meta-learning",The first principled weight initialization method for hypernetworks
+On the Convergence of FedAvg on Non-IID Data,"
+
+Xiang Li
+, 
+Kaixuan Huang
+, 
+Wenhao Yang
+, 
+Shusen Wang
+, 
+Zhihua Zhang
+
+","Federated Learning
+stochastic optimization
+Federated Averaging",
+Data-dependent Gaussian Prior Objective for Language Generation,"
+
+Zuchao Li
+, 
+Rui Wang
+, 
+Kehai Chen
+, 
+Masso Utiyama
+, 
+Eiichiro Sumita
+, 
+Zhuosheng Zhang
+, 
+Hai Zhao
+
+","Gaussian Prior Objective
+Language Generation","We introduce an extra data-dependent Gaussian prior objective to augment the current MLE training, which is designed to capture the prior knowledge in the ground-truth data."
+Contrastive Learning of Structured World Models,"
+
+Thomas Kipf
+, 
+Elise van der Pol
+, 
+Max Welling
+
+","state representation learning
+graph neural networks
+model-based reinforcement learning
+relational learning
+object discovery",Contrastively-trained Structured World Models (C-SWMs) learn object-oriented state representations and a relational model of an environment from raw pixel input.
+Neural Network Branching for Neural Network Verification,"
+
+Jingyue Lu
+, 
+M. Pawan Kumar
+
+","Neural Network Verification
+Branch and Bound
+Graph Neural Network
+Learning to branch",We propose a novel learning to branch framework using graph neural networks to improve branch and bound based neural network verification methods. 
+Why Gradient Clipping Accelerates Training: A Theoretical Justification for Adaptivity,"
+
+Jingzhao Zhang
+, 
+Tianxing He
+, 
+Suvrit Sra
+, 
+Ali Jadbabaie
+
+","Adaptive methods
+optimization
+deep learning",Gradient clipping provably accelerates gradient descent for non-smooth non-convex functions.
+Posterior sampling for multi-agent reinforcement learning: solving extensive games with imperfect information,"
+
+Yichi Zhou
+, 
+Jialian Li
+, 
+Jun Zhu
+
+",,
+Mogrifier LSTM,"
+
+Gábor Melis
+, 
+Tomáš Kočiský
+, 
+Phil Blunsom
+
+","lstm
+language modelling",An LSTM extension with state-of-the-art language modelling results.
+Learning Hierarchical Discrete Linguistic Units from Visually-Grounded Speech,"
+
+David Harwath*
+, 
+Wei-Ning Hsu*
+, 
+James Glass
+
+","visually-grounded speech
+self-supervised learning
+discrete representation learning
+vision and language
+vision and speech
+hierarchical representation learning","Vector quantization layers incorporated into a self-supervised neural model of speech audio learn hierarchical and discrete linguistic units (phone-like, word-like) when trained with a visual-grounding objective. "
+Mirror-Generative Neural Machine Translation,"
+
+Zaixiang Zheng
+, 
+Hao Zhou
+, 
+Shujian Huang
+, 
+Lei Li
+, 
+Xin-Yu Dai
+, 
+Jiajun Chen
+
+","neural machine translation
+generative model
+mirror",
+Cyclical Stochastic Gradient MCMC for Bayesian Deep Learning,"
+
+Ruqi Zhang
+, 
+Chunyuan Li
+, 
+Jianyi Zhang
+, 
+Changyou Chen
+, 
+Andrew Gordon Wilson
+
+",,
+Your classifier is secretly an energy based model and you should treat it like one,"
+
+Will Grathwohl
+, 
+Kuan-Chieh Wang
+, 
+Joern-Henrik Jacobsen
+, 
+David Duvenaud
+, 
+Mohammad Norouzi
+, 
+Kevin Swersky
+
+","energy based models
+adversarial robustness
+generative models
+out of distribution detection
+outlier detection
+hybrid models
+robustness
+calibration",We show that there is a hidden generative model inside of every classifier. We demonstrate how to train this model and show the many benefits of doing so.  
+Dynamics-Aware Unsupervised Discovery of Skills,"
+
+Archit Sharma
+, 
+Shixiang Gu
+, 
+Sergey Levine
+, 
+Vikash Kumar
+, 
+Karol Hausman
+
+","reinforcement learning
+unsupervised learning
+model-based learning
+deep learning
+hierarchical reinforcement learning",We propose an unsupervised skill discovery which enables model-based planning for hierarchical reinforcement learning.
+Optimal Strategies Against Generative Attacks,"
+
+Roy Mor
+, 
+Erez Peterfreund
+, 
+Matan Gavish
+, 
+Amir Globerson
+
+",,
+GraphZoom: A Multi-level Spectral Approach for Accurate and Scalable Graph Embedding,"
+
+Chenhui Deng
+, 
+Zhiqiang Zhao
+, 
+Yongyu Wang
+, 
+Zhiru Zhang
+, 
+Zhuo Feng
+
+","graph embedding
+unsupervised learning
+multi-level optimization
+spectral graph theory",A multi-level spectral approach to improving the quality and scalability of unsupervised graph embedding.
+Harnessing Structures for Value-Based Planning and Reinforcement Learning,"
+
+Yuzhe Yang
+, 
+Guo Zhang
+, 
+Zhi Xu
+, 
+Dina Katabi
+
+","Deep reinforcement learning
+value-based reinforcement learning",We propose a generic framework that allows for exploiting the low-rank structure in both planning and deep reinforcement learning.
+Comparing Rewinding and Fine-tuning in Neural Network Pruning,"
+
+Alex Renda
+, 
+Jonathan Frankle
+, 
+Michael Carbin
+
+","pruning
+sparsity
+fine-tuning
+lottery ticket","Instead of fine-tuning after pruning, rewind weights or learning rate schedule to their values earlier in training and retrain from there to achieve higher accuracy when pruning neural networks."
+Meta-Q-Learning,"
+
+Rasool Fakoor
+, 
+Pratik Chaudhari
+, 
+Stefano Soatto
+, 
+Alexander J. Smola
+
+","meta reinforcement learning
+propensity estimation
+off-policy",MQL is a simple off-policy meta-RL algorithm that recycles data from the meta-training replay buffer to adapt to new tasks.
+Mathematical Reasoning in Latent Space,"
+
+Dennis Lee
+, 
+Christian Szegedy
+, 
+Markus Rabe
+, 
+Sarah Loos
+, 
+Kshitij Bansal
+
+","machine learning
+formal reasoning",Learning to reason about higher order logic formulas in the latent space.
+A Theory of Usable Information under Computational Constraints,"
+
+Yilun Xu
+, 
+Shengjia Zhao
+, 
+Jiaming Song
+, 
+Russell Stewart
+, 
+Stefano Ermon
+
+",,
+Geometric Analysis of Nonconvex Optimization Landscapes for Overcomplete Learning,"
+
+Qing Qu
+, 
+Yuexiang Zhai
+, 
+Xiao Li
+, 
+Yuqian Zhang
+, 
+Zhihui Zhu
+
+","dictionary learning
+sparse representations
+nonconvex optimization",
+"Deep Batch Active Learning by Diverse, Uncertain Gradient Lower Bounds","
+
+Jordan T. Ash
+, 
+Chicheng Zhang
+, 
+Akshay Krishnamurthy
+, 
+John Langford
+, 
+Alekh Agarwal
+
+","deep learning
+active learning
+batch active learning","We introduce a new batch active learning algorithm that's robust to model architecture, batch size, and dataset."
+Understanding and Robustifying Differentiable Architecture Search,"
+
+Arber Zela
+, 
+Thomas Elsken
+, 
+Tonmoy Saikia
+, 
+Yassine Marrakchi
+, 
+Thomas Brox
+, 
+Frank Hutter
+
+","Neural Architecture Search
+AutoML
+AutoDL
+Deep Learning
+Computer Vision",We study the failure modes of DARTS (Differentiable Architecture Search) by looking at the eigenvalues of the Hessian of validation loss w.r.t. the architecture and propose robustifications based on our analysis.
+A Closer Look at Deep Policy Gradients,"
+
+Andrew Ilyas
+, 
+Logan Engstrom
+, 
+Shibani Santurkar
+, 
+Dimitris Tsipras
+, 
+Firdaus Janoos
+, 
+Larry Rudolph
+, 
+Aleksander Madry
+
+","deep policy gradient methods
+deep reinforcement learning
+trpo
+ppo",
+Implementation Matters in Deep RL: A Case Study on PPO and TRPO,"
+
+Logan Engstrom
+, 
+Andrew Ilyas
+, 
+Shibani Santurkar
+, 
+Dimitris Tsipras
+, 
+Firdaus Janoos
+, 
+Larry Rudolph
+, 
+Aleksander Madry
+
+","deep policy gradient methods
+deep reinforcement learning
+trpo
+ppo",
+Fast Task Inference with Variational Intrinsic Successor Features,"
+
+Steven Hansen
+, 
+Will Dabney
+, 
+Andre Barreto
+, 
+David Warde-Farley
+, 
+Tom Van de Wiele
+, 
+Volodymyr Mnih
+
+","Reinforcement Learning
+Variational Intrinsic Control
+Successor Features","We introduce Variational Intrinsic Successor FeatuRes (VISR), a novel algorithm which learns controllable features that can be leveraged to provide fast task inference through the successor features framework."
+Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks,"
+
+Hae Beom Lee
+, 
+Hayeon Lee
+, 
+Donghyun Na
+, 
+Saehoon Kim
+, 
+Minseop Park
+, 
+Eunho Yang
+, 
+Sung Ju Hwang
+
+","meta-learning
+few-shot learning
+Bayesian neural network
+variational inference
+learning to learn
+imbalanced and out-of-distribution tasks for few-shot learning","A novel meta-learning model that adaptively balances the effect of the meta-learning and task-specific learning, and also class-specific learning within each task."
+RNA Secondary Structure Prediction By Learning Unrolled Algorithms,"
+
+Xinshi Chen
+, 
+Yu Li
+, 
+Ramzan Umarov
+, 
+Xin Gao
+, 
+Le Song
+
+","RNA secondary structure prediction
+learning algorithm
+deep architecture design
+computational biology","A DL model for RNA secondary structure prediction, which uses an unrolled algorithm in the architecture to enforce constraints."
+Watch the Unobserved: A Simple Approach to Parallelizing Monte Carlo Tree Search,"
+
+Anji Liu
+, 
+Jianshu Chen
+, 
+Mingze Yu
+, 
+Yu Zhai
+, 
+Xuewen Zhou
+, 
+Ji Liu
+
+","parallel Monte Carlo Tree Search (MCTS)
+Upper Confidence bound for Trees (UCT)
+Reinforcement Learning (RL)",We developed an effective parallel UCT algorithm that achieves linear speedup and suffers negligible performance loss.
+Target-Embedding Autoencoders for Supervised Representation Learning,"
+
+Daniel Jarrett
+, 
+Mihaela van der Schaar
+
+","autoencoders
+supervised learning
+representation learning
+target-embedding
+label-embedding",
+Reformer: The Efficient Transformer,"
+
+Nikita Kitaev
+, 
+Lukasz Kaiser
+, 
+Anselm Levskaya
+
+","attention
+locality sensitive hashing
+reversible layers",Efficient Transformer with locality-sensitive hashing and reversible layers
+Rotation-invariant clustering of neuronal responses in primary visual cortex,"
+
+Ivan Ustyuzhaninov
+, 
+Santiago A. Cadena
+, 
+Emmanouil Froudarakis
+, 
+Paul G. Fahey
+, 
+Edgar Y. Walker
+, 
+Erick Cobos
+, 
+Jacob Reimer
+, 
+Fabian H. Sinz
+, 
+Andreas S. Tolias
+, 
+Matthias Bethge
+, 
+Alexander S. Ecker
+
+","computational neuroscience
+neural system identification
+functional cell types
+deep learning
+rotational equivariance",We classify mouse V1 neurons into putative functional cell types based on their representations in a CNN predicting neural responses
+Causal Discovery with Reinforcement Learning,"
+
+Shengyu Zhu
+, 
+Ignavier Ng
+, 
+Zhitang Chen
+
+","causal discovery
+structure learning
+reinforcement learning
+directed acyclic graph",We apply reinforcement learning to score-based causal discovery and achieve promising results on both synthetic and real datasets
+Intrinsically Motivated Discovery of Diverse Patterns in Self-Organizing Systems,"
+
+Chris Reinke
+, 
+Mayalen Etcheverry
+, 
+Pierre-Yves Oudeyer
+
+","deep learning
+unsupervised Learning
+self-organization
+game-of-life",We study how an unsupervised exploration and feature learning approach addresses efficiently a new problem: automatic discovery of diverse self-organized patterns in high-dim complex systems such as the game of life.
+Restricting the Flow: Information Bottlenecks for Attribution,"
+
+Karl Schulz
+, 
+Leon Sixt
+, 
+Federico Tombari
+, 
+Tim Landgraf
+
+","Attribution
+Informational Bottleneck
+Interpretable Machine Learning
+Explainable AI",We apply the informational bottleneck concept to attribution.
+Building Deep Equivariant Capsule Networks,"
+
+Sai Raam Venkataraman
+, 
+S. Balasubramanian
+, 
+R. Raghunatha Sarma
+
+","Capsule networks
+equivariance","A new scalable, group-equivariant model for capsule networks that preserves compositionality under transformations, and is empirically more transformation-robust to older capsule network models."
+A Generalized Training Approach for Multiagent Learning,"
+
+Paul Muller
+, 
+Shayegan Omidshafiei
+, 
+Mark Rowland
+, 
+Karl Tuyls
+, 
+Julien Perolat
+, 
+Siqi Liu
+, 
+Daniel Hennes
+, 
+Luke Marris
+, 
+Marc Lanctot
+, 
+Edward Hughes
+, 
+Zhe Wang
+, 
+Guy Lever
+, 
+Nicolas Heess
+, 
+Thore Graepel
+, 
+Remi Munos
+
+","multiagent learning
+game theory
+training
+games",
+High Fidelity Speech Synthesis with Adversarial Networks,"
+
+Mikołaj Bińkowski
+, 
+Jeff Donahue
+, 
+Sander Dieleman
+, 
+Aidan Clark
+, 
+Erich Elsen
+, 
+Norman Casagrande
+, 
+Luis C. Cobo
+, 
+Karen Simonyan
+
+","texttospeech
+speechsynthesis
+audiosynthesis
+gans
+generativeadversarialnetworks
+implicitgenerativemodels","We introduce GAN-TTS, a Generative Adversarial Network for Text-to-Speech, which achieves Mean Opinion Score (MOS) 4.2."
+SEED RL: Scalable and Efficient Deep-RL with Accelerated Central Inference,"
+
+Lasse Espeholt
+, 
+Raphaël Marinier
+, 
+Piotr Stanczyk
+, 
+Ke Wang
+, 
+Marcin Michalski‎
+
+","machine learning
+reinforcement learning
+scalability
+distributed
+DeepMind Lab
+ALE
+Atari-57
+Google Research Football","SEED RL, a scalable and efficient deep reinforcement learning agent with accelerated central inference. State of the art results, reduces cost and can process millions of frames per second. "
+Meta-Learning with Warped Gradient Descent,"
+
+Sebastian Flennerhag
+, 
+Andrei A. Rusu
+, 
+Razvan Pascanu
+, 
+Francesco Visin
+, 
+Hujun Yin
+, 
+Raia Hadsell
+
+","meta-learning
+transfer learning","We propose a novel framework for meta-learning a gradient-based update rule that scales to beyond few-shot learning and is applicable to any form of learning, including continual learning."
+Convolutional Conditional Neural Processes,"
+
+Jonathan Gordon
+, 
+Wessel P. Bruinsma
+, 
+Andrew Y. K. Foong
+, 
+James Requeima
+, 
+Yann Dubois
+, 
+Richard E. Turner
+
+","Neural Processes
+Deep Sets
+Translation Equivariance",We extend deep sets to functional embeddings and Neural Processes to include translation equivariant members
+Gradient Descent Maximizes the Margin of Homogeneous Neural Networks,"
+
+Kaifeng Lyu
+, 
+Jian Li
+
+","margin
+homogeneous
+gradient descent",We study the implicit bias of gradient descent and prove under a minimal set of assumptions that the parameter direction of homogeneous models converges to KKT points of a natural margin maximization problem.
+Adversarial Training and Provable Defenses: Bridging the Gap,"
+
+Mislav Balunovic
+, 
+Martin Vechev
+
+","adversarial examples
+adversarial training
+provable defense
+convex relaxations
+deep learning",We propose a novel combination of adversarial training and provable defenses which produces a model with state-of-the-art accuracy and certified robustness on CIFAR-10. 
+Differentiable Reasoning over a Virtual Knowledge Base,"
+
+Bhuwan Dhingra
+, 
+Manzil Zaheer
+, 
+Vidhisha Balachandran
+, 
+Graham Neubig
+, 
+Ruslan Salakhutdinov
+, 
+William W. Cohen
+
+","Question Answering
+Multi-Hop QA
+Deep Learning
+Knowledge Bases
+Information Extraction
+Data Structures for QA",Differentiable multi-hop access to a textual knowledge base of indexed contextual representations
+Federated Learning with Matched Averaging,"
+
+Hongyi Wang
+, 
+Mikhail Yurochkin
+, 
+Yuekai Sun
+, 
+Dimitris Papailiopoulos
+, 
+Yasaman Khazaeni
+
+",federated learning,Communication efficient federated learning with layer-wise matching
