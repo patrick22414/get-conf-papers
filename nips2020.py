@@ -46,13 +46,17 @@ if __name__ == "__main__":
 
         papers.append(paper)
 
-    for paper in papers:
-        if "representation" in paper.title.lower():
-            print(paper.title)
-
-    with open("nips2020.csv", "w") as fo:
+    count = 0
+    with open("nips2020-reprlearning.csv", "w") as fo:
         csv_writer = csv.writer(fo)
         for paper in papers:
-            csv_writer.writerow(
-                [paper.title, "\n".join(paper.authors), "\n".join(paper.insts)]
-            )
+            if any(
+                s in paper.title.lower()
+                for s in ["represent", "multiview", "disentangl",]
+            ):
+                print(paper.title)
+                csv_writer.writerow(
+                    [paper.title, "\n".join(paper.authors), "\n".join(paper.insts)]
+                )
+                count += 1
+    print(count)

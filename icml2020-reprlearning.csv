@@ -1,0 +1,119 @@
+Incidence Networks for Geometric Deep Learning,"Marjan Albooyeh
+Daniele Bertolini
+Siamak Ravanbakhsh","Representation Learning
+Equivariance",https://proceedings.icml.cc/static/paper_files/icml/2020/2924-Paper.pdf
+Learnable Group Transform For Time-Series,"Romain Cosentino
+Behnaam Aazhang","Representation Learning
+Sequential, Network, and Time-Series Modeling",https://proceedings.icml.cc/static/paper_files/icml/2020/5795-Paper.pdf
+Constant Curvature Graph Convolutional Networks,"Gregor Bachmann
+Gary Becigneul
+Octavian Ganea","Representation Learning
+Applications - Other
+Deep Learning - General
+Sequential, Network, and Time-Series Modeling",https://proceedings.icml.cc/static/paper_files/icml/2020/5188-Paper.pdf
+Differentiating through the Fréchet Mean,"Aaron Lou
+Isay Katsman
+Qingxuan Jiang
+Serge Belongie
+Ser-Nam Lim
+Christopher De Sa","Representation Learning
+Deep Learning - General
+Deep Learning - General
+Optimization - Convex",https://proceedings.icml.cc/static/paper_files/icml/2020/1896-Paper.pdf
+Contrastive Multi-View Representation Learning on Graphs,"Kaveh Hassani
+Amir Hosein Khasahmadi","Representation Learning
+Unsupervised and Semi-Supervised Learning",https://proceedings.icml.cc/static/paper_files/icml/2020/1971-Paper.pdf
+Simple and Deep Graph Convolutional Networks,"Ming Chen
+Zhewei Wei
+Zengfeng Huang
+Bolin Ding
+Yaliang Li",Representation Learning,https://proceedings.icml.cc/static/paper_files/icml/2020/2172-Paper.pdf
+Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere,"Tongzhou Wang
+Phillip Isola","Representation Learning
+Unsupervised and Semi-Supervised Learning
+Learning Theory",https://proceedings.icml.cc/static/paper_files/icml/2020/5503-Paper.pdf
+Semiparametric Nonlinear Bipartite Graph Representation Learning with Provable Guarantees,"Sen Na
+Yuwei Luo
+Zhuoran Yang
+Zhaoran Wang
+Mladen Kolar","Representation Learning
+Optimization - Non-convex",https://proceedings.icml.cc/static/paper_files/icml/2020/2616-Paper.pdf
+Learning and Evaluating Contextual Embedding of Source Code,"Aditya Kanade
+Petros Maniatis
+Gogul Balakrishnan
+Kensen Shi","Representation Learning
+Program understanding",https://proceedings.icml.cc/static/paper_files/icml/2020/5401-Paper.pdf
+Graph Random Neural Features for Distance-Preserving Graph Representations,"Daniele Zambon
+Cesare Alippi
+Lorenzo Livi","Representation Learning
+General Machine Learning Techniques
+Sequential, Network, and Time-Series Modeling",https://proceedings.icml.cc/static/paper_files/icml/2020/1649-Paper.pdf
+A Simple Framework for Contrastive Learning of Visual Representations,"Ting Chen
+Simon Kornblith
+Mohammad Norouzi
+Geoffrey Hinton","Representation Learning
+Deep Learning - Algorithms
+Unsupervised and Semi-Supervised Learning
+Unsupervised and Semi-Supervised Learning",https://proceedings.icml.cc/static/paper_files/icml/2020/6165-Paper.pdf
+A Free-Energy Principle for Representation Learning,"Yansong Gao
+Pratik Chaudhari","Representation Learning
+Deep Learning - General
+Transfer, Multitask and Meta-learning
+Learning Theory",https://proceedings.icml.cc/static/paper_files/icml/2020/3813-Paper.pdf
+On Variational Learning of Controllable Representations for Text without Supervision,"Peng Xu
+Jackie Chi Kit Cheung
+Yanshuai Cao","Representation Learning
+Applications - Language, Speech and Dialog
+Sequential, Network, and Time-Series Modeling
+Unsupervised and Semi-Supervised Learning",https://proceedings.icml.cc/static/paper_files/icml/2020/5816-Paper.pdf
+Automatic Shortcut Removal for Self-Supervised Representation Learning,"Matthias Minderer
+Olivier Bachem
+Neil Houlsby
+Michael Tschannen","Representation Learning
+Unsupervised and Semi-Supervised Learning",https://proceedings.icml.cc/static/paper_files/icml/2020/4487-Paper.pdf
+Learning De-biased Representations with Biased Representations,"Hyojin Bahng
+Sanghyuk Chun
+Sangdoo Yun
+Jaegul Choo
+Seong Joon Oh",Representation Learning,https://proceedings.icml.cc/static/paper_files/icml/2020/138-Paper.pdf
+Nested Subspace Arrangement for Representation of Relational Data,"Nozomi Hata
+Shizuo Kaji
+Akihiro Yoshida
+Katsuki Fujisawa","Representation Learning
+Sequential, Network, and Time-Series Modeling",https://proceedings.icml.cc/static/paper_files/icml/2020/2159-Paper.pdf
+Predictive Coding for Locally-Linear Control,"Rui Shu
+Tung D Nguyen
+Yinlam Chow
+Tuan Pham
+Khoat Than
+Mohammad Ghavamzadeh
+Stefano Ermon
+Hung Bui","Representation Learning
+Planning, Control, and Multiagent Learning
+Deep Learning - Generative Models and Autoencoders
+Reinforcement Learning - Deep RL",https://proceedings.icml.cc/static/paper_files/icml/2020/6329-Paper.pdf
+Weakly-Supervised Disentanglement Without Compromises,"Francesco Locatello
+Ben Poole
+Gunnar Rätsch
+Bernhard Schölkopf
+Olivier Bachem
+Michael Tschannen","Representation Learning
+Deep Learning - Generative Models and Autoencoders",https://proceedings.icml.cc/static/paper_files/icml/2020/4405-Paper.pdf
+Continuous Graph Neural Networks,"Louis-Pascal A. C. Xhonneux
+Meng Qu
+Jian Tang","Representation Learning
+Applications - Other
+Sequential, Network, and Time-Series Modeling",https://proceedings.icml.cc/static/paper_files/icml/2020/4075-Paper.pdf
+Representation Learning via Adversarially-Contrastive Optimal Transport,"Anoop Cherian
+Shuchin Aeron","Representation Learning
+Deep Learning - General",https://proceedings.icml.cc/static/paper_files/icml/2020/6155-Paper.pdf
+InfoGAN-CR and ModelCentrality: Self-supervised Model Training and Selection for Disentangling GANs,"Zinan Lin
+Kiran K Thekumparampil
+Giulia Fanti
+Sewoong Oh","Representation Learning
+Deep Learning - Generative Models and Autoencoders",https://proceedings.icml.cc/static/paper_files/icml/2020/4410-Paper.pdf
+Convex Representation Learning for Generalized Invariance in Semi-Inner-Product Space,"Yingyi Ma
+Vignesh Ganapathiraman
+Yaoliang Yu
+Xinhua Zhang","Representation Learning
+General Machine Learning Techniques",https://proceedings.icml.cc/static/paper_files/icml/2020/3475-Paper.pdf

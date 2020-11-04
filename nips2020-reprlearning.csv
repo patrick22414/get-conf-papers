@@ -1,0 +1,541 @@
+Quantifying Learnability and Describability of Visual Concepts Emerging in Representation Learning,"Iro Laina
+Ruth Fong
+Andrea Vedaldi","University of Oxford
+University of Oxford
+Facebook AI Research and University of Oxford"
+Self-supervised Co-Training for Video Representation Learning,"Tengda Han
+Weidi Xie
+Andrew Zisserman","University of Oxford
+University of Oxford
+DeepMind & University of Oxford"
+CaSPR: Learning Canonical Spatiotemporal Point Cloud Representations,"Davis Rempe
+Tolga Birdal
+Yongheng Zhao
+Zan Gojcic
+Srinath Sridhar
+Leonidas Guibas","Stanford University
+Technical University of Munich
+University of Padova
+ETH Zürich
+Stanford University
+stanford.edu"
+Implicit Neural Representations with Periodic Activation Functions,"Vincent Sitzmann
+Julien Martel
+Alexander Bergman
+David Lindell
+Gordon Wetzstein","Stanford University
+Stanford University
+Stanford University
+Stanford University
+Stanford University"
+Learning Disentangled Representations and Group Structure of Dynamical Environments,"Robin Quessard
+Thomas Barrett
+William Clements","indust.ai
+University of Oxford
+indust.ai"
+ICAM: Interpretable Classification via Disentangled Representations and Feature Attribution Mapping,"Cher Bass
+Mariana da Silva
+Carole Sudre
+Petru-Daniel Tudosiu
+Stephen Smith
+Emma Robinson","King's College London
+King's College London
+King's College London
+King's College London
+FMRIB Centre - University of Oxford
+King's College"
+Modeling Shared responses in Neuroimaging Studies through MultiView ICA,"Hugo Richard
+Luigi Gresele
+Aapo Hyvarinen
+Bertrand Thirion
+Alexandre Gramfort
+Pierre Ablin","INRIA
+MPI for Intelligent Systems, Tübingen
+University of Helsinki
+INRIA
+INRIA
+INRIA"
+One-sample Guided Object Representation Disassembling,"Zunlei Feng
+Yongming He
+Xinchao Wang
+Xin Gao
+Jie Lei
+Cheng Jin
+Mingli Song","Zhejiang University
+Zhejiang University
+Stevens Institute of Technology
+Alibaba Group
+Zhejiang University
+Fudan University
+Zhejiang University"
+Unsupervised Representation Learning by Invariance Propagation,"Feng Wang
+Huaping Liu
+Di Guo
+Sun Fuchun","Tsinghua University
+Tsinghua University
+Tsinghua University
+Tsinghua university"
+Ultrahyperbolic Representation Learning,"Marc Law
+Jos Stam","NVIDIA
+NVIDIA"
+Neural Sparse Representation for Image Restoration,"Yuchen Fan
+Jiahui Yu
+Yiqun Mei
+Yulun Zhang
+Yun Fu
+Ding Liu
+Thomas Huang","University of Illinois at Urbana-Champaign
+UIUC
+University of Illinois
+Northeastern University
+Northeastern University
+Bytedance AI Lab
+University of Illinois"
+Sharp Representation Theorems for ReLU Networks with Precise Dependence on Depth,"Guy Bresler
+Dheeraj Nagaraj","MIT
+Massachusetts Institute of Technology"
+Representation Learning for Integrating Multi-domain Outcomes to Optimize Individualized Treatment,"Yuan Chen
+Donglin Zeng
+Tianchen Xu
+Yuanjia Wang","Columbia University
+University of North Carolina at Chapel Hill
+Columbia University
+Columbia University"
+BlockGAN: Learning 3D Object-aware Scene Representations from Unlabelled Images,"Thu Nguyen-Phuoc
+Christian Richardt
+Long Mai
+Yongliang Yang
+Niloy Mitra","University of Bath
+University of Bath
+Adobe Research
+University of Bath
+University College London"
+Trade-offs and Guarantees of Adversarial Representation Learning for Information Obfuscation,"Han Zhao
+Jianfeng Chi
+Yuan Tian
+Geoffrey Gordon","Carnegie Mellon University
+University of Virginia
+University of Virginia
+MSR Montréal & CMU"
+Self-Supervised Visual Representation Learning from Hierarchical Grouping,"Xiao Zhang
+Michael Maire","University of Chicago
+University of Chicago"
+Learning Diverse and Discriminative Representations via the Principle of Maximal Coding Rate Reduction,"Yaodong Yu
+Kwan Ho Ryan Chan
+Chong You
+Chaobing Song
+Yi Ma","University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+Tsinghua University
+UC Berkeley"
+Self-Supervised Relational Reasoning for Representation Learning,"Massimiliano Patacchiola
+Amos Storkey","University of Edinburgh
+University of Edinburgh"
+Neural Star Domain as Primitive Representation,"Yuki Kawana
+Yusuke Mukuta
+Tatsuya Harada","The University of Tokyo
+The University of Tokyo
+The University of Tokyo / RIKEN"
+A Bayesian Nonparametrics View into Deep Representations,"Michał Jamroż
+Marcin Kurdziel
+Mateusz Opala","AGH University of Science and Technology
+AGH University of Science and Technology, Krakow, Poland
+AGH University of Science and Technology"
+RelationNet++: Bridging Visual Representations for Object Detection via Transformer Decoder,"Cheng Chi
+Fangyun Wei
+Han Hu","University of Chinese Academy of Sciences
+Microsoft Research Asia
+Microsoft Research Asia"
+"Heavy-tailed Representations, Text Polarity Classification & Data Augmentation","Hamid JALALZAI
+Pierre Colombo
+Chloé Clavel
+Eric Gaussier
+Giovanna Varni
+Emmanuel Vignon
+Anne Sabourin","Télécom ParisTech
+Telecom ParisTech
+Telecom-ParisTech, Paris, France
+Université Joseph Fourier, Grenoble
+Telecom ParisTec
+IBM
+LTCI, Telecom ParisTech, Université Paris-Saclay"
+LoCo: Local Contrastive Representation Learning,"Yuwen Xiong
+Mengye Ren
+Raquel Urtasun","Uber ATG / University of Toronto
+University of Toronto / Uber ATG
+Uber ATG"
+Learning Agent Representations for Ice Hockey,"Guiliang Liu
+Oliver Schulte
+Pascal Poupart
+Mike Rudd
+Mehrsan Javan","Simon Fraser University
+Simon Fraser University
+University of Waterloo & RBC Borealis AI
+University of Waterloo
+SPORTLOGiQ"
+Unsupervised Joint k-node Graph Representations with Compositional Energy-Based Models,"Leonardo Cotta
+Carlos H. C. Teixeira
+Ananthram Swami
+Bruno Ribeiro","Purdue University
+Universidade Federal de Minas Gerais
+Army Research Laboratory, Adelphi
+Purdue"
+Rotation-Invariant Local-to-Global Representation Learning for 3D Point Cloud,"SEOHYUN KIM
+JaeYoo Park
+Bohyung Han","Seoul National University
+Seoul National University
+Seoul National University"
+Functional Regularization for Representation Learning: A Unified Theoretical Perspective,"Siddhant Garg
+Yingyu Liang","Amazon Alexa AI Search
+University of Wisconsin Madison"
+Multiview Neural Surface Reconstruction by Disentangling Geometry and Appearance,"Lior Yariv
+Yoni Kasten
+Dror Moran
+Meirav Galun
+Matan Atzmon
+Basri Ronen
+Yaron Lipman","Weizmann Institute of Science
+Weizmann Institute
+Weizmann Institute of Science
+Weizmann Institute of Science
+Weizmann Institute Of Science
+Weizmann Inst.
+Weizmann Institute of Science"
+Linear Disentangled Representations and Unsupervised Action Estimation,"Matthew Painter
+Adam Prugel-Bennett
+Jonathon Hare","University of Southampton
+apb@ecs.soton.ac.uk
+University of Southampton"
+Towards Maximizing the Representation Gap between In-Domain & Out-of-Distribution Examples,"Jay Nandy
+Wynne Hsu
+Mong Li Lee","National University of Singapore
+National University of Singapore
+National University of Singapore"
+Variational Interaction Information Maximization for Cross-domain Disentanglement,"HyeongJoo Hwang
+Geon-Hyeong Kim
+Seunghoon Hong
+Kee-Eung Kim","Korea Advanced Institute of Science and Technology
+KAIST
+KAIST
+KAIST"
+Learning Disentangled Representations of Videos with Missing Data,"Armand Comas
+Chi Zhang
+Zlatan Feric
+Octavia Camps
+Rose Yu","Northeastern University
+Northeastern University
+Northeastern University
+Northeastern University
+University of California, San Diego"
+On 1/n neural representation and robustness,"Josue Nassar
+Piotr Sokol
+Sueyeon Chung
+Kenneth D Harris
+Il Memming Park","Stony Brook University
+Stony Brook University
+Columbia University
+UCL
+Stony Brook University"
+Compact task representations as a normative model for higher-order brain activity,"Severin Berger
+Christian K Machens","Champalimaud Centre for the Unknown
+Champalimaud Centre for the Unknown"
+Elastic-InfoGAN: Unsupervised Disentangled Representation Learning in Class-Imbalanced Data,"Utkarsh Ojha
+Krishna Kumar Singh
+Cho-Jui Hsieh
+Yong Jae Lee","University of California, Davis
+University of California Davis
+UCLA
+University of California, Davis"
+Learning Object-Centric Representations of Multi-Object Scenes from Multiple Views,"Nanbo Li
+C E
+Robert Fisher","University of Edinburgh
+University of Edinburgh
+University of Edinburgh"
+Better Set Representations For Relational Reasoning,"Qian Huang
+Horace He
+Abhay Singh
+Yan Zhang
+Ser Nam Lim
+Austin Benson","Cornell University
+Cornell University
+Cornell University
+University of Southampton
+Facebook AI
+Cornell University"
+Compressing Images by Encoding Their Latent Representations with Relative Entropy Coding,"Gergely Flamich
+Marton Havasi
+José Miguel Hernández-Lobato","University of Cambridge
+University of Cambridge
+University of Cambridge"
+Node Embeddings and Exact Low-Rank Representations of Complex Networks,"Sudhanshu Chanpuriya
+Cameron Musco
+Konstantinos Sotiropoulos
+Charalampos Tsourakakis","University of Massachusetts Amherst
+University of Massachusetts Amherst
+Boston University
+Boston University/ISI foundation"
+Disentangling by Subspace Diffusion,"David Pfau
+Irina Higgins
+Alex Botev
+Sébastien Racanière","DeepMind
+DeepMind
+
+Google DeepMind"
+COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning,"Mohammadreza Zolfaghari
+Simon Ging
+Hamed Pirsiavash
+Thomas Brox","University of Freiburg
+University of Freiburg
+University of Maryland, Baltimore County
+University of Freiburg"
+Can Temporal-Diﬀerence and Q-Learning Learn Representation? A Mean-Field Theory,"Yufeng Zhang
+Qi Cai
+Zhuoran Yang
+Yongxin Chen
+Zhaoran Wang","Northwestern University
+Northwestern University
+Princeton
+Georgia Institute of Technology
+Northwestern University"
+Large-Scale Adversarial Training for Vision-and-Language Representation Learning,"Zhe Gan
+Yen-Chun Chen
+Linjie Li
+Chen Zhu
+Yu Cheng
+Jingjing Liu","Microsoft
+Microsoft
+Microsoft
+University of Maryland
+Microsoft
+Microsoft"
+Handling Missing Data with Graph Representation Learning,"Jiaxuan You
+Xiaobai Ma
+Yi Ding
+Mykel J Kochenderfer
+Jure Leskovec","Stanford University
+Stanford University
+Stanford University
+Stanford University
+Stanford University and Pinterest"
+Distance Encoding: Design Provably More Powerful Neural Networks for Graph Representation Learning,"Pan Li
+Yanbang Wang
+Hongwei Wang
+Jure Leskovec","Stanford University - Purdue University
+Stanford University
+Stanford University
+Stanford University and Pinterest"
+Does Unsupervised Architecture Representation Learning Help Neural Architecture Search?,"Shen Yan
+Yu Zheng
+Wei Ao
+Xiao Zeng
+Mi Zhang","Michigan State University
+Michigan State University
+Michigan State University
+Michigan State University
+Michigan State University"
+Learning Physical Graph Representations from Visual Scenes,"Daniel Bear
+Chaofei Fan
+Damian Mrowca
+Yunzhu Li
+Seth Alter
+Aran Nayebi
+Jeremy Schwartz
+Li Fei-Fei
+Jiajun Wu
+Josh Tenenbaum
+Daniel Yamins","Stanford University
+Stanford
+Stanford University
+MIT
+MIT
+Stanford University
+MIT
+Stanford University & Google
+Google
+MIT
+Stanford University"
+FLAMBE: Structural Complexity and Representation Learning of Low Rank MDPs,"Alekh Agarwal
+Sham Kakade
+Akshay Krishnamurthy
+Wen Sun","Microsoft Research
+University of Washington & Microsoft Research
+Microsoft
+Microsoft Research NYC"
+Adversarial robustness via robust low rank representations,"Pranjal Awasthi
+Himanshu Jain
+Ankit Singh Rawat
+Aravindan Vijayaraghavan","Google/Rutgers University
+Google
+Google Research
+Northwestern University"
+Learning Optimal Representations with the Decodable Information Bottleneck,"Yann Dubois
+Douwe Kiela
+David Schwab
+Ramakrishna Vedantam","Facebook AI Research
+Facebook AI Research
+Facebook AI Research
+Facebook AI Research"
+Unsupervised Learning of Dense Visual Representations,"Pedro O. Pinheiro
+Amjad Almahairi
+Ryan Benmalek
+Florian Golemo
+Aaron Courville","Element AI
+Element AI
+Cornell University
+MILA / ElementAI
+U. Montreal"
+"What shapes feature representations? Exploring datasets, architectures, and training","Katherine Hermann
+Andrew Lampinen","Stanford University
+Stanford University"
+Towards Understanding Hierarchical Learning: Benefits of Neural Representations,"Minshuo Chen
+Yu Bai
+Jason Lee
+Tuo Zhao
+Huan Wang
+Caiming Xiong
+Richard Socher","Georgia Tech
+Salesforce Research
+Princeton University
+Gatech
+Salesforce Research
+Salesforce
+Salesforce"
+Learning Representations from Audio-Visual Spatial Alignment,"Pedro Morgado
+Yi Li
+Nuno Nvasconcelos","University of California, San Diego
+UC San Diego
+UC San Diego"
+RD22 : Reward Decomposition with Representation Decomposition,"Zichuan Lin
+Derek Yang
+Li Zhao
+Tao Qin
+Guangwen Yang
+Tie-Yan Liu","Tsinghua University
+UC San Diego
+Microsoft Research
+Microsoft Research
+Tsinghua University
+Microsoft Research Asia"
+Exploiting MMD and Sinkhorn Divergences for Fair and Transferable Representation Learning,"Luca Oneto
+Michele Donini
+Giulia Luise
+Carlo Ciliberto
+Andreas Maurer
+Massimiliano Pontil","University of Genoa
+Amazon
+University College London
+Imperial College London
+
+IIT"
+Cycle-Contrast for Self-Supervised Video Representation Learning,"Quan Kong
+Wenpeng Wei
+Ziwei Deng
+Tomoaki Yoshinaga
+Tomokazu Murakami","Hitachi,Ltd.
+Hitachi, Ltd.
+Hitachi,Ltd.
+Hitachi, Ltd.
+Hitachi,Ltd."
+CoMIR: Contrastive Multimodal Image Representation for Registration,"Nicolas Pielawski
+Elisabeth Wetzer
+Johan Öfverstedt
+Jiahao Lu
+Carolina Wählby
+Joakim Lindblad
+Natasa Sladoje","Uppsala University
+Centre for Image Analysis, Department of Information Technology, Uppsala University, Sweden
+Uppsala University
+Uppsala University
+Uppsala University
+Centre for Image Analysis, Department of Information Technology, Uppsala University, Sweden
+Centre for Image Analysis, Department of Information Technology, Uppsala University, Sweden"
+Language Through a Prism: A Spectral Approach for Multiscale Language Representations,"Alex Tamkin
+Dan Jurafsky
+Noah Goodman","Stanford University
+Stanford University
+Stanford University"
+Robust Disentanglement of a Few Factors at a Time,"Benjamin Estermann
+Markus Marks
+Mehmet Fatih Yanik","ETH Zurich
+ETH Zurich
+ETH Zürich"
+Estimating Fluctuations in Neural Representations of Uncertain Environments,"Sahand Farhoodi
+Mark Plitt
+Lisa Giocomo
+Uri Eden","Boston University
+Stanford University
+Stanford University
+Boston University"
+Novelty Search in Representational Space for Sample Efficient Exploration,"Ruo Yu Tao
+Vincent Francois-Lavet
+Joelle Pineau","University of Alberta
+McGill
+McGill University"
+Continuous Object Representation Networks: Novel View Synthesis without Target View Supervision,"Nicolai Hani
+Selim Engin
+Jun-Jee Chao
+Volkan Isler","University of Minnesota
+University of Minnesota
+University of Minnesota
+University of Minnesota, Twin Cities"
+Disentangling Human Error from Ground Truth in Segmentation of Medical Images,"Le Zhang
+Ryutaro Tanno
+Moucheng Xu
+Chen Jin
+Joseph Jacob
+Olga Cicarrelli
+Frederik Barkhof
+Daniel Alexander","University College London
+Microsoft Research / UCL
+University College London
+University College London
+University College London
+Queen Square Multiple Sclerosis Centre
+University College London
+University College London"
+CompRess: Self-Supervised Learning by Compressing Representations,"Soroush Abbasi Koohpayegani
+Ajinkya Tejankar
+Hamed Pirsiavash","University of Maryland Baltimore County
+University of Maryland Baltimore County
+University of Maryland, Baltimore County"
+wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations,"Alexei Baevski
+Yuhao Zhou
+Abdel-rahman Mohamed
+Michael Auli","Facebook AI Research
+University of Toronto
+Facebook AI Research (FAIR)
+Facebook AI Research"
+Learning efficient task-dependent representations with synaptic plasticity,"Colin Bredenberg
+Eero Simoncelli
+Cristina Savin","New York University
+HHMI / New York University
+NYU"
+Learning sparse codes from compressed representations with biologically plausible local wiring constraints,"Kion Fallah
+Adam A Willats
+Ninghao Liu
+Christopher Rozell","Georgia Institute of Technology
+Georgia Institute of Technology and Emory University
+Texas A&M University
+Georgia Institute of Technology"
+Characterizing emergent representations in a space of candidate learning rules for deep networks,"Yinan Cao
+Christopher Summerfield
+Andrew Saxe","University of Oxford
+University of Oxford
+University of Oxford"
+Modeling Task Effects on Meaning Representation in the Brain via Zero-Shot MEG Prediction,"Mariya Toneva
+Otilia Stretcu
+Barnabas Poczos
+Leila Wehbe
+Tom Mitchell","Carnegie Mellon University
+Carnegie Mellon University
+Carnegie Mellon University
+Carnegie Mellon University
+Carnegie Mellon University"
+Learning Certified Individually Fair Representations,"Anian Ruoss
+Mislav Balunovic
+Marc Fischer
+Martin Vechev","ETH Zurich
+ETH Zurich
+ETH Zurich
+ETH Zurich, Switzerland"
