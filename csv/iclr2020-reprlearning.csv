@@ -1,0 +1,395 @@
+Contrastive Learning of Structured World Models|"Thomas Kipf
+Elise van der Pol
+Max Welling"|"state representation learning
+graph neural networks
+model-based reinforcement learning
+relational learning
+object discovery"|contrastively-trained structured world models (c-swms) learn object-oriented state representations and a relational model of an environment from raw pixel input.|https://openreview.net/attachment?id=H1gax6VtDB&name=original_pdf|https://github.com/tkipf/c-swm
+Learning Hierarchical Discrete Linguistic Units from Visually-Grounded Speech|"David Harwath*
+Wei-Ning Hsu*
+James Glass"|"visually-grounded speech
+self-supervised learning
+discrete representation learning
+vision and language
+vision and speech
+hierarchical representation learning"|vector quantization layers incorporated into a self-supervised neural model of speech audio learn hierarchical and discrete linguistic units (phone-like, word-like) when trained with a visual-grounding objective.|https://openreview.net/attachment?id=B1elCp4KwH&name=original_pdf|https://github.com/wnhsu/ResDAVEnet-VQ
+Target-Embedding Autoencoders for Supervised Representation Learning|"Daniel Jarrett
+Mihaela van der Schaar"|"autoencoders
+supervised learning
+representation learning
+target-embedding
+label-embedding"||https://openreview.net/attachment?id=BygXFkSYDH&name=original_pdf|
+Multi-Scale Representation Learning for Spatial Feature Distributions using Grid Cells|"Gengchen Mai
+Krzysztof Janowicz
+Bo Yan
+Rui Zhu
+Ling Cai
+Ni Lao"|"grid cell
+space encoding
+spatially explicit model
+multi-scale periodic representation
+unsupervised learning"|we propose a representation learning model called space2vec to encode the absolute positions and spatial relationships of places.|https://openreview.net/attachment?id=rJljdh4KDH&name=original_pdf|https://github.com/gengchenmai/space2vec
+InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization|"Fan-Yun Sun
+Jordan Hoffman
+Vikas Verma
+Jian Tang"|"graph-level representation learning
+mutual information maximization"||https://openreview.net/attachment?id=r1lfF2NYvH&name=original_pdf|https://github.com/fanyun-sun/InfoGraph
+DDSP: Differentiable Digital Signal Processing|"Jesse Engel
+Lamtharn (Hanoi) Hantrakul
+Chenjie Gu
+Adam Roberts"|"dsp
+audio
+music
+nsynth
+wavenet
+wavernn
+vocoder
+synthesizer
+sound
+signal
+processing
+tensorflow
+autoencoder
+disentanglement"|better audio synthesis by combining interpretable dsp with end-to-end learning.|https://openreview.net/attachment?id=B1x1ma4tDr&name=original_pdf|https://github.com/magenta/ddsp
+Conditional Learning of Fair Representations|"Han Zhao
+Amanda Coston
+Tameem Adel
+Geoffrey J. Gordon"|"algorithmic fairness
+representation learning"|we propose a novel algorithm for learning fair representations that can simultaneously mitigate two notions of disparity among different demographic subgroups.|https://openreview.net/attachment?id=Hkekl0NFPr&name=original_pdf|
+ALBERT: A Lite BERT for Self-supervised Learning of Language Representations|"Zhenzhong Lan
+Mingda Chen
+Sebastian Goodman
+Kevin Gimpel
+Piyush Sharma
+Radu Soricut"|"natural language processing
+bert
+representation learning"|a new pretraining method that establishes new state-of-the-art results on the glue, race, and squad benchmarks while having fewer parameters compared to bert-large.|https://openreview.net/attachment?id=H1eA7AEtvS&name=original_pdf|https://github.com/google-research/ALBERT
+Learning to Plan in High Dimensions via Neural Exploration-Exploitation Trees|"Binghong Chen
+Bo Dai
+Qinjie Lin
+Guo Ye
+Han Liu
+Le Song"|"learning to plan
+representation learning
+learning to design algorithm
+reinforcement learning
+meta learning"|we propose a meta path planning algorithm which exploits a novel attention-based neural module that can learn generalizable structures from prior experiences to drastically reduce the sample requirement for solving new path planning problems.|https://openreview.net/attachment?id=rJgJDAVKvB&name=original_pdf|https://github.com/NeurEXT/NEXT-learning-to-plan/blob/master/main.ipynb
+Self-labelling via simultaneous clustering and representation learning|"Asano YM.
+Rupprecht C.
+Vedaldi A."|"self-supervision
+feature representation learning
+clustering"|we propose a self-supervised learning formulation that simultaneously learns feature representations and useful dataset labels by optimizing the common cross-entropy loss for features _and_ labels, while maximizing information.|https://openreview.net/attachment?id=Hyx-jyBFPr&name=original_pdf|
+Differentiation of Blackbox Combinatorial Solvers|"Marin Vlastelica Pogančić
+Anselm Paulus
+Vit Musil
+Georg Martius
+Michal Rolinek"|"combinatorial algorithms
+deep learning
+representation learning
+optimization"|in this work, we present a method that implements an efficient backward pass through blackbox implementations of combinatorial solvers with linear objective functions.|https://openreview.net/attachment?id=BkevoJSYPB&name=original_pdf|https://sites.google.com/view/combinatorialgradients/home
+Disentanglement by Nonlinear ICA with General Incompressible-flow Networks (GIN)|"Peter Sorrenson
+Carsten Rother
+Ullrich Köthe"|"disentanglement
+nonlinear ica
+representation learning
+feature discovery
+theoretical justification"||https://openreview.net/attachment?id=rygeHgSFDH&name=original_pdf|
+Unbiased Contrastive Divergence Algorithm for Training Energy-Based Latent Variable Models|"Yixuan Qiu
+Lingsong Zhang
+Xiao Wang"|"energy model
+restricted boltzmann machine
+contrastive divergence
+unbiased markov chain monte carlo
+distribution coupling"|we have developed a new training algorithm for energy-based latent variable models that completely removes the bias of contrastive divergence.|https://openreview.net/attachment?id=r1eyceSYPr&name=original_pdf|
+A Mutual Information Maximization Perspective of Language Representation Learning|"Lingpeng Kong
+Cyprien de Masson d'Autume
+Lei Yu
+Wang Ling
+Zihang Dai
+Dani Yogatama"|||https://openreview.net/attachment?id=Syx79eBKwr&name=original_pdf|
+PROGRESSIVE LEARNING AND DISENTANGLEMENT OF HIERARCHICAL REPRESENTATIONS|"Zhiyuan Li
+Jaideep Vitthal Murkute
+Prashnna Kumar Gyawali
+Linwei Wang"|"generative model
+disentanglement
+progressive learning
+vae"|we proposed a progressive learning method to improve learning and disentangling latent representations at different levels of abstraction.|https://openreview.net/attachment?id=SJxpsxrYPS&name=original_pdf|
+StructPool: Structured Graph Pooling via Conditional Random Fields|"Hao Yuan
+Shuiwang Ji"|"graph pooling
+representation learning
+graph analysis"|a novel graph pooling method considering relationships between different nodes via conditional random fields.|https://openreview.net/attachment?id=BJxg_hVtwH&name=original_pdf|
+Federated Adversarial Domain Adaptation|"Xingchao Peng
+Zijun Huang
+Yizhe Zhu
+Kate Saenko"|"federated learning
+domain adaptation
+transfer learning
+feature disentanglement"|we present a principled approach to the problem of federated domain adaptation, which aims to align the representations learned among the different nodes with the data distribution of the target node.|https://openreview.net/attachment?id=HJezF3VYPB&name=original_pdf|https://drive.google.com/file/d/1OekTpqB6qLfjlE2XUjQPm3F110KDMFc0/view?usp=sharing
+On Mutual Information Maximization for Representation Learning|"Michael Tschannen
+Josip Djolonga
+Paul K. Rubenstein
+Sylvain
+        Gelly
+Mario Lucic"|"mutual information
+representation learning
+unsupervised learning
+self-supervised learning"|the success of recent mutual information (mi)-based representation learning approaches strongly depends on the inductive bias in both the choice of network architectures and the parametrization of the employed mi estimators.|https://openreview.net/attachment?id=rkxoh24FPH&name=original_pdf|https://storage.googleapis.com/mi_for_rl_files/code.zip
+Theory and Evaluation Metrics for Learning Disentangled Representations|"Kien Do
+Truyen
+        Tran"|"disentanglement
+metrics"||https://openreview.net/attachment?id=HJgK0h4Ywr&name=original_pdf|
+Learning Disentangled Representations for CounterFactual Regression|"Negar Hassanpour
+Russell Greiner"|"counterfactual regression
+causal effect estimation
+selection bias
+off-policy learning"||https://openreview.net/attachment?id=HkxBJT4YvB&name=original_pdf|https://www.dropbox.com/sh/vrux2exqwc9uh7k/AAAR4tlJLScPlkmPruvbrTJQa?dl=0
+A critical analysis of self-supervision, or what we can learn from a single image|"Asano YM.
+Rupprecht C.
+Vedaldi A."|"self-supervision
+feature representation learning
+cnn"|we evaluate self-supervised feature learning methods and find that with sufficient data augmentation early layers can be learned using just one image. this is informative about self-supervision and the role of augmentations.|https://openreview.net/attachment?id=B1esx6EYvr&name=original_pdf|
+Semantically-Guided Representation Learning for Self-Supervised Monocular Depth|"Vitor Guizilini
+Rui Hou
+Jie Li
+Rares Ambrus
+Adrien
+        Gaidon"|"computer vision
+machine learning
+deep learning
+monocular depth estimation
+self-supervised learning"|we propose a novel semantically-guided architecture for self-supervised monocular depth estimation|https://openreview.net/attachment?id=ByxT7TNFvH&name=original_pdf|https://github.com/tri-ml/packnet-sfm
+Identifying through Flows for Recovering Latent Representations|"Shen Li
+Bryan Hooi
+Gim Hee Lee"|"representation learning
+identifiable generative models
+nonlinear-ica"||https://openreview.net/attachment?id=SklOUpEYvB&name=original_pdf|
+Counterfactuals uncover the modular structure of deep generative models|"Michel Besserve
+Arash Mehrjou
+Rémy Sun
+Bernhard Schölkopf"|"generative models
+causality
+counterfactuals
+representation learning
+disentanglement
+generalization
+unsupervised learning"|we develop a framework to find modular internal representations in generative models and manipulate then to generate counterfactual examples.|https://openreview.net/attachment?id=SJxDDpEKvH&name=original_pdf|https://www.dropbox.com/sh/4qnjictmh4a2soq/AAAa5brzPDlt69QOc9n2K4uOa?dl=0
+AssembleNet: Searching for Multi-Stream Neural Connectivity in Video Architectures|"Michael S. Ryoo
+AJ
+        Piergiovanni
+Mingxing Tan
+Anelia Angelova"|"video representation learning
+video understanding
+activity recognition
+neural architecture search"|we search for multi-stream neural architectures with better connectivity and spatio-temporal interactions for video understanding.|https://openreview.net/attachment?id=SJgMK64Ywr&name=original_pdf|
+A Fair Comparison of Graph Neural Networks for Graph Classification|"Federico Errica
+Marco Podda
+Davide Bacciu
+Alessio Micheli"|"graph neural networks
+graph classification
+reproducibility
+graph representation learning"|we provide a rigorous comparison of different graph neural networks for graph classification.|https://openreview.net/attachment?id=HygDF6NFPB&name=original_pdf|https://github.com/diningphil/gnn-comparison
+V4D: 4D Convolutional Neural Networks for Video-level Representation Learning|"Shiwen Zhang
+Sheng Guo
+Weilin Huang
+Matthew R. Scott
+Limin Wang"|"video-level representation learning
+video action recognition
+4d cnns"|a novel 4d cnn structure for video-level representation learning, surpassing recent 3d cnns.|https://openreview.net/attachment?id=SJeLopEYDH&name=original_pdf|
+Unsupervised Model Selection for Variational Disentangled Representation Learning|"Sunny Duan
+Loic Matthey
+Andre Saraiva
+Nick Watters
+Chris Burgess
+Alexander
+        Lerchner
+Irina Higgins"|"unsupervised disentanglement metric
+disentangling
+representation learning"|we introduce a method for unsupervised disentangled model selection for vae-based disentangled representation learning approaches.|https://openreview.net/attachment?id=SyxL2TNtvr&name=original_pdf|
+Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML|"Aniruddh Raghu
+Maithra Raghu
+Samy Bengio
+Oriol Vinyals"|"deep learning analysis
+representation learning
+meta-learning
+few-shot learning"|the success of maml relies on feature reuse from the meta-initialization, which also yields a natural simplification of the algorithm, with the inner loop removed for the network body, as well as other insights on the head and body.|https://openreview.net/attachment?id=rkgMkCEtPB&name=original_pdf|
+Semi-Supervised Generative Modeling for Controllable Speech Synthesis|"Raza Habib
+Soroosh
+        Mariooryad
+Matt Shannon
+Eric Battenberg
+RJ Skerry-Ryan
+Daisy Stanton
+David Kao
+Tom Bagby"|"tts
+speech synthesis
+semi-supervised models
+vae
+disentanglement"||https://openreview.net/attachment?id=rJeqeCEtvH&name=original_pdf|
+Pre-training Tasks for Embedding-based Large-scale Retrieval|"Wei-Cheng Chang
+Felix X. Yu
+Yin-Wen Chang
+Yiming Yang
+Sanjiv Kumar"|"natural language processing
+large-scale retrieval
+unsupervised representation learning
+paragraph-level pre-training
+two-tower transformer models"|we consider large-scale retrieval problems such as question answering retrieval and present a comprehensive study of how different sentence level pre-training improving the bert-style token-level pre-training for two-tower transformer models.|https://openreview.net/attachment?id=rkg-mA4FDr&name=original_pdf|
+Higher-Order Function Networks for Learning Composable 3D Object Representations|"Eric Mitchell
+Selim Engin
+Volkan Isler
+Daniel D Lee"|"computer vision
+3d reconstruction
+deep learning
+representation learning"|neural nets can encode complex 3d objects into the parameters of other (surprisingly small) neural nets|https://openreview.net/attachment?id=HJgfDREKDB&name=original_pdf|
+Prediction, Consistency, Curvature: Representation Learning for Locally-Linear Control|"Nir Levine
+Yinlam Chow
+Rui Shu
+Ang Li
+Mohammad Ghavamzadeh
+Hung Bui"|"embed-to-control
+representation learning
+stochastic optimal control
+vae
+ilqr"|learning embedding for control with high-dimensional observations|https://openreview.net/attachment?id=BJxG_0EtDS&name=original_pdf|
+RNNs Incrementally Evolving on an Equilibrium Manifold: A Panacea for Vanishing and Exploding Gradients?|"Anil Kag
+Ziming Zhang
+Venkatesh Saligrama"|"novel recurrent neural architectures
+learning representations of outputs or states"|incremental-rnns resolves exploding/vanishing gradient problem by updating state vectors based on difference between previous state and that predicted by an ode.|https://openreview.net/attachment?id=HylpqA4FwS&name=original_pdf|
+Learning from Unlabelled Videos Using Contrastive Predictive Neural 3D Mapping|"Adam W. Harley
+Shrinidhi K. Lakshmikanth
+Fangyu Li
+Xian Zhou
+Hsiao-Yu Fish Tung
+Katerina
+        Fragkiadaki"|"3d feature learning
+unsupervised learning
+inverse graphics
+object discovery"|we show that with the right loss and architecture, view-predictive learning improves 3d object detection|https://openreview.net/attachment?id=BJxt60VtPr&name=original_pdf|https://github.com/aharley/neural_3d_mapping
+Inductive representation learning on temporal graphs|"da Xu
+chuanwei ruan
+evren korpeoglu
+sushant
+        kumar
+kannan achan"|"temporal graph
+inductive representation learning
+functional time encoding
+self-attention"||https://openreview.net/attachment?id=rJeW1yHYwH&name=original_pdf|https://drive.google.com/drive/folders/1GaH8vusCXJj4ucayfO-PyHpnNsJRkB78?usp=sharing
+Learning representations for binary-classification without backpropagation|Mathias Lechner|"feedback alignment
+alternatives to backpropagation
+biologically motivated learning algorithms"|first feedback alignment algorithm with provable learning guarantees for networks with single output neuron|https://openreview.net/attachment?id=Bke61krFvS&name=original_pdf|https://github.com/mlech26l/iclr_paper_mdfa
+RGBD-GAN: Unsupervised 3D Representation Learning From Natural Image Datasets via RGBD Image Synthesis|"Atsuhiro Noguchi
+Tatsuya Harada"|"image generation
+3d vision
+unsupervised representation learning"|rgbd image generation for unsupervised camera parameter conditioning|https://openreview.net/attachment?id=HyxjNyrtPr&name=original_pdf|
+ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators|"Kevin Clark
+Minh-Thang Luong
+Quoc V. Le
+Christopher D. Manning"|"natural language processing
+representation learning"|a text encoder trained to distinguish real input tokens from plausible fakes efficiently learns effective language representations.|https://openreview.net/attachment?id=r1xMH1BtvB&name=original_pdf|https://github.com/google-research/electra
+Contrastive Representation Distillation|"Yonglong Tian
+Dilip Krishnan
+Phillip Isola"|"knowledge distillation
+representation learning
+contrastive learning
+mutual information"|representation/knowledge distillation by maximizing mutual information between teacher and student|https://openreview.net/attachment?id=SkgpBJrtvS&name=original_pdf|https://github.com/HobbitLong/RepDistiller
+Weakly Supervised Disentanglement with Guarantees|"Rui Shu
+Yining Chen
+Abhishek Kumar
+Stefano Ermon
+Ben Poole"|"disentanglement
+theory of disentanglement
+representation learning
+generative models"|we construct a theoretical framework for weakly supervised disentanglement and conducted lots of experiments to back up the theory.|https://openreview.net/attachment?id=HJgSwyBKvr&name=original_pdf|https://github.com/google-research/google-research/tree/master/weak_disentangle
+Hyper-SAGNN: a self-attention based graph neural network for hypergraphs|"Ruochi Zhang
+Yuesong Zou
+Jian Ma"|"graph neural network
+hypergraph
+representation learning"|we develop a new self-attention based graph neural network called hyper-sagnn applicable to homogeneous and heterogeneous hypergraphs with variable hyperedge sizes that can fulfill tasks like node classification and hyperedge prediction.|https://openreview.net/attachment?id=ryeHuJBtPH&name=original_pdf|https://drive.google.com/drive/folders/1kIOc4SlAJllUJsrr2OnZ4izIQIw2JexU?usp=sharing
+Probability Calibration for Knowledge Graph Embedding Models|"Pedro Tabacof
+Luca
+        Costabello"|"knowledge graph embeddings
+probability calibration
+calibration
+graph representation learning
+knowledge graphs"|we propose a novel method to calibrate knowledge graph embedding models without the need of negative examples.|https://openreview.net/attachment?id=S1g8K1BFwS&name=original_pdf|
+Inductive and Unsupervised Representation Learning on Graph Structured Objects|"Lichen Wang
+Bo Zong
+Qianqian Ma
+Wei Cheng
+Jingchao Ni
+Wenchao Yu
+Yanchi Liu
+Dongjin Song
+Haifeng Chen
+Yun Fu"|"graph representation learning
+graph isomorphism
+graph similarity learning"|this paper proposed a novel framework for graph similarity learning in inductive and unsupervised scenario.|https://openreview.net/attachment?id=rkem91rtDB&name=original_pdf|
+Learning Robust Representations via Multi-View Information Bottleneck|"Marco Federici
+Anjan Dutta
+Patrick Forré
+Nate Kushman
+Zeynep Akata"|"information bottleneck
+multi-view learning
+representation learning
+information theory"|we extend the information bottleneck method to the unsupervised multiview setting and show state of the art results on standard datasets|https://openreview.net/attachment?id=B1xwcyHFDr&name=original_pdf|https://github.com/mfederici/Multi-View-Information-Bottleneck
+vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations|"Alexei Baevski
+Steffen Schneider
+Michael Auli"|"speech recognition
+speech representation learning"|learn how to quantize speech signal and apply algorithms requiring discrete inputs to audio data such as bert.|https://openreview.net/attachment?id=rylwJxrYDS&name=original_pdf|
+Demystifying Inter-Class Disentanglement|"Aviv Gabbay
+Yedid Hoshen"|"disentanglement
+latent optimization
+domain translation"|latent optimization for representation disentanglement|https://openreview.net/attachment?id=Hyl9xxHYPr&name=original_pdf|https://github.com/avivga/lord
+Dynamics-Aware Embeddings|"William Whitney
+Rajat Agarwal
+Kyunghyun Cho
+Abhinav Gupta"|"representation learning
+reinforcement learning
+rl"|state and action embeddings which incorporate the dynamics improve exploration and rl from pixels.|https://openreview.net/attachment?id=BJgZGeHFPH&name=original_pdf|https://github.com/dyne-submission/dynamics-aware-embeddings
+Phase Transitions for the Information Bottleneck in Representation Learning|"Tailin Wu
+Ian Fischer"|"information theory
+representation learning
+phase transition"|we give a theoretical analysis of the information bottleneck objective to understand and predict observed phase transitions in the prediction vs. compression tradeoff.|https://openreview.net/attachment?id=HJloElBYvB&name=original_pdf|
+Memory-Based Graph Networks|"Amir Hosein Khasahmadi
+Kaveh Hassani
+Parsa Moradi
+Leo Lee
+Quaid Morris"|"graph neural networks
+memory networks
+hierarchial graph representation learning"|we introduce an efficient memory layer to jointly learn representations and coarsen the input graphs.|https://openreview.net/attachment?id=r1laNeBYPB&name=original_pdf|https://github.com/amirkhas/GraphMemoryNet
+A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms|"Yoshua Bengio
+Tristan Deleu
+Nasim
+        Rahaman
+Nan Rosemary Ke
+Sebastien Lachapelle
+Olexa Bilaniuk
+Anirudh
+        Goyal
+Christopher Pal"|"meta-learning
+transfer learning
+structure learning
+modularity
+causality"|this paper proposes a meta-learning objective based on speed of adaptation to transfer distributions to discover a modular decomposition and causal variables.|https://openreview.net/attachment?id=ryxWIgBFPS&name=original_pdf|https://github.com/ec6dde01667145e58de60f864e05a4/CausalOptimizationAnon
+Mutual Information Gradient Estimation for Representation Learning|"Liangjian Wen
+Yiji Zhou
+Lirong He
+Mingyuan Zhou
+Zenglin Xu"|"mutual information
+score estimation
+representation learning
+information bottleneck"||https://openreview.net/attachment?id=ByxaUgrFvH&name=original_pdf|
+Learning to Group: A Bottom-Up Framework for 3D Part Discovery in Unseen Categories|"Tiange Luo
+Kaichun Mo
+Zhiao Huang
+Jiarui Xu
+Siyu Hu
+Liwei Wang
+Hao Su"|"shape segmentation
+zero-shot learning
+learning representations"|a zero-shot segmentation framework for 3d shapes. model the segmentation as a decision-making process, we propose an iterative method to dynamically extend the receptive field for achieving universal shape segmentation.|https://openreview.net/attachment?id=rkl8dlHYvB&name=original_pdf|https://github.com/tiangeluo/Learning-to-Group
+Gradients as Features for Deep Representation Learning|"Fangzhou Mu
+Yingyu Liang
+Yin Li"|"representation learning
+gradient features
+deep learning"|given a pre-trained model, we explored the per-sample gradients of the model parameters relative to a task-specific loss, and constructed a linear model that combines gradients of model parameters and the activation of the model.|https://openreview.net/attachment?id=BkeoaeHKDS&name=original_pdf|

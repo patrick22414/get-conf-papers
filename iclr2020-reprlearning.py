@@ -23,14 +23,17 @@ class Paper:
 if __name__ == "__main__":
     html_files = [
         "iclr2020-oral.html",
-        "iclr2020-poster.html",
         "iclr2020-spotlight.html",
+        "iclr2020-poster.html",
     ]
-    for html_file in html_files:
-        with open(html_file, "r") as html:
-            soup = BeautifulSoup(html, "html.parser")
 
-        papers = []
+    papers = []
+
+    for html_file in html_files:
+        print()
+        print(html_file)
+        with open("html/" + html_file, "r") as html:
+            soup = BeautifulSoup(html, "html.parser")
 
         for item in soup.ul.find_all("li", recursive=False):
             paper = Paper()
@@ -44,6 +47,7 @@ if __name__ == "__main__":
 
             # title = [x.get_text() for x in item.h4.children][1]
             paper.title = " ".join(item.h4.get_text().split())
+            print(paper.title)
 
             for child in item.find_all("li"):
                 field = child.strong.string.lower()
@@ -59,61 +63,33 @@ if __name__ == "__main__":
                     paper.pdf_url = "https://openreview.net" + child.span.a["href"]
                 elif "code" in field:
                     paper.code_url = value
-            # for i, line in enumerate(contents):
-            #     print(f"{i} {line}")
-
-            # import ipdb; ipdb.set_trace()
-
-            # paper.title = " ".join(contents[1].split())
-            # if not paper.title:
-            #     print("Wrong with", p)
-            #     exit()
-
-            # authors_and_insts = [s.strip() for s in contents[3].split("·")]
-            # for s in authors_and_insts:
-            #     res = RE_INST.search(s)
-            #     if res:
-            #         author = " ".join(s[: res.start()].split())
-            #         inst = " ".join(res.group(1).split())
-
-            #         paper.authors.append(author)
-            #         paper.insts.append(inst)
-            #     else:
-            #         print("Cannot match", repr(s))
-            #         exit()
 
             papers.append(paper)
 
-        # for paper in papers:
-        #     if "representation" in paper.title.lower():
-        #         print(paper.title)
+    count = 0
+    with open("csv/iclr2020-reprlearning.csv", "w") as fo:
+        csv_writer = csv.writer(fo, delimiter="|")
+        for paper in papers:
+            if any(
+                (s in paper.title.lower() or s in "".join(paper.keywords).lower())
+                for s in [
+                    "representation learning",
+                    "learning representation",
+                    "multiview",
+                    "disentangle",
+                    "contrastive",
+                ]
+            ):
+                csv_writer.writerow(
+                    [
+                        paper.title,
+                        "\n".join(paper.authors),
+                        "\n".join(paper.keywords).lower(),
+                        paper.tldr.lower(),
+                        paper.pdf_url,
+                        paper.code_url,
+                    ]
+                )
+                count += 1
 
-        # with open(html_file.replace("html", "csv"), "w") as fo:
-        #     csv_writer = csv.writer(fo)
-        #     for paper in papers:
-        #         csv_writer.writerow(
-        #             [
-        #                 paper.title,
-        #                 "\n".join(paper.authors),
-        #                 "\n".join(paper.keywords),
-        #                 paper.TLDR,
-        #             ]
-        #         )
-
-        with open("iclr2020-reprlearning.csv", "w") as fo:
-            csv_writer = csv.writer(fo, delimiter="|")
-            for paper in papers:
-                if any(
-                    s in "".join(paper.keywords)
-                    for s in ["represent", "multiview", "disentangl", "contrastive"]
-                ):
-                    csv_writer.writerow(
-                        [
-                            paper.title,
-                            "\n".join(paper.authors),
-                            "\n".join(paper.keywords).lower(),
-                            paper.tldr.lower(),
-                            paper.pdf_url,
-                            paper.code_url,
-                        ]
-                    )
+    print(count)
