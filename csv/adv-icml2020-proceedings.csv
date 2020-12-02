@@ -1,0 +1,173 @@
+PDF,Supplementary PDF,Title,Authors,Code
+http://proceedings.mlr.press/v119/agarwal20a/agarwal20a.pdf,http://proceedings.mlr.press/v119/agarwal20a/agarwal20a-supp.pdf,Rank Aggregation from Pairwise Comparisons in the Presence of Adversarial Corruptions,"Arpit Agarwal
+Shivani Agarwal
+Sanjeev Khanna
+Prathamesh Patil",--
+http://proceedings.mlr.press/v119/ashtiani20a/ashtiani20a.pdf,http://proceedings.mlr.press/v119/ashtiani20a/ashtiani20a-supp.pdf,Black-box Certification and Learning under Adversarial Perturbations,"Hassan Ashtiani
+Vinayak Pathak
+Ruth Urner",--
+http://proceedings.mlr.press/v119/awasthi20a/awasthi20a.pdf,http://proceedings.mlr.press/v119/awasthi20a/awasthi20a-supp.pdf,Adversarial Learning Guarantees for Linear Hypotheses and Neural Networks,"Pranjal Awasthi
+Natalie Frank
+Mehryar Mohri",--
+http://proceedings.mlr.press/v119/bielik20a/bielik20a.pdf,http://proceedings.mlr.press/v119/bielik20a/bielik20a-supp.pdf,Adversarial Robustness for Code,"Pavol Bielik
+Martin Vechev",https://github.com/eth-sri/robust-code
+http://proceedings.mlr.press/v119/boopathy20a/boopathy20a.pdf,http://proceedings.mlr.press/v119/boopathy20a/boopathy20a-supp.pdf,Proper Network Interpretability Helps Adversarial Robustness in Classification,"Akhilan Boopathy
+Sijia Liu
+Gaoyuan Zhang
+Cynthia Liu
+Pin-Yu Chen
+Shiyu Chang
+Luca Daniel",https://github.com/AkhilanB/Proper-Interpretability
+http://proceedings.mlr.press/v119/bras20a/bras20a.pdf,http://proceedings.mlr.press/v119/bras20a/bras20a-supp.pdf,Adversarial Filters of Dataset Biases,"Ronan Le Bras
+Swabha Swayamdipta
+Chandra Bhagavatula
+Rowan Zellers
+Matthew Peters
+Ashish Sabharwal
+Yejin Choi",https://github.com/allenai/aflite-public
+http://proceedings.mlr.press/v119/chalasani20a/chalasani20a.pdf,http://proceedings.mlr.press/v119/chalasani20a/chalasani20a-supp.pdf,Concise Explanations of Neural Networks using Adversarial Training,"Prasad Chalasani
+Jiefeng Chen
+Amrita Roy Chowdhury
+Xi Wu
+Somesh Jha",https://github.com/jfc43/advex
+http://proceedings.mlr.press/v119/chen20q/chen20q.pdf,http://proceedings.mlr.press/v119/chen20q/chen20q-supp.pdf,More Data Can Expand The Generalization Gap Between Adversarially Robust and Standard Models,"Lin Chen
+Yifei Min
+Mingrui Zhang
+Amin Karbasi",--
+http://proceedings.mlr.press/v119/cherian20a/cherian20a.pdf,http://proceedings.mlr.press/v119/cherian20a/cherian20a-supp.pdf,Representation Learning via Adversarially-Contrastive Optimal Transport,"Anoop Cherian
+Shuchin Aeron",--
+http://proceedings.mlr.press/v119/chung20a/chung20a.pdf,http://proceedings.mlr.press/v119/chung20a/chung20a-supp.pdf,Feature-map-level Online Adversarial Knowledge Distillation,"Inseop Chung
+Seonguk Park
+Jangho Kim
+Nojun Kwak",--
+http://proceedings.mlr.press/v119/croce20a/croce20a.pdf,http://proceedings.mlr.press/v119/croce20a/croce20a-supp.pdf,Minimally distorted Adversarial Examples with a Fast Adaptive Boundary Attack,"Francesco Croce
+Matthias Hein",https://github.com/fra31/fab-attack
+http://proceedings.mlr.press/v119/croce20b/croce20b.pdf,http://proceedings.mlr.press/v119/croce20b/croce20b-supp.pdf,Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks,"Francesco Croce
+Matthias Hein",https://github.com/fra31/auto-attack
+http://proceedings.mlr.press/v119/dan20b/dan20b.pdf,http://proceedings.mlr.press/v119/dan20b/dan20b-supp.pdf,Sharp Statistical Guaratees for Adversarially Robust Gaussian Classification,"Chen Dan
+Yuting Wei
+Pradeep Ravikumar",--
+http://proceedings.mlr.press/v119/dang-nhu20a/dang-nhu20a.pdf,http://proceedings.mlr.press/v119/dang-nhu20a/dang-nhu20a-supp.pdf,Adversarial Attacks on Probabilistic Autoregressive Forecasting Models,"Raphaël Dang-Nhu
+Gagandeep Singh
+Pavol Bielik
+Martin Vechev",https://github.com/eth-sri/probabilistic-forecasts-attacks
+http://proceedings.mlr.press/v119/deng20a/deng20a.pdf,http://proceedings.mlr.press/v119/deng20a/deng20a-supp.pdf,Interpreting Robust Optimization via Adversarial Influence Functions,"Zhun Deng
+Cynthia Dwork
+Jialiang Wang
+Linjun Zhang",--
+http://proceedings.mlr.press/v119/dhouib20b/dhouib20b.pdf,http://proceedings.mlr.press/v119/dhouib20b/dhouib20b-supp.pdf,Margin-aware Adversarial Domain Adaptation with Optimal Transport,"Sofien Dhouib
+Ievgen Redko
+Carole Lartizien",https://github.com/sofiendhouib/MADAOT
+http://proceedings.mlr.press/v119/foster20b/foster20b.pdf,http://proceedings.mlr.press/v119/foster20b/foster20b-supp.pdf,Logarithmic Regret for Adversarial Online Control,"Dylan Foster
+Max Simchowitz",--
+http://proceedings.mlr.press/v119/jin20c/jin20c.pdf,http://proceedings.mlr.press/v119/jin20c/jin20c-supp.pdf,Learning Adversarial Markov Decision Processes with Bandit Feedback and Unknown Transition,"Chi Jin
+Tiancheng Jin
+Haipeng Luo
+Suvrit Sra
+Tiancheng Yu",--
+http://proceedings.mlr.press/v119/kallus20a/kallus20a.pdf,http://proceedings.mlr.press/v119/kallus20a/kallus20a-supp.pdf,DeepMatch: Balancing Deep Covariate Representations for Causal Inference Using Adversarial Training,Nathan Kallus,--
+http://proceedings.mlr.press/v119/konstantinov20a/konstantinov20a.pdf,http://proceedings.mlr.press/v119/konstantinov20a/konstantinov20a-supp.pdf,On the Sample Complexity of Adversarial Multi-Source PAC Learning,"Nikola Konstantinov
+Elias Frantar
+Dan Alistarh
+Christoph Lampert",--
+http://proceedings.mlr.press/v119/li20e/li20e.pdf,http://proceedings.mlr.press/v119/li20e/li20e-supp.pdf,Implicit Euler Skip Connections: Enhancing Adversarial Robustness via Numerical Stability,"Mingjie Li
+Lingshen He
+Zhouchen Lin",https://github.com/homles11/IE-Skips
+http://proceedings.mlr.press/v119/lim20b/lim20b.pdf,http://proceedings.mlr.press/v119/lim20b/lim20b-supp.pdf,Hierarchical Verification for Adversarial Robustness,"Cong Han Lim
+Raquel Urtasun
+Ersin Yumer",--
+http://proceedings.mlr.press/v119/luo20c/luo20c.pdf,http://proceedings.mlr.press/v119/luo20c/luo20c-supp.pdf,Adversarial Nonnegative Matrix Factorization,"Lei Luo
+Yanfu Zhang
+Heng Huang",--
+http://proceedings.mlr.press/v119/lykouris20a/lykouris20a.pdf,--,Bandits with Adversarial Scaling,"Thodoris Lykouris
+Vahab Mirrokni
+Renato Paes Leme",https://gist.github.com/renatoppl/70d21d7ddfb38c9ffc392b91a3ba82d7
+http://proceedings.mlr.press/v119/madaan20a/madaan20a.pdf,http://proceedings.mlr.press/v119/madaan20a/madaan20a-supp.pdf,Adversarial Neural Pruning with Latent Vulnerability Suppression,"Divyam Madaan
+Jinwoo Shin
+Sung Ju Hwang",https://github.com/divyam3897/ANP_VS
+http://proceedings.mlr.press/v119/maini20a/maini20a.pdf,http://proceedings.mlr.press/v119/maini20a/maini20a-supp.pdf,Adversarial Robustness Against the Union of Multiple Perturbation Models,"Pratyush Maini
+Eric Wong
+Zico Kolter",https://github.com/locuslab/robust_union/
+http://proceedings.mlr.press/v119/mao20a/mao20a.pdf,http://proceedings.mlr.press/v119/mao20a/mao20a-supp.pdf,Adaptive Adversarial Multi-task Representation Learning,"Yuren Mao
+Weiwei Liu
+Xuemin Lin",--
+http://proceedings.mlr.press/v119/montasser20a/montasser20a.pdf,--,Efficiently Learning Adversarially Robust Halfspaces with Noise,"Omar Montasser
+Surbhi Goel
+Ilias Diakonikolas
+Nathan Srebro",--
+http://proceedings.mlr.press/v119/pan20a/pan20a.pdf,http://proceedings.mlr.press/v119/pan20a/pan20a-supp.pdf,Adversarial Mutual Information for Text Generation,"Boyuan Pan
+Yazheng Yang
+Kaizhao Liang
+Bhavya Kailkhura
+Zhongming Jin
+Xian-Sheng Hua
+Deng Cai
+Bo Li",--
+http://proceedings.mlr.press/v119/paty20a/paty20a.pdf,http://proceedings.mlr.press/v119/paty20a/paty20a-supp.pdf,Regularized Optimal Transport is Ground Cost Adversarial,"François-Pierre Paty
+Marco Cuturi",--
+http://proceedings.mlr.press/v119/phan20a/phan20a.pdf,http://proceedings.mlr.press/v119/phan20a/phan20a-supp.pdf,Scalable Differential Privacy with Certified Robustness in Adversarial Learning,"Hai Phan
+My T. Thai
+Han Hu
+Ruoming Jin
+Tong Sun
+Dejing Dou",https://github.com/haiphanNJIT/StoBatch
+http://proceedings.mlr.press/v119/pinot20a/pinot20a.pdf,http://proceedings.mlr.press/v119/pinot20a/pinot20a-supp.pdf,Randomization matters How to defend against strong adversarial attacks,"Rafael Pinot
+Raphael Ettedgui
+Geovani Rizk
+Yann Chevaleyre
+Jamal Atif",https://github.com/MILES-PSL/Randomization-matters-How-to-defend-against-strong-adversarial-attacks
+http://proceedings.mlr.press/v119/pydi20a/pydi20a.pdf,http://proceedings.mlr.press/v119/pydi20a/pydi20a-supp.pdf,Adversarial Risk via Optimal Transport and Optimal Couplings,"Muni Sreenivas Pydi
+Varun Jog",https://github.com/munisreenivas/adv-risk-optimal-transport
+http://proceedings.mlr.press/v119/rakhsha20a/rakhsha20a.pdf,http://proceedings.mlr.press/v119/rakhsha20a/rakhsha20a-supp.pdf,Policy Teaching via Environment Poisoning: Training-time Adversarial Attacks against Reinforcement Learning,"Amin Rakhsha
+Goran Radanovic
+Rati Devidze
+Xiaojin Zhu
+Adish Singla",https://github.com/adishs/icml2020_rl-policy-teaching_code
+http://proceedings.mlr.press/v119/rice20a/rice20a.pdf,http://proceedings.mlr.press/v119/rice20a/rice20a-supp.pdf,Overfitting in adversarially robust deep learning,"Leslie Rice
+Eric Wong
+Zico Kolter",https://github.com/ locuslab/robust_overfitting
+http://proceedings.mlr.press/v119/saadatpanah20a/saadatpanah20a.pdf,--,Adversarial Attacks on Copyright Detection Systems,"Parsa Saadatpanah
+Ali Shafahi
+Tom Goldstein",--
+http://proceedings.mlr.press/v119/saha20a/saha20a.pdf,http://proceedings.mlr.press/v119/saha20a/saha20a-supp.pdf,Improved Sleeping Bandits with Stochastic Action Sets and Adversarial Rewards,"Aadirupa Saha
+Pierre Gaillard
+Michal Valko",--
+http://proceedings.mlr.press/v119/scialom20a/scialom20a.pdf,http://proceedings.mlr.press/v119/scialom20a/scialom20a-supp.pdf,Discriminative Adversarial Search for Abstractive Summarization,"Thomas Scialom
+Paul-Alexis Dray
+Sylvain Lamprier
+Benjamin Piwowarski
+Jacopo Staiano",--
+http://proceedings.mlr.press/v119/singla20a/singla20a.pdf,http://proceedings.mlr.press/v119/singla20a/singla20a-supp.pdf,Second-Order Provable Defenses against Adversarial Attacks,"Sahil Singla
+Soheil Feizi",https://github.com/singlasahil14/so-robust
+http://proceedings.mlr.press/v119/stratos20a/stratos20a.pdf,http://proceedings.mlr.press/v119/stratos20a/stratos20a-supp.pdf,Learning Discrete Structured Representations by Adversarially Maximizing Mutual Information,"Karl Stratos
+Sam Wiseman",https://github.com/karlstratos/ammi
+http://proceedings.mlr.press/v119/stutz20a/stutz20a.pdf,http://proceedings.mlr.press/v119/stutz20a/stutz20a-supp.pdf,Confidence-Calibrated Adversarial Training: Generalizing to Unseen Attacks,"David Stutz
+Matthias Hein
+Bernt Schiele",https://github.com/davidstutz/confidence-calibrated-adversarial-training/
+http://proceedings.mlr.press/v119/tramer20a/tramer20a.pdf,http://proceedings.mlr.press/v119/tramer20a/tramer20a-supp.pdf,Fundamental Tradeoffs between Invariance and Sensitivity to Adversarial Perturbations,"Florian Tramer
+Jens Behrmann
+Nicholas Carlini
+Nicolas Papernot
+Joern-Henrik Jacobsen",https://github.com/ftramer/Excessive-Invariance
+http://proceedings.mlr.press/v119/wang20v/wang20v.pdf,http://proceedings.mlr.press/v119/wang20v/wang20v-supp.pdf,Neural Network Control Policy Verification With Persistent Adversarial Perturbation,"Yuh-Shyang Wang
+Lily Weng
+Luca Daniel",--
+http://proceedings.mlr.press/v119/wen20c/wen20c.pdf,http://proceedings.mlr.press/v119/wen20c/wen20c-supp.pdf,Towards Understanding the Regularization of Adversarial Robustness on Neural Networks,"Yuxin Wen
+Shuai Li
+Kui Jia",--
+http://proceedings.mlr.press/v119/wu20d/wu20d.pdf,http://proceedings.mlr.press/v119/wu20d/wu20d-supp.pdf,Stronger and Faster Wasserstein Adversarial Attacks,"Kaiwen Wu
+Allen Wang
+Yaoliang Yu",https://github.com/watml/fast-wasserstein-adversarial
+http://proceedings.mlr.press/v119/wu20f/wu20f.pdf,http://proceedings.mlr.press/v119/wu20f/wu20f-supp.pdf,Adversarial Robustness via Runtime Masking and Cleansing,"Yi-Hsuan Wu
+Chia-Hung Yuan
+Shan-Hung Wu",https://github.com/nthu-datalab/Runtime-Masking-and-Cleansing
+http://proceedings.mlr.press/v119/zhang20z/zhang20z.pdf,http://proceedings.mlr.press/v119/zhang20z/zhang20z-supp.pdf,Attacks Which Do Not Kill Training Make Adversarial Learning Stronger,"Jingfeng Zhang
+Xilie Xu
+Bo Han
+Gang Niu
+Lizhen Cui
+Masashi Sugiyama
+Mohan Kankanhalli",https://github.com/zjfheart/Friendly-Adversarial-Training
+http://proceedings.mlr.press/v119/zhu20e/zhu20e.pdf,http://proceedings.mlr.press/v119/zhu20e/zhu20e-supp.pdf,Learning Adversarially Robust Representations via Worst-Case Mutual Information Maximization,"Sicheng Zhu
+Xiao Zhang
+David Evans",https://github.com/schzhu/learning-adversarially-robust-representations

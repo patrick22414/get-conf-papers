@@ -18,7 +18,7 @@ def _split_and_rejoin(s: str):
 
 
 if __name__ == "__main__":
-    with open("html/icml2020-optimization.html", "r") as html:
+    with open("html/icml2020-adv.html", "r") as html:
         soup = BeautifulSoup(html, "html.parser")
 
     papers = []
@@ -40,7 +40,7 @@ if __name__ == "__main__":
         papers.append(paper)
 
     count = 0
-    with open("icml2020-optimization.csv", "w") as fo:
+    with open("csv/adv-icml2020.csv", "w") as fo:
         csv_writer = csv.writer(fo)
         for paper in papers:
             print(paper.title)
@@ -48,7 +48,7 @@ if __name__ == "__main__":
                 [
                     paper.title,
                     "\n".join(paper.authors),
-                    "\n".join(paper.keywords),
+                    "; ".join(paper.keywords),
                     paper.pdf_url,
                 ]
             )

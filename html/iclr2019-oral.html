@@ -1,0 +1,1259 @@
+<ul class="list-unstyled submissions-list">
+    <li class="note " data-id="B1gabhRcYX" data-number="1217">
+        <h4>
+            <a href="/forum?id=B1gabhRcYX">
+                BA-Net: Dense Bundle Adjustment Networks
+            </a>
+
+
+            <a href="/pdf?id=B1gabhRcYX" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+            <a href="/profile?email=cta73%40sfu.ca" class="profile-link" data-toggle="tooltip" data-placement="top" title="cta73@sfu.ca">Chengzhou Tang</a>, <a href="/profile?email=pingtan%40sfu.ca" class="profile-link" data-toggle="tooltip" data-placement="top" title="pingtan@sfu.ca">Ping Tan</a>
+        </div>
+
+        <div class="note-meta-info">
+            <span class="date">28 Sep 2018 (modified: 23 Feb 2019)</span>
+            <span class="item">ICLR 2019 Conference Blind Submission</span>
+            <span class="readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+            <span>10 Replies</span>
+
+
+        </div>
+
+        <a href="#B1gabhRcYX-details-785" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a>
+        <div class="collapse" id="B1gabhRcYX-details-785">
+            <div class="note-contents-collapse">
+                <ul class="list-unstyled note-content">
+                    <li>
+                        <strong class="note-content-field">Abstract:</strong>
+                        <span class="note-content-value ">This paper introduces a network architecture to solve the structure-from-motion (SfM) problem via feature-metric bundle adjustment (BA), which explicitly enforces multi-view geometry constraints in the form of feature-metric error. The whole pipeline is differentiable, so that the network can learn suitable features that make the BA problem more tractable. Furthermore, this work introduces a novel depth parameterization to recover dense per-pixel depth. The network first generates several basis depth maps according to the input image, and optimizes the final depth as a linear combination of these basis depth maps via feature-metric BA. The basis depth maps generator is also learned via end-to-end training. The whole system nicely combines domain knowledge (i.e. hard-coded multi-view geometry constraints) and deep learning (i.e. feature learning and basis depth maps learning) to address the challenging dense SfM problem. Experiments on large scale real data prove the success of the proposed method.</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">Keywords:</strong>
+                        <span class="note-content-value ">Structure-from-Motion, Bundle Adjustment, Dense Depth Estimation</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">TL;DR:</strong>
+                        <span class="note-content-value ">This paper introduces a network architecture to solve the structure-from-motion (SfM) problem via feature bundle adjustment (BA)</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+
+
+    </li>
+    <li class="note " data-id="B1l08oAct7" data-number="220">
+        <h4>
+            <a href="/forum?id=B1l08oAct7">
+                Deterministic Variational Inference for Robust Bayesian Neural Networks
+            </a>
+
+
+            <a href="/pdf?id=B1l08oAct7" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+            <a href="/profile?email=anqiw%40princeton.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="anqiw@princeton.edu">Anqi Wu</a>, <a href="/profile?email=sebastian.nowozin%40microsoft.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="sebastian.nowozin@microsoft.com">Sebastian Nowozin</a>, <a href="/profile?email=ted.meeds%40microsoft.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="ted.meeds@microsoft.com">Edward Meeds</a>, <a href="/profile?email=ret26%40cam.ac.uk" class="profile-link" data-toggle="tooltip" data-placement="top" title="ret26@cam.ac.uk">Richard E. Turner</a>, <a href="/profile?email=jmh233%40cam.ac.uk" class="profile-link" data-toggle="tooltip" data-placement="top" title="jmh233@cam.ac.uk">José Miguel Hernández-Lobato</a>, <a href="/profile?email=algaunt%40microsoft.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="algaunt@microsoft.com">Alexander L. Gaunt</a>
+        </div>
+
+        <div class="note-meta-info">
+            <span class="date">28 Sep 2018 (modified: 17 Feb 2019)</span>
+            <span class="item">ICLR 2019 Conference Blind Submission</span>
+            <span class="readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+            <span>8 Replies</span>
+
+
+        </div>
+
+        <a href="#B1l08oAct7-details-229" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a>
+        <div class="collapse" id="B1l08oAct7-details-229">
+            <div class="note-contents-collapse">
+                <ul class="list-unstyled note-content">
+                    <li>
+                        <strong class="note-content-field">Abstract:</strong>
+                        <span class="note-content-value ">Bayesian neural networks (BNNs) hold great promise as a flexible and principled solution to deal with uncertainty when learning from finite data. Among approaches to realize probabilistic inference in deep neural networks, variational Bayes (VB) is theoretically grounded, generally applicable, and computationally efficient. With wide recognition of potential advantages, why is it that variational Bayes has seen very limited practical use for BNNs in real applications? We argue that variational inference in neural networks is fragile: successful implementations require careful initialization and tuning of prior variances, as well as controlling the variance of Monte Carlo gradient estimates. We provide two innovations that aim to turn VB into a robust inference tool for Bayesian neural networks: first, we introduce a novel deterministic method to approximate moments in neural networks, eliminating gradient variance; second, we introduce a hierarchical prior for parameters and a novel Empirical Bayes procedure for automatically selecting prior variances. Combining these two innovations, the resulting method is highly efficient and robust. On the application of heteroscedastic regression we demonstrate good predictive performance over alternative approaches.</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">Keywords:</strong>
+                        <span class="note-content-value ">Bayesian neural network, variational inference, variational bayes, variance reduction, empirical bayes</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">TL;DR:</strong>
+                        <span class="note-content-value ">A method for eliminating gradient variance and automatically tuning priors for effective training of bayesian neural networks</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+
+
+    </li>
+    <li class="note " data-id="B1l6qiR5F7" data-number="574">
+        <h4>
+            <a href="/forum?id=B1l6qiR5F7">
+                Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks
+            </a>
+
+
+            <a href="/pdf?id=B1l6qiR5F7" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+            <a href="/profile?email=yikang.shn%40gmail.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="yikang.shn@gmail.com">Yikang Shen</a>, <a href="/profile?email=shawn%40wtf.sg" class="profile-link" data-toggle="tooltip" data-placement="top" title="shawn@wtf.sg">Shawn Tan</a>, <a href="/profile?email=alsordon%40microsoft.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="alsordon@microsoft.com">Alessandro Sordoni</a>, <a href="/profile?email=aaron.courville%40gmail.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="aaron.courville@gmail.com">Aaron Courville</a>
+        </div>
+
+        <div class="note-meta-info">
+            <span class="date">28 Sep 2018 (modified: 08 May 2019)</span>
+            <span class="item">ICLR 2019 Conference Blind Submission</span>
+            <span class="readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+            <span>10 Replies</span>
+
+
+        </div>
+
+        <a href="#B1l6qiR5F7-details-126" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a>
+        <div class="collapse" id="B1l6qiR5F7-details-126">
+            <div class="note-contents-collapse">
+                <ul class="list-unstyled note-content">
+                    <li>
+                        <strong class="note-content-field">Abstract:</strong>
+                        <span class="note-content-value ">Natural language is hierarchically structured: smaller units (e.g., phrases) are nested within larger units (e.g., clauses). When a larger constituent ends, all of the smaller constituents that are nested within it must also be closed. While the standard LSTM architecture allows different neurons to track information at different time scales, it does not have an explicit bias towards modeling a hierarchy of constituents. This paper proposes to add such inductive bias by ordering the neurons; a vector of master input and forget gates ensures that when a given neuron is updated, all the neurons that follow it in the ordering are also updated. Our novel recurrent architecture, ordered neurons LSTM (ON-LSTM), achieves good performance on four different tasks: language modeling, unsupervised parsing, targeted syntactic evaluation, and logical inference.</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">Keywords:</strong>
+                        <span class="note-content-value ">Deep Learning, Natural Language Processing, Recurrent Neural Networks, Language Modeling</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">TL;DR:</strong>
+                        <span class="note-content-value ">We introduce a new inductive bias that integrates tree structures in recurrent neural networks.</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+
+
+    </li>
+    <li class="note " data-id="B1xsqj09Fm" data-number="563">
+        <h4>
+            <a href="/forum?id=B1xsqj09Fm">
+                Large Scale GAN Training for High Fidelity Natural Image Synthesis
+            </a>
+
+
+            <a href="/pdf?id=B1xsqj09Fm" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+            <a href="/profile?email=ajb5%40hw.ac.uk" class="profile-link" data-toggle="tooltip" data-placement="top" title="ajb5@hw.ac.uk">Andrew Brock</a>, <a href="/profile?email=jeffdonahue%40google.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="jeffdonahue@google.com">Jeff Donahue</a>, <a href="/profile?email=simonyan%40google.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="simonyan@google.com">Karen Simonyan</a>
+        </div>
+
+        <div class="note-meta-info">
+            <span class="date">28 Sep 2018 (modified: 26 Feb 2019)</span>
+            <span class="item">ICLR 2019 Conference Blind Submission</span>
+            <span class="readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+            <span>26 Replies</span>
+
+
+        </div>
+
+        <a href="#B1xsqj09Fm-details-352" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a>
+        <div class="collapse" id="B1xsqj09Fm-details-352">
+            <div class="note-contents-collapse">
+                <ul class="list-unstyled note-content">
+                    <li>
+                        <strong class="note-content-field">Abstract:</strong>
+                        <span class="note-content-value ">Despite recent progress in generative image modeling, successfully generating high-resolution, diverse samples from complex datasets such as ImageNet remains an elusive goal. To this end, we train Generative Adversarial Networks at the largest scale yet attempted, and study the instabilities specific to such scale. We find that applying orthogonal regularization to the generator renders it amenable to a simple "truncation trick", allowing fine control over the trade-off between sample fidelity and variety by reducing the variance of the Generator's input. Our modifications lead to models which set the new state of the art in class-conditional image synthesis. When trained on ImageNet at 128x128 resolution, our models (BigGANs) achieve an Inception Score (IS) of 166.3 and Frechet Inception Distance (FID) of 9.6, improving over the previous best IS of 52.52 and FID of 18.65.</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">Keywords:</strong>
+                        <span class="note-content-value ">GANs, Generative Models, Large Scale Training, Deep Learning</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">TL;DR:</strong>
+                        <span class="note-content-value ">GANs benefit from scaling up.</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+
+
+    </li>
+    <li class="note " data-id="Bklr3j0cKX" data-number="709">
+        <h4>
+            <a href="/forum?id=Bklr3j0cKX">
+                Learning deep representations by mutual information estimation and maximization
+            </a>
+
+
+            <a href="/pdf?id=Bklr3j0cKX" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+            <a href="/profile?email=devon.hjelm%40microsoft.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="devon.hjelm@microsoft.com">R Devon Hjelm</a>, <a href="/profile?email=eidos92%40gmail.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="eidos92@gmail.com">Alex Fedorov</a>, <a href="/profile?email=samuel.lavoie-marchildon%40umontreal.ca" class="profile-link" data-toggle="tooltip" data-placement="top" title="samuel.lavoie-marchildon@umontreal.ca">Samuel Lavoie-Marchildon</a>, <a href="/profile?email=karang%40cs.toronto.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="karang@cs.toronto.edu">Karan Grewal</a>, <a href="/profile?email=phil.bachman%40gmail.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="phil.bachman@gmail.com">Phil Bachman</a>, <a href="/profile?email=adam.trischler%40microsoft.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="adam.trischler@microsoft.com">Adam Trischler</a>, <a href="/profile?email=yoshua.umontreal%40gmail.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="yoshua.umontreal@gmail.com">Yoshua Bengio</a>
+        </div>
+
+        <div class="note-meta-info">
+            <span class="date">28 Sep 2018 (modified: 23 Feb 2019)</span>
+            <span class="item">ICLR 2019 Conference Blind Submission</span>
+            <span class="readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+            <span>13 Replies</span>
+
+
+        </div>
+
+        <a href="#Bklr3j0cKX-details-990" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a>
+        <div class="collapse" id="Bklr3j0cKX-details-990">
+            <div class="note-contents-collapse">
+                <ul class="list-unstyled note-content">
+                    <li>
+                        <strong class="note-content-field">Abstract:</strong>
+                        <span class="note-content-value ">This work investigates unsupervised learning of representations by maximizing mutual information between an input and the output of a deep neural network encoder. Importantly, we show that structure matters: incorporating knowledge about locality in the input into the objective can significantly improve a representation's suitability for downstream tasks. We further control characteristics of the representation by matching to a prior distribution adversarially. Our method, which we call Deep InfoMax (DIM), outperforms a number of popular unsupervised learning methods and compares favorably with fully-supervised learning on several classification tasks in with some standard architectures. DIM opens new avenues for unsupervised learning of representations and is an important step towards flexible formulations of representation learning objectives for specific end-goals.</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">Keywords:</strong>
+                        <span class="note-content-value ">representation learning, unsupervised learning, deep learning</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">TL;DR:</strong>
+                        <span class="note-content-value ">We learn deep representation by maximizing mutual information, leveraging structure in the objective, and are able to compute with fully supervised classifiers with comparable architectures</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+
+
+    </li>
+    <li class="note " data-id="ByeZ5jC5YQ" data-number="507">
+        <h4>
+            <a href="/forum?id=ByeZ5jC5YQ">
+                KnockoffGAN: Generating Knockoffs for Feature Selection using Generative Adversarial Networks
+            </a>
+
+
+            <a href="/pdf?id=ByeZ5jC5YQ" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+            <a href="/profile?email=james.jordon%40wolfson.ox.ac.uk" class="profile-link" data-toggle="tooltip" data-placement="top" title="james.jordon@wolfson.ox.ac.uk">James Jordon</a>, <a href="/profile?email=jsyoon0823%40gmail.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="jsyoon0823@gmail.com">Jinsung Yoon</a>, <a href="/profile?email=mihaela.vanderschaar%40eng.ox.ac.uk" class="profile-link" data-toggle="tooltip" data-placement="top" title="mihaela.vanderschaar@eng.ox.ac.uk">Mihaela van der Schaar</a>
+        </div>
+
+        <div class="note-meta-info">
+            <span class="date">28 Sep 2018 (modified: 06 Feb 2019)</span>
+            <span class="item">ICLR 2019 Conference Blind Submission</span>
+            <span class="readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+            <span>9 Replies</span>
+
+
+        </div>
+
+        <a href="#ByeZ5jC5YQ-details-768" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a>
+        <div class="collapse" id="ByeZ5jC5YQ-details-768">
+            <div class="note-contents-collapse">
+                <ul class="list-unstyled note-content">
+                    <li>
+                        <strong class="note-content-field">Abstract:</strong>
+                        <span class="note-content-value ">Feature selection is a pervasive problem. The discovery of relevant features can be as important for performing a particular task (such as to avoid overfitting in prediction) as it can be for understanding the underlying processes governing the true label (such as discovering relevant genetic factors for a disease). Machine learning driven feature selection can enable discovery from large, high-dimensional, non-linear observational datasets by creating a subset of features for experts to focus on. In order to use expert time most efficiently, we need a principled methodology capable of controlling the False Discovery Rate. In this work, we build on the promising Knockoff framework by developing a flexible knockoff generation model. We adapt the Generative Adversarial Networks framework to allow us to generate knockoffs with no assumptions on the feature distribution. Our model consists of 4 networks, a generator, a discriminator, a stability network and a power network. We demonstrate the capability of our model to perform feature selection, showing that it performs as well as the originally proposed knockoff generation model in the Gaussian setting and that it outperforms the original model in non-Gaussian settings, including on a real-world dataset.</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">Keywords:</strong>
+                        <span class="note-content-value ">Knockoff model, Feature selection, False discovery rate control, Generative Adversarial networks</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+
+
+    </li>
+    <li class="note " data-id="Byg3y3C9Km" data-number="1020">
+        <h4>
+            <a href="/forum?id=Byg3y3C9Km">
+                Learning Protein Structure with a Differentiable Simulator
+            </a>
+
+
+            <a href="/pdf?id=Byg3y3C9Km" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+            <a href="/profile?email=john.ingraham%40gmail.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="john.ingraham@gmail.com">John Ingraham</a>, <a href="/profile?email=adam.riesselman%40gmail.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="adam.riesselman@gmail.com">Adam Riesselman</a>, <a href="/profile?email=cccsander%40gmail.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="cccsander@gmail.com">Chris Sander</a>, <a href="/profile?email=deboramarks%40gmail.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="deboramarks@gmail.com">Debora Marks</a>
+        </div>
+
+        <div class="note-meta-info">
+            <span class="date">28 Sep 2018 (modified: 23 Feb 2019)</span>
+            <span class="item">ICLR 2019 Conference Blind Submission</span>
+            <span class="readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+            <span>16 Replies</span>
+
+
+        </div>
+
+        <a href="#Byg3y3C9Km-details-821" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a>
+        <div class="collapse" id="Byg3y3C9Km-details-821">
+            <div class="note-contents-collapse">
+                <ul class="list-unstyled note-content">
+                    <li>
+                        <strong class="note-content-field">Abstract:</strong>
+                        <span class="note-content-value ">The Boltzmann distribution is a natural model for many systems, from brains to materials and biomolecules, but is often of limited utility for fitting data because Monte Carlo algorithms are unable to simulate it in available time. This gap between the expressive capabilities and sampling practicalities of energy-based models is exemplified by the protein folding problem, since energy landscapes underlie contemporary knowledge of protein biophysics but computer simulations are challenged to fold all but the smallest proteins from first principles. In this work we aim to bridge the gap between the expressive capacity of energy functions and the practical capabilities of their simulators by using an unrolled Monte Carlo simulation as a model for data. We compose a neural energy function with a novel and efficient simulator based on Langevin dynamics to build an end-to-end-differentiable model of atomic protein structure given amino acid sequence information. We introduce techniques for stabilizing backpropagation under long roll-outs and demonstrate the model's capacity to make multimodal predictions and to, in some cases, generalize to unobserved protein fold types when trained on a large corpus of protein structures.</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">Keywords:</strong>
+                        <span class="note-content-value ">generative models, simulators, molecular modeling, proteins, structured prediction</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">TL;DR:</strong>
+                        <span class="note-content-value ">We use an unrolled simulator as an end-to-end differentiable model of protein structure and show it can (sometimes) hierarchically generalize to unseen fold topologies.</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+
+
+    </li>
+    <li class="note " data-id="Bygh9j09KX" data-number="566">
+        <h4>
+            <a href="/forum?id=Bygh9j09KX">
+                ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness
+            </a>
+
+
+            <a href="/pdf?id=Bygh9j09KX" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+            <a href="/profile?email=robert%40geirhos.de" class="profile-link" data-toggle="tooltip" data-placement="top" title="robert@geirhos.de">Robert Geirhos</a>, <a href="/profile?email=patricia%40rubisch.net" class="profile-link" data-toggle="tooltip" data-placement="top" title="patricia@rubisch.net">Patricia Rubisch</a>, <a href="/profile?email=claudio.michaelis%40bethgelab.org" class="profile-link" data-toggle="tooltip" data-placement="top" title="claudio.michaelis@bethgelab.org">Claudio Michaelis</a>, <a href="/profile?email=matthias.bethge%40uni-tuebingen.de" class="profile-link" data-toggle="tooltip" data-placement="top" title="matthias.bethge@uni-tuebingen.de">Matthias Bethge</a>, <a href="/profile?email=felix.wichmann%40uni-tuebingen.de" class="profile-link" data-toggle="tooltip" data-placement="top" title="felix.wichmann@uni-tuebingen.de">Felix A. Wichmann</a>, <a href="/profile?email=wieland.brendel%40bethgelab.org" class="profile-link" data-toggle="tooltip" data-placement="top" title="wieland.brendel@bethgelab.org">Wieland Brendel</a>
+        </div>
+
+        <div class="note-meta-info">
+            <span class="date">28 Sep 2018 (modified: 19 Feb 2019)</span>
+            <span class="item">ICLR 2019 Conference Blind Submission</span>
+            <span class="readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+            <span>18 Replies</span>
+
+
+        </div>
+
+        <a href="#Bygh9j09KX-details-564" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a>
+        <div class="collapse" id="Bygh9j09KX-details-564">
+            <div class="note-contents-collapse">
+                <ul class="list-unstyled note-content">
+                    <li>
+                        <strong class="note-content-field">Abstract:</strong>
+                        <span class="note-content-value ">Convolutional Neural Networks (CNNs) are commonly thought to recognise objects by learning increasingly complex representations of object shapes. Some recent studies suggest a more important role of image textures. We here put these conflicting hypotheses to a quantitative test by evaluating CNNs and human observers on images with a texture-shape cue conflict. We show that ImageNet-trained CNNs are strongly biased towards recognising textures rather than shapes, which is in stark contrast to human behavioural evidence and reveals fundamentally different classification strategies. We then demonstrate that the same standard architecture (ResNet-50) that learns a texture-based representation on ImageNet is able to learn a shape-based representation instead when trained on 'Stylized-ImageNet', a stylized version of ImageNet. This provides a much better fit for human behavioural performance in our well-controlled psychophysical lab setting (nine experiments totalling 48,560 psychophysical trials across 97 observers) and comes with a number of unexpected emergent benefits such as improved object detection performance and previously unseen robustness towards a wide range of image distortions, highlighting advantages of a shape-based representation.</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">Keywords:</strong>
+                        <span class="note-content-value ">deep learning, psychophysics, representation learning, object recognition, robustness, neural networks, data augmentation</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">TL;DR:</strong>
+                        <span class="note-content-value ">ImageNet-trained CNNs are biased towards object texture (instead of shape like humans). Overcoming this major difference between human and machine vision yields improved detection performance and previously unseen robustness to image distortions.</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+
+
+    </li>
+    <li class="note " data-id="H1xSNiRcF7" data-number="1">
+        <h4>
+            <a href="/forum?id=H1xSNiRcF7">
+                Smoothing the Geometry of Probabilistic Box Embeddings
+            </a>
+
+
+            <a href="/pdf?id=H1xSNiRcF7" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+            <a href="/profile?email=xiangl%40cs.umass.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="xiangl@cs.umass.edu">Xiang Li</a>, <a href="/profile?email=luke%40cs.umass.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="luke@cs.umass.edu">Luke Vilnis</a>, <a href="/profile?email=dongxuzhang%40cs.umass.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="dongxuzhang@cs.umass.edu">Dongxu Zhang</a>, <a href="/profile?email=mboratko%40math.umass.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="mboratko@math.umass.edu">Michael Boratko</a>, <a href="/profile?email=mccallum%40cs.umass.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="mccallum@cs.umass.edu">Andrew McCallum</a>
+        </div>
+
+        <div class="note-meta-info">
+            <span class="date">28 Sep 2018 (modified: 23 Feb 2019)</span>
+            <span class="item">ICLR 2019 Conference Blind Submission</span>
+            <span class="readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+            <span>10 Replies</span>
+
+
+        </div>
+
+        <a href="#H1xSNiRcF7-details-664" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a>
+        <div class="collapse" id="H1xSNiRcF7-details-664">
+            <div class="note-contents-collapse">
+                <ul class="list-unstyled note-content">
+                    <li>
+                        <strong class="note-content-field">Abstract:</strong>
+                        <span class="note-content-value ">There is growing interest in geometrically-inspired embeddings for learning hierarchies, partial orders, and lattice structures, with natural applications to transitive relational data such as entailment graphs. Recent work has extended these ideas beyond deterministic hierarchies to probabilistically calibrated models, which enable learning from uncertain supervision and inferring soft-inclusions among concepts, while maintaining the geometric inductive bias of hierarchical embedding models. We build on the Box Lattice model of Vilnis et al. (2018), which showed promising results in modeling soft-inclusions through an overlapping hierarchy of sets, parameterized as high-dimensional hyperrectangles (boxes). However, the hard edges of the boxes present difficulties for standard gradient based optimization; that work employed a special surrogate function for the disjoint case, but we find this method to be fragile. In this work, we present a novel hierarchical embedding model, inspired by a relaxation of box embeddings into parameterized density functions using Gaussian convolutions over the boxes. Our approach provides an alternative surrogate to the original lattice measure that improves the robustness of optimization in the disjoint case, while also preserving the desirable properties with respect to the original lattice. We demonstrate increased or matching performance on WordNet hypernymy prediction, Flickr caption entailment, and a MovieLens-based market basket dataset. We show especially marked improvements in the case of sparse data, where many conditional probabilities should be low, and thus boxes should be nearly disjoint.</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">Keywords:</strong>
+                        <span class="note-content-value ">embeddings, order embeddings, knowledge graph embedding, relational learning</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">TL;DR:</strong>
+                        <span class="note-content-value ">Improve hierarchical embedding models using kernel smoothing</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+
+
+    </li>
+    <li class="note " data-id="HJx54i05tX" data-number="26">
+        <h4>
+            <a href="/forum?id=HJx54i05tX">
+                On Random Deep Weight-Tied Autoencoders: Exact Asymptotic Analysis, Phase Transitions, and Implications to Training
+            </a>
+
+
+            <a href="/pdf?id=HJx54i05tX" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+            <a href="/profile?email=pingli98%40gmail.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="pingli98@gmail.com">Ping Li</a>, <a href="/profile?email=npminh%40stanford.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="npminh@stanford.edu">Phan-Minh Nguyen</a>
+        </div>
+
+        <div class="note-meta-info">
+            <span class="date">28 Sep 2018 (modified: 21 Feb 2019)</span>
+            <span class="item">ICLR 2019 Conference Blind Submission</span>
+            <span class="readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+            <span>11 Replies</span>
+
+
+        </div>
+
+        <a href="#HJx54i05tX-details-169" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a>
+        <div class="collapse" id="HJx54i05tX-details-169">
+            <div class="note-contents-collapse">
+                <ul class="list-unstyled note-content">
+                    <li>
+                        <strong class="note-content-field">Abstract:</strong>
+                        <span class="note-content-value ">We study the behavior of weight-tied multilayer vanilla autoencoders under the assumption of random weights. Via an exact characterization in the limit of large dimensions, our analysis reveals interesting phase transition phenomena when the depth becomes large. This, in particular, provides quantitative answers and insights to three questions that were yet fully understood in the literature. Firstly, we provide a precise answer on how the random deep weight-tied autoencoder model performs “approximate inference” as posed by Scellier et al. (2018), and its connection to reversibility considered by several theoretical studies. Secondly, we show that deep autoencoders display a higher degree of sensitivity to perturbations in the parameters, distinct from the shallow counterparts. Thirdly, we obtain insights on pitfalls in training initialization practice, and demonstrate experimentally that it is possible to train a deep autoencoder, even with the tanh activation and a depth as large as 200 layers, without resorting to techniques such as layer-wise pre-training or batch normalization. Our analysis is not specific to any depths or any Lipschitz activations, and our analytical techniques may have broader applicability.</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">Keywords:</strong>
+                        <span class="note-content-value ">Random Deep Autoencoders, Exact Asymptotic Analysis, Phase Transitions</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">TL;DR:</strong>
+                        <span class="note-content-value ">We study the behavior of weight-tied multilayer vanilla autoencoders under the assumption of random weights. Via an exact characterization in the limit of large dimensions, our analysis reveals interesting phase transition phenomena.</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+
+
+    </li>
+    <li class="note " data-id="HkNDsiC9KQ" data-number="632">
+        <h4>
+            <a href="/forum?id=HkNDsiC9KQ">
+                Meta-Learning Update Rules for Unsupervised Representation Learning
+            </a>
+
+
+            <a href="/pdf?id=HkNDsiC9KQ" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+            <a href="/profile?email=lmetz%40google.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="lmetz@google.com">Luke Metz</a>, <a href="/profile?email=nirum%40google.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="nirum@google.com">Niru Maheswaranathan</a>, <a href="/profile?email=bcheung%40berkeley.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="bcheung@berkeley.edu">Brian Cheung</a>, <a href="/profile?email=jaschasd%40google.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="jaschasd@google.com">Jascha Sohl-Dickstein</a>
+        </div>
+
+        <div class="note-meta-info">
+            <span class="date">28 Sep 2018 (modified: 23 Feb 2019)</span>
+            <span class="item">ICLR 2019 Conference Blind Submission</span>
+            <span class="readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+            <span>8 Replies</span>
+
+
+        </div>
+
+        <a href="#HkNDsiC9KQ-details-33" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a>
+        <div class="collapse" id="HkNDsiC9KQ-details-33">
+            <div class="note-contents-collapse">
+                <ul class="list-unstyled note-content">
+                    <li>
+                        <strong class="note-content-field">Abstract:</strong>
+                        <span class="note-content-value ">A major goal of unsupervised learning is to discover data representations that are useful for subsequent tasks, without access to supervised labels during training. Typically, this involves minimizing a surrogate objective, such as the negative log likelihood of a generative model, with the hope that representations useful for subsequent tasks will arise as a side effect. In this work, we propose instead to directly target later desired tasks by meta-learning an unsupervised learning rule which leads to representations useful for those tasks. Specifically, we target semi-supervised classification performance, and we meta-learn an algorithm -- an unsupervised weight update rule -- that produces representations useful for this task. Additionally, we constrain our unsupervised update rule to a be a biologically-motivated, neuron-local function, which enables it to generalize to different neural network architectures, datasets, and data modalities. We show that the meta-learned update rule produces useful features and sometimes outperforms existing unsupervised learning techniques. We further show that the meta-learned unsupervised update rule generalizes to train networks with different widths, depths, and nonlinearities. It also generalizes to train on data with randomly permuted input dimensions and even generalizes from image datasets to a text task.</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">Keywords:</strong>
+                        <span class="note-content-value ">Meta-learning, unsupervised learning, representation learning</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">TL;DR:</strong>
+                        <span class="note-content-value ">We learn an unsupervised learning algorithm that produces useful representations from a set of supervised tasks. At test-time, we apply this algorithm to new tasks without any supervision and show performance comparable to a VAE.</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+
+
+    </li>
+    <li class="note " data-id="HygBZnRctX" data-number="1168">
+        <h4>
+            <a href="/forum?id=HygBZnRctX">
+                Transferring Knowledge across Learning Processes
+            </a>
+
+
+            <a href="/pdf?id=HygBZnRctX" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+            <a href="/profile?email=sflennerhag%40turing.ac.uk" class="profile-link" data-toggle="tooltip" data-placement="top" title="sflennerhag@turing.ac.uk">Sebastian Flennerhag</a>, <a href="/profile?email=morepabl%40amazon.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="morepabl@amazon.com">Pablo G. Moreno</a>, <a href="/profile?email=lawrennd%40amazon.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="lawrennd@amazon.com">Neil D. Lawrence</a>, <a href="/profile?email=damianou%40amazon.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="damianou@amazon.com">Andreas Damianou</a>
+        </div>
+
+        <div class="note-meta-info">
+            <span class="date">28 Sep 2018 (modified: 27 Apr 2019)</span>
+            <span class="item">ICLR 2019 Conference Blind Submission</span>
+            <span class="readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+            <span>17 Replies</span>
+
+
+        </div>
+
+        <a href="#HygBZnRctX-details-134" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a>
+        <div class="collapse" id="HygBZnRctX-details-134">
+            <div class="note-contents-collapse">
+                <ul class="list-unstyled note-content">
+                    <li>
+                        <strong class="note-content-field">Abstract:</strong>
+                        <span class="note-content-value ">In complex transfer learning scenarios new tasks might not be tightly linked to previous tasks. Approaches that transfer information contained only in the final parameters of a source model will therefore struggle. Instead, transfer learning at at higher level of abstraction is needed. We propose Leap, a framework that achieves this by transferring knowledge across learning processes. We associate each task with a manifold on which the training process travels from initialization to final parameters and construct a meta-learning objective that minimizes the expected length of this path. Our framework leverages only information obtained during training and can be computed on the fly at negligible cost. We demonstrate that our framework outperforms competing methods, both in meta-learning and transfer learning, on a set of computer vision tasks. Finally, we demonstrate that Leap can transfer knowledge across learning processes in demanding reinforcement learning environments (Atari) that involve millions of gradient steps.</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">Keywords:</strong>
+                        <span class="note-content-value ">meta-learning, transfer learning</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">TL;DR:</strong>
+                        <span class="note-content-value ">We propose Leap, a framework that transfers knowledge across learning processes by minimizing the expected distance the training process travels on a task's loss surface.</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+
+
+    </li>
+    <li class="note " data-id="HylzTiC5Km" data-number="780">
+        <h4>
+            <a href="/forum?id=HylzTiC5Km">
+                GENERATING HIGH FIDELITY IMAGES WITH SUBSCALE PIXEL NETWORKS AND MULTIDIMENSIONAL UPSCALING
+            </a>
+
+
+            <a href="/pdf?id=HylzTiC5Km" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+            <a href="/profile?email=jmenick%40google.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="jmenick@google.com">Jacob Menick</a>, <a href="/profile?email=nalk%40google.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="nalk@google.com">Nal Kalchbrenner</a>
+        </div>
+
+        <div class="note-meta-info">
+            <span class="date">28 Sep 2018 (modified: 22 Feb 2019)</span>
+            <span class="item">ICLR 2019 Conference Blind Submission</span>
+            <span class="readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+            <span>16 Replies</span>
+
+
+        </div>
+
+        <a href="#HylzTiC5Km-details-500" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a>
+        <div class="collapse" id="HylzTiC5Km-details-500">
+            <div class="note-contents-collapse">
+                <ul class="list-unstyled note-content">
+                    <li>
+                        <strong class="note-content-field">Abstract:</strong>
+                        <span class="note-content-value ">The unconditional generation of high fidelity images is a longstanding benchmark
+                            for testing the performance of image decoders. Autoregressive image models
+                            have been able to generate small images unconditionally, but the extension of
+                            these methods to large images where fidelity can be more readily assessed has
+                            remained an open problem. Among the major challenges are the capacity to encode
+                            the vast previous context and the sheer difficulty of learning a distribution that
+                            preserves both global semantic coherence and exactness of detail. To address the
+                            former challenge, we propose the Subscale Pixel Network (SPN), a conditional
+                            decoder architecture that generates an image as a sequence of image slices of equal
+                            size. The SPN compactly captures image-wide spatial dependencies and requires a
+                            fraction of the memory and the computation. To address the latter challenge, we
+                            propose to use multidimensional upscaling to grow an image in both size and depth
+                            via intermediate stages corresponding to distinct SPNs. We evaluate SPNs on the
+                            unconditional generation of CelebAHQ of size 256 and of ImageNet from size 32
+                            to 128. We achieve state-of-the-art likelihood results in multiple settings, set up
+                            new benchmark results in previously unexplored settings and are able to generate
+                            very high fidelity large scale samples on the basis of both datasets.</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">TL;DR:</strong>
+                        <span class="note-content-value ">We show that autoregressive models can generate high fidelity images. </span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+
+
+    </li>
+    <li class="note " data-id="S1x4ghC9tQ" data-number="1067">
+        <h4>
+            <a href="/forum?id=S1x4ghC9tQ">
+                Temporal Difference Variational Auto-Encoder
+            </a>
+
+
+            <a href="/pdf?id=S1x4ghC9tQ" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+            <a href="/profile?email=karol.gregor%40gmail.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="karol.gregor@gmail.com">Karol Gregor</a>, <a href="/profile?email=g.papamakarios%40ed.ac.uk" class="profile-link" data-toggle="tooltip" data-placement="top" title="g.papamakarios@ed.ac.uk">George Papamakarios</a>, <a href="/profile?email=fbesse%40google.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="fbesse@google.com">Frederic Besse</a>, <a href="/profile?email=lbuesing%40google.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="lbuesing@google.com">Lars Buesing</a>, <a href="/profile?email=theophane%40google.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="theophane@google.com">Theophane Weber</a>
+        </div>
+
+        <div class="note-meta-info">
+            <span class="date">28 Sep 2018 (modified: 29 Mar 2019)</span>
+            <span class="item">ICLR 2019 Conference Blind Submission</span>
+            <span class="readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+            <span>8 Replies</span>
+
+
+        </div>
+
+        <a href="#S1x4ghC9tQ-details-939" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a>
+        <div class="collapse" id="S1x4ghC9tQ-details-939">
+            <div class="note-contents-collapse">
+                <ul class="list-unstyled note-content">
+                    <li>
+                        <strong class="note-content-field">Abstract:</strong>
+                        <span class="note-content-value ">To act and plan in complex environments, we posit that agents should have a mental simulator of the world with three characteristics: (a) it should build an abstract state representing the condition of the world; (b) it should form a belief which represents uncertainty on the world; (c) it should go beyond simple step-by-step simulation, and exhibit temporal abstraction. Motivated by the absence of a model satisfying all these requirements, we propose TD-VAE, a generative sequence model that learns representations containing explicit beliefs about states several steps into the future, and that can be rolled out directly without single-step transitions. TD-VAE is trained on pairs of temporally separated time points, using an analogue of temporal difference learning used in reinforcement learning.</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">Keywords:</strong>
+                        <span class="note-content-value ">generative models, variational auto-encoders, state space models, temporal difference learning</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">TL;DR:</strong>
+                        <span class="note-content-value ">Generative model of temporal data, that builds online belief state, operates in latent space, does jumpy predictions and rollouts of states.</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+
+
+    </li>
+    <li class="note " data-id="S1xq3oR5tQ" data-number="734">
+        <h4>
+            <a href="/forum?id=S1xq3oR5tQ">
+                A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs
+            </a>
+
+
+            <a href="/pdf?id=S1xq3oR5tQ" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+            <a href="/profile?email=lindsey6%40stanford.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="lindsey6@stanford.edu">Jack Lindsey</a>, <a href="/profile?email=socko%40stanford.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="socko@stanford.edu">Samuel A. Ocko</a>, <a href="/profile?email=sganguli%40stanford.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="sganguli@stanford.edu">Surya Ganguli</a>, <a href="/profile?email=sdeny%40stanford.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="sdeny@stanford.edu">Stephane Deny</a>
+        </div>
+
+        <div class="note-meta-info">
+            <span class="date">28 Sep 2018 (modified: 22 Feb 2019)</span>
+            <span class="item">ICLR 2019 Conference Blind Submission</span>
+            <span class="readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+            <span>10 Replies</span>
+
+
+        </div>
+
+        <a href="#S1xq3oR5tQ-details-347" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a>
+        <div class="collapse" id="S1xq3oR5tQ-details-347">
+            <div class="note-contents-collapse">
+                <ul class="list-unstyled note-content">
+                    <li>
+                        <strong class="note-content-field">Abstract:</strong>
+                        <span class="note-content-value ">The vertebrate visual system is hierarchically organized to process visual information in successive stages. Neural representations vary drastically across the first stages of visual processing: at the output of the retina, ganglion cell receptive fields (RFs) exhibit a clear antagonistic center-surround structure, whereas in the primary visual cortex (V1), typical RFs are sharply tuned to a precise orientation. There is currently no unified theory explaining these differences in representations across layers. Here, using a deep convolutional neural network trained on image recognition as a model of the visual system, we show that such differences in representation can emerge as a direct consequence of different neural resource constraints on the retinal and cortical networks, and for the first time we find a single model from which both geometries spontaneously emerge at the appropriate stages of visual processing. The key constraint is a reduced number of neurons at the retinal output, consistent with the anatomy of the optic nerve as a stringent bottleneck. Second, we find that, for simple downstream cortical networks, visual representations at the retinal output emerge as nonlinear and lossy feature detectors, whereas they emerge as linear and faithful encoders of the visual scene for more complex cortical networks. This result predicts that the retinas of small vertebrates (e.g. salamander, frog) should perform sophisticated nonlinear computations, extracting features directly relevant to behavior, whereas retinas of large animals such as primates should mostly encode the visual scene linearly and respond to a much broader range of stimuli. These predictions could reconcile the two seemingly incompatible views of the retina as either performing feature extraction or efficient coding of natural scenes, by suggesting that all vertebrates lie on a spectrum between these two objectives, depending on the degree of neural resources allocated to their visual system.</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">Keywords:</strong>
+                        <span class="note-content-value ">visual system, convolutional neural networks, efficient coding, retina</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">TL;DR:</strong>
+                        <span class="note-content-value ">We reproduced neural representations found in biological visual systems by simulating their neural resource constraints in a deep convolutional model.</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+
+
+    </li>
+    <li class="note " data-id="SkVhlh09tX" data-number="1115">
+        <h4>
+            <a href="/forum?id=SkVhlh09tX">
+                Pay Less Attention with Lightweight and Dynamic Convolutions
+            </a>
+
+
+            <a href="/pdf?id=SkVhlh09tX" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+            <a href="/profile?email=fw245%40cornell.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="fw245@cornell.edu">Felix Wu</a>, <a href="/profile?email=angelfan%40fb.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="angelfan@fb.com">Angela Fan</a>, <a href="/profile?email=alexei.b%40gmail.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="alexei.b@gmail.com">Alexei Baevski</a>, <a href="/profile?email=yann%40dauphin.io" class="profile-link" data-toggle="tooltip" data-placement="top" title="yann@dauphin.io">Yann Dauphin</a>, <a href="/profile?email=michael.auli%40gmail.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="michael.auli@gmail.com">Michael Auli</a>
+        </div>
+
+        <div class="note-meta-info">
+            <span class="date">28 Sep 2018 (modified: 21 Feb 2019)</span>
+            <span class="item">ICLR 2019 Conference Blind Submission</span>
+            <span class="readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+            <span>23 Replies</span>
+
+
+        </div>
+
+        <a href="#SkVhlh09tX-details-149" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a>
+        <div class="collapse" id="SkVhlh09tX-details-149">
+            <div class="note-contents-collapse">
+                <ul class="list-unstyled note-content">
+                    <li>
+                        <strong class="note-content-field">Abstract:</strong>
+                        <span class="note-content-value ">Self-attention is a useful mechanism to build generative models for language and images. It determines the importance of context elements by comparing each element to the current time step. In this paper, we show that a very lightweight convolution can perform competitively to the best reported self-attention results. Next, we introduce dynamic convolutions which are simpler and more efficient than self-attention. We predict separate convolution kernels based solely on the current time-step in order to determine the importance of context elements. The number of operations required by this approach scales linearly in the input length, whereas self-attention is quadratic. Experiments on large-scale machine translation, language modeling and abstractive summarization show that dynamic convolutions improve over strong self-attention models. On the WMT'14 English-German test set dynamic convolutions achieve a new state of the art of 29.7 BLEU.</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">Keywords:</strong>
+                        <span class="note-content-value ">Deep learning, sequence to sequence learning, convolutional neural networks, generative models</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">TL;DR:</strong>
+                        <span class="note-content-value ">Dynamic lightweight convolutions are competitive to self-attention on language tasks.</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+
+
+    </li>
+    <li class="note " data-id="r1lYRjC9F7" data-number="917">
+        <h4>
+            <a href="/forum?id=r1lYRjC9F7">
+                Enabling Factorized Piano Music Modeling and Generation with the MAESTRO Dataset
+            </a>
+
+
+            <a href="/pdf?id=r1lYRjC9F7" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+            <a href="/profile?email=fjord%40google.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="fjord@google.com">Curtis Hawthorne</a>, <a href="/profile?email=astas%40google.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="astas@google.com">Andriy Stasyuk</a>, <a href="/profile?email=adarob%40google.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="adarob@google.com">Adam Roberts</a>, <a href="/profile?email=iansimon%40google.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="iansimon@google.com">Ian Simon</a>, <a href="/profile?email=annahuang%40google.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="annahuang@google.com">Cheng-Zhi Anna Huang</a>, <a href="/profile?email=sedielem%40google.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="sedielem@google.com">Sander Dieleman</a>, <a href="/profile?email=eriche%40google.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="eriche@google.com">Erich Elsen</a>, <a href="/profile?email=jesseengel%40google.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="jesseengel@google.com">Jesse Engel</a>, <a href="/profile?email=deck%40google.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="deck@google.com">Douglas Eck</a>
+        </div>
+
+        <div class="note-meta-info">
+            <span class="date">28 Sep 2018 (modified: 01 May 2019)</span>
+            <span class="item">ICLR 2019 Conference Blind Submission</span>
+            <span class="readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+            <span>8 Replies</span>
+
+
+        </div>
+
+        <a href="#r1lYRjC9F7-details-988" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a>
+        <div class="collapse" id="r1lYRjC9F7-details-988">
+            <div class="note-contents-collapse">
+                <ul class="list-unstyled note-content">
+                    <li>
+                        <strong class="note-content-field">Abstract:</strong>
+                        <span class="note-content-value ">Generating musical audio directly with neural networks is notoriously difficult because it requires coherently modeling structure at many different timescales. Fortunately, most music is also highly structured and can be represented as discrete note events played on musical instruments. Herein, we show that by using notes as an intermediate representation, we can train a suite of models capable of transcribing, composing, and synthesizing audio waveforms with coherent musical structure on timescales spanning six orders of magnitude (~0.1 ms to ~100 s), a process we call Wave2Midi2Wave. This large advance in the state of the art is enabled by our release of the new MAESTRO (MIDI and Audio Edited for Synchronous TRacks and Organization) dataset, composed of over 172 hours of virtuosic piano performances captured with fine alignment (~3 ms) between note labels and audio waveforms. The networks and the dataset together present a promising approach toward creating new expressive and interpretable neural models of music.</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">Keywords:</strong>
+                        <span class="note-content-value ">music, piano transcription, transformer, wavnet, audio synthesis, dataset, midi</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">TL;DR:</strong>
+                        <span class="note-content-value ">We train a suite of models capable of transcribing, composing, and synthesizing audio waveforms with coherent musical structure, enabled by the new MAESTRO dataset.</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+
+
+    </li>
+    <li class="note " data-id="r1xlvi0qYm" data-number="231">
+        <h4>
+            <a href="/forum?id=r1xlvi0qYm">
+                Learning to Remember More with Less Memorization
+            </a>
+
+
+            <a href="/pdf?id=r1xlvi0qYm" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+            <a href="/profile?email=lethai%40deakin.edu.au" class="profile-link" data-toggle="tooltip" data-placement="top" title="lethai@deakin.edu.au">Hung Le</a>, <a href="/profile?email=truyen.tran%40deakin.edu.au" class="profile-link" data-toggle="tooltip" data-placement="top" title="truyen.tran@deakin.edu.au">Truyen Tran</a>, <a href="/profile?email=svetha.venkatesh%40deakin.edu.au" class="profile-link" data-toggle="tooltip" data-placement="top" title="svetha.venkatesh@deakin.edu.au">Svetha Venkatesh</a>
+        </div>
+
+        <div class="note-meta-info">
+            <span class="date">28 Sep 2018 (modified: 19 Jan 2019)</span>
+            <span class="item">ICLR 2019 Conference Blind Submission</span>
+            <span class="readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+            <span>12 Replies</span>
+
+
+        </div>
+
+        <a href="#r1xlvi0qYm-details-798" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a>
+        <div class="collapse" id="r1xlvi0qYm-details-798">
+            <div class="note-contents-collapse">
+                <ul class="list-unstyled note-content">
+                    <li>
+                        <strong class="note-content-field">Abstract:</strong>
+                        <span class="note-content-value ">Memory-augmented neural networks consisting of a neural controller and an external memory have shown potentials in long-term sequential learning. Current RAM-like memory models maintain memory accessing every timesteps, thus they do not effectively leverage the short-term memory held in the controller. We hypothesize that this scheme of writing is suboptimal in memory utilization and introduces redundant computation. To validate our hypothesis, we derive a theoretical bound on the amount of information stored in a RAM-like system and formulate an optimization problem that maximizes the bound. The proposed solution dubbed Uniform Writing is proved to be optimal under the assumption of equal timestep contributions. To relax this assumption, we introduce modifications to the original solution, resulting in a solution termed Cached Uniform Writing. This method aims to balance between maximizing memorization and forgetting via overwriting mechanisms. Through an extensive set of experiments, we empirically demonstrate the advantages of our solutions over other recurrent architectures, claiming the state-of-the-arts in various sequential modeling tasks. </span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">Keywords:</strong>
+                        <span class="note-content-value ">memory-augmented neural networks, writing optimization</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+
+
+    </li>
+    <li class="note " data-id="rJEjjoR9K7" data-number="654">
+        <h4>
+            <a href="/forum?id=rJEjjoR9K7">
+                Learning Robust Representations by Projecting Superficial Statistics Out
+            </a>
+
+
+            <a href="/pdf?id=rJEjjoR9K7" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+            <a href="/profile?email=haohanw%40cs.cmu.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="haohanw@cs.cmu.edu">Haohan Wang</a>, <a href="/profile?email=zexueh%40mail.bnu.edu.cn" class="profile-link" data-toggle="tooltip" data-placement="top" title="zexueh@mail.bnu.edu.cn">Zexue He</a>, <a href="/profile?email=zlipton%40cmu.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="zlipton@cmu.edu">Zachary C. Lipton</a>, <a href="/profile?email=epxing%40cs.cmu.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="epxing@cs.cmu.edu">Eric P. Xing</a>
+        </div>
+
+        <div class="note-meta-info">
+            <span class="date">28 Sep 2018 (modified: 02 May 2019)</span>
+            <span class="item">ICLR 2019 Conference Blind Submission</span>
+            <span class="readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+            <span>8 Replies</span>
+
+
+        </div>
+
+        <a href="#rJEjjoR9K7-details-929" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a>
+        <div class="collapse" id="rJEjjoR9K7-details-929">
+            <div class="note-contents-collapse">
+                <ul class="list-unstyled note-content">
+                    <li>
+                        <strong class="note-content-field">Abstract:</strong>
+                        <span class="note-content-value ">Despite impressive performance as evaluated on i.i.d. holdout data, deep neural networks depend heavily on superficial statistics of the training data and are liable to break under distribution shift. For example, subtle changes to the background or texture of an image can break a seemingly powerful classifier. Building on previous work on domain generalization, we hope to produce a classifier that will generalize to previously unseen domains, even when domain identifiers are not available during training. This setting is challenging because the model may extract many distribution-specific (superficial) signals together with distribution-agnostic (semantic) signals. To overcome this challenge, we incorporate the gray-level co-occurrence matrix (GLCM) to extract patterns that our prior knowledge suggests are superficial: they are sensitive to the texture but unable to capture the gestalt of an image. Then we introduce two techniques for improving our networks' out-of-sample performance. The first method is built on the reverse gradient method that pushes our model to learn representations from which the GLCM representation is not predictable. The second method is built on the independence introduced by projecting the model's representation onto the subspace orthogonal to GLCM representation's.
+                            We test our method on the battery of standard domain generalization data sets and, interestingly, achieve comparable or better performance as compared to other domain generalization methods that explicitly require samples from the target distribution for training.</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">Keywords:</strong>
+                        <span class="note-content-value ">domain generalization, robustness</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">TL;DR:</strong>
+                        <span class="note-content-value ">Building on previous work on domain generalization, we hope to produce a classifier that will generalize to previously unseen domains, even when domain identifiers are not available during training.</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+
+
+    </li>
+    <li class="note " data-id="rJVorjCcKQ" data-number="119">
+        <h4>
+            <a href="/forum?id=rJVorjCcKQ">
+                Slalom: Fast, Verifiable and Private Execution of Neural Networks in Trusted Hardware
+            </a>
+
+
+            <a href="/pdf?id=rJVorjCcKQ" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+            <a href="/profile?email=tramer%40cs.stanford.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="tramer@cs.stanford.edu">Florian Tramer</a>, <a href="/profile?email=dabo%40cs.stanford.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="dabo@cs.stanford.edu">Dan Boneh</a>
+        </div>
+
+        <div class="note-meta-info">
+            <span class="date">28 Sep 2018 (modified: 23 Jan 2019)</span>
+            <span class="item">ICLR 2019 Conference Blind Submission</span>
+            <span class="readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+            <span>18 Replies</span>
+
+
+        </div>
+
+        <a href="#rJVorjCcKQ-details-959" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a>
+        <div class="collapse" id="rJVorjCcKQ-details-959">
+            <div class="note-contents-collapse">
+                <ul class="list-unstyled note-content">
+                    <li>
+                        <strong class="note-content-field">Abstract:</strong>
+                        <span class="note-content-value ">As Machine Learning (ML) gets applied to security-critical or sensitive domains, there is a growing need for integrity and privacy for outsourced ML computations. A pragmatic solution comes from Trusted Execution Environments (TEEs), which use hardware and software protections to isolate sensitive computations from the untrusted software stack. However, these isolation guarantees come at a price in performance, compared to untrusted alternatives. This paper initiates the study of high performance execution of Deep Neural Networks (DNNs) in TEEs by efficiently partitioning DNN computations between trusted and untrusted devices. Building upon an efficient outsourcing scheme for matrix multiplication, we propose Slalom, a framework that securely delegates execution of all linear layers in a DNN from a TEE (e.g., Intel SGX or Sanctum) to a faster, yet untrusted, co-located processor. We evaluate Slalom by running DNNs in an Intel SGX enclave, which selectively delegates work to an untrusted GPU. For canonical DNNs (VGG16, MobileNet and ResNet variants) we obtain 6x to 20x increases in throughput for verifiable inference, and 4x to 11x for verifiable and private inference.</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">Keywords:</strong>
+                        <span class="note-content-value ">Trusted hardware, integrity, privacy, secure inference, SGX</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">TL;DR:</strong>
+                        <span class="note-content-value ">We accelerate secure DNN inference in trusted execution environments (by a factor 4x-20x) by selectively outsourcing the computation of linear layers to a faster yet untrusted co-processor.</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+
+
+    </li>
+    <li class="note " data-id="rJgMlhRctm" data-number="1053">
+        <h4>
+            <a href="/forum?id=rJgMlhRctm">
+                The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision
+            </a>
+
+
+            <a href="/pdf?id=rJgMlhRctm" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+            <a href="/profile?email=maojiayuan%40gmail.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="maojiayuan@gmail.com">Jiayuan Mao</a>, <a href="/profile?email=ganchuang1990%40gmail.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="ganchuang1990@gmail.com">Chuang Gan</a>, <a href="/profile?email=pushmeet%40google.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="pushmeet@google.com">Pushmeet Kohli</a>, <a href="/profile?email=jbt%40mit.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="jbt@mit.edu">Joshua B. Tenenbaum</a>, <a href="/profile?email=jiajunwu%40mit.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="jiajunwu@mit.edu">Jiajun Wu</a>
+        </div>
+
+        <div class="note-meta-info">
+            <span class="date">28 Sep 2018 (modified: 26 Apr 2019)</span>
+            <span class="item">ICLR 2019 Conference Blind Submission</span>
+            <span class="readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+            <span>14 Replies</span>
+
+
+        </div>
+
+        <a href="#rJgMlhRctm-details-489" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a>
+        <div class="collapse" id="rJgMlhRctm-details-489">
+            <div class="note-contents-collapse">
+                <ul class="list-unstyled note-content">
+                    <li>
+                        <strong class="note-content-field">Abstract:</strong>
+                        <span class="note-content-value ">We propose the Neuro-Symbolic Concept Learner (NS-CL), a model that learns visual concepts, words, and semantic parsing of sentences without explicit supervision on any of them; instead, our model learns by simply looking at images and reading paired questions and answers. Our model builds an object-based scene representation and translates sentences into executable, symbolic programs. To bridge the learning of two modules, we use a neuro-symbolic reasoning module that executes these programs on the latent scene representation. Analogical to human concept learning, the perception module learns visual concepts based on the language description of the object being referred to. Meanwhile, the learned visual concepts facilitate learning new words and parsing new sentences. We use curriculum learning to guide the searching over the large compositional space of images and language. Extensive experiments demonstrate the accuracy and efficiency of our model on learning visual concepts, word representations, and semantic parsing of sentences. Further, our method allows easy generalization to new object attributes, compositions, language concepts, scenes and questions, and even new program domains. It also empowers applications including visual question answering and bidirectional image-text retrieval.</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">Keywords:</strong>
+                        <span class="note-content-value ">Neuro-Symbolic Representations, Concept Learning, Visual Reasoning</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">TL;DR:</strong>
+                        <span class="note-content-value ">We propose the Neuro-Symbolic Concept Learner (NS-CL), a model that learns visual concepts, words, and semantic parsing of sentences without explicit supervision on any of them.</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+
+
+    </li>
+    <li class="note " data-id="rJl-b3RcF7" data-number="1146">
+        <h4>
+            <a href="/forum?id=rJl-b3RcF7">
+                The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks
+            </a>
+
+
+            <a href="/pdf?id=rJl-b3RcF7" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+            <a href="/profile?email=jfrankle%40mit.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="jfrankle@mit.edu">Jonathan Frankle</a>, <a href="/profile?email=mcarbin%40csail.mit.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="mcarbin@csail.mit.edu">Michael Carbin</a>
+        </div>
+
+        <div class="note-meta-info">
+            <span class="date">28 Sep 2018 (modified: 03 Mar 2019)</span>
+            <span class="item">ICLR 2019 Conference Blind Submission</span>
+            <span class="readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+            <span>21 Replies</span>
+
+
+        </div>
+
+        <a href="#rJl-b3RcF7-details-227" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a>
+        <div class="collapse" id="rJl-b3RcF7-details-227">
+            <div class="note-contents-collapse">
+                <ul class="list-unstyled note-content">
+                    <li>
+                        <strong class="note-content-field">Abstract:</strong>
+                        <span class="note-content-value ">Neural network pruning techniques can reduce the parameter counts of trained networks by over 90%, decreasing storage requirements and improving computational performance of inference without compromising accuracy. However, contemporary experience is that the sparse architectures produced by pruning are difficult to train from the start, which would similarly improve training performance.
+
+                            We find that a standard pruning technique naturally uncovers subnetworks whose initializations made them capable of training effectively. Based on these results, we articulate the "lottery ticket hypothesis:" dense, randomly-initialized, feed-forward networks contain subnetworks ("winning tickets") that - when trained in isolation - reach test accuracy comparable to the original network in a similar number of iterations. The winning tickets we find have won the initialization lottery: their connections have initial weights that make training particularly effective.
+
+                            We present an algorithm to identify winning tickets and a series of experiments that support the lottery ticket hypothesis and the importance of these fortuitous initializations. We consistently find winning tickets that are less than 10-20% of the size of several fully-connected and convolutional feed-forward architectures for MNIST and CIFAR10. Above this size, the winning tickets that we find learn faster than the original network and reach higher test accuracy.</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">Keywords:</strong>
+                        <span class="note-content-value ">Neural networks, sparsity, pruning, compression, performance, architecture search</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">TL;DR:</strong>
+                        <span class="note-content-value ">Feedforward neural networks that can have weights pruned after training could have had the same weights pruned before training</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+
+
+    </li>
+    <li class="note " data-id="rJxgknCcK7" data-number="954">
+        <h4>
+            <a href="/forum?id=rJxgknCcK7">
+                FFJORD: Free-Form Continuous Dynamics for Scalable Reversible Generative Models
+            </a>
+
+
+            <a href="/pdf?id=rJxgknCcK7" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+            <a href="/profile?email=wgrathwohl%40cs.toronto.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="wgrathwohl@cs.toronto.edu">Will Grathwohl</a>, <a href="/profile?email=rtqichen%40cs.toronto.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="rtqichen@cs.toronto.edu">Ricky T. Q. Chen</a>, <a href="/profile?email=jessebett%40cs.toronto.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="jessebett@cs.toronto.edu">Jesse Bettencourt</a>, <a href="/profile?email=ilyasu%40openai.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="ilyasu@openai.com">Ilya Sutskever</a>, <a href="/profile?email=duvenaud%40cs.toronto.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="duvenaud@cs.toronto.edu">David Duvenaud</a>
+        </div>
+
+        <div class="note-meta-info">
+            <span class="date">28 Sep 2018 (modified: 22 Feb 2019)</span>
+            <span class="item">ICLR 2019 Conference Blind Submission</span>
+            <span class="readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+            <span>15 Replies</span>
+
+
+        </div>
+
+        <a href="#rJxgknCcK7-details-500" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a>
+        <div class="collapse" id="rJxgknCcK7-details-500">
+            <div class="note-contents-collapse">
+                <ul class="list-unstyled note-content">
+                    <li>
+                        <strong class="note-content-field">Abstract:</strong>
+                        <span class="note-content-value ">A promising class of generative models maps points from a simple distribution to a complex distribution through an invertible neural network. Likelihood-based training of these models requires restricting their architectures to allow cheap computation of Jacobian determinants. Alternatively, the Jacobian trace can be used if the transformation is specified by an ordinary differential equation. In this paper, we use Hutchinson’s trace estimator to give a scalable unbiased estimate of the log-density. The result is a continuous-time invertible generative model with unbiased density estimation and one-pass sampling, while allowing unrestricted neural network architectures. We demonstrate our approach on high-dimensional density estimation, image generation, and variational inference, achieving the state-of-the-art among exact likelihood methods with efficient sampling.</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">Keywords:</strong>
+                        <span class="note-content-value ">generative models, density estimation, approximate inference, ordinary differential equations</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">TL;DR:</strong>
+                        <span class="note-content-value ">We use continuous time dynamics to define a generative model with exact likelihoods and efficient sampling that is parameterized by unrestricted neural networks.</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+
+
+    </li>
+    <li class="note " data-id="ryGs6iA5Km" data-number="835">
+        <h4>
+            <a href="/forum?id=ryGs6iA5Km">
+                How Powerful are Graph Neural Networks?
+            </a>
+
+
+            <a href="/pdf?id=ryGs6iA5Km" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+            <a href="/profile?email=keyulu%40mit.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="keyulu@mit.edu">Keyulu Xu*</a>, <a href="/profile?email=weihuahu%40stanford.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="weihuahu@stanford.edu">Weihua Hu*</a>, <a href="/profile?email=jure%40cs.stanford.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="jure@cs.stanford.edu">Jure Leskovec</a>, <a href="/profile?email=stefje%40mit.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="stefje@mit.edu">Stefanie Jegelka</a>
+        </div>
+
+        <div class="note-meta-info">
+            <span class="date">28 Sep 2018 (modified: 23 Feb 2019)</span>
+            <span class="item">ICLR 2019 Conference Blind Submission</span>
+            <span class="readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+            <span>60 Replies</span>
+
+
+        </div>
+
+        <a href="#ryGs6iA5Km-details-428" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a>
+        <div class="collapse" id="ryGs6iA5Km-details-428">
+            <div class="note-contents-collapse">
+                <ul class="list-unstyled note-content">
+                    <li>
+                        <strong class="note-content-field">Abstract:</strong>
+                        <span class="note-content-value ">Graph Neural Networks (GNNs) are an effective framework for representation learning of graphs. GNNs follow a neighborhood aggregation scheme, where the representation vector of a node is computed by recursively aggregating and transforming representation vectors of its neighboring nodes. Many GNN variants have been proposed and have achieved state-of-the-art results on both node and graph classification tasks. However, despite GNNs revolutionizing graph representation learning, there is limited understanding of their representational properties and limitations. Here, we present a theoretical framework for analyzing the expressive power of GNNs to capture different graph structures. Our results characterize the discriminative power of popular GNN variants, such as Graph Convolutional Networks and GraphSAGE, and show that they cannot learn to distinguish certain simple graph structures. We then develop a simple architecture that is provably the most expressive among the class of GNNs and is as powerful as the Weisfeiler-Lehman graph isomorphism test. We empirically validate our theoretical findings on a number of graph classification benchmarks, and demonstrate that our model achieves state-of-the-art performance.</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">Keywords:</strong>
+                        <span class="note-content-value ">graph neural networks, theory, deep learning, representational power, graph isomorphism, deep multisets</span>
+                    </li>
+                    <li>
+                        <strong class="note-content-field">TL;DR:</strong>
+                        <span class="note-content-value ">We develop theoretical foundations for the expressive power of GNNs and design a provably most powerful GNN.</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+
+
+    </li>
+</ul>

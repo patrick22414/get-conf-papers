@@ -1,0 +1,195 @@
+Title,Authors,PDF URL,Abstract URL
+Lower Bounds on Adversarial Robustness from Optimal Transport,"Arjun Nitin Bhagoji
+Daniel Cullina
+Prateek Mittal",https://proceedings.neurips.cc/paper/2019/file/02bf86214e264535e3412283e817deaa-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/02bf86214e264535e3412283e817deaa-Abstract.html
+Adversarial Robustness through Local Linearization,"Chongli Qin
+James Martens
+Sven Gowal
+Dilip Krishnan
+Krishnamurthy Dvijotham
+Alhussein Fawzi
+Soham De
+Robert Stanforth
+Pushmeet Kohli",https://proceedings.neurips.cc/paper/2019/file/0defd533d51ed0a10c5c9dbf93ee78a5-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/0defd533d51ed0a10c5c9dbf93ee78a5-Abstract.html
+On Robustness to Adversarial Examples and Polynomial Optimization,"Pranjal Awasthi
+Abhratanu Dutta
+Aravindan Vijayaraghavan",https://proceedings.neurips.cc/paper/2019/file/107878346e1d8f8fe6af7a7a588aa807-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/107878346e1d8f8fe6af7a7a588aa807-Abstract.html
+Theoretical Analysis of Adversarial Learning: A Minimax Approach,"Zhuozhuo Tu
+Jingwei Zhang
+Dacheng Tao",https://proceedings.neurips.cc/paper/2019/file/16bda725ae44af3bb9316f416bd13b1b-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/16bda725ae44af3bb9316f416bd13b1b-Abstract.html
+Large Scale Adversarial Representation Learning,"Jeff Donahue
+Karen Simonyan",https://proceedings.neurips.cc/paper/2019/file/18cdf49ea54eec029238fcc95f76ce41-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/18cdf49ea54eec029238fcc95f76ce41-Abstract.html
+Learning to Confuse: Generating Training Time Adversarial Data with Auto-Encoder,"Ji Feng
+Qi-Zhi Cai
+Zhi-Hua Zhou",https://proceedings.neurips.cc/paper/2019/file/1ce83e5d4135b07c0b82afffbe2b3436-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/1ce83e5d4135b07c0b82afffbe2b3436-Abstract.html
+Detecting Overfitting via Adversarial Examples,"Roman Werpachowski
+András György
+Csaba Szepesvari",https://proceedings.neurips.cc/paper/2019/file/28f7241796510e838db4a1384ae1279d-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/28f7241796510e838db4a1384ae1279d-Abstract.html
+Model Compression with Adversarial Robustness: A Unified Optimization Framework,"Shupeng Gui
+Haotao N. Wang
+Haichuan Yang
+Chen Yu
+Zhangyang Wang
+Ji Liu",https://proceedings.neurips.cc/paper/2019/file/2ca65f58e35d9ad45bf7f3ae5cfd08f1-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/2ca65f58e35d9ad45bf7f3ae5cfd08f1-Abstract.html
+Improving Black-box Adversarial Attacks with a Transfer-based Prior,"Shuyu Cheng
+Yinpeng Dong
+Tianyu Pang
+Hang Su
+Jun Zhu",https://proceedings.neurips.cc/paper/2019/file/32508f53f24c46f685870a075eaaa29c-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/32508f53f24c46f685870a075eaaa29c-Abstract.html
+Unlabeled Data Improves Adversarial Robustness,"Yair Carmon
+Aditi Raghunathan
+Ludwig Schmidt
+John C. Duchi
+Percy S. Liang",https://proceedings.neurips.cc/paper/2019/file/32e0bd1497aa43e02a42f47d9d6515ad-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/32e0bd1497aa43e02a42f47d9d6515ad-Abstract.html
+Certified Adversarial Robustness with Additive Noise,"Bai Li
+Changyou Chen
+Wenlin Wang
+Lawrence Carin",https://proceedings.neurips.cc/paper/2019/file/335cd1b90bfa4ee70b39d08a4ae0cf2d-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/335cd1b90bfa4ee70b39d08a4ae0cf2d-Abstract.html
+Convergence of Adversarial Training in Overparametrized Neural Networks,"Ruiqi Gao
+Tianle Cai
+Haochuan Li
+Cho-Jui Hsieh
+Liwei Wang
+Jason D. Lee",https://proceedings.neurips.cc/paper/2019/file/348a38cd25abeab0e440f37510e9b1fa-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/348a38cd25abeab0e440f37510e9b1fa-Abstract.html
+Theoretical evidence for adversarial robustness through randomization,"Rafael Pinot
+Laurent Meunier
+Alexandre Araujo
+Hisashi Kashima
+Florian Yger
+Cedric Gouy-Pailler
+Jamal Atif",https://proceedings.neurips.cc/paper/2019/file/36ab62655fa81ce8735ce7cfdaf7c9e8-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/36ab62655fa81ce8735ce7cfdaf7c9e8-Abstract.html
+Provably Robust Deep Learning via Adversarially Trained Smoothed Classifiers,"Hadi Salman
+Jerry Li
+Ilya Razenshteyn
+Pengchuan Zhang
+Huan Zhang
+Sebastien Bubeck
+Greg Yang",https://proceedings.neurips.cc/paper/2019/file/3a24b25a7b092a252166a1641ae953e7-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/3a24b25a7b092a252166a1641ae953e7-Abstract.html
+Provably robust boosted decision stumps and trees against adversarial attacks,"Maksym Andriushchenko
+Matthias Hein",https://proceedings.neurips.cc/paper/2019/file/4206e38996fae4028a26d43b24f68d32-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/4206e38996fae4028a26d43b24f68d32-Abstract.html
+MarginGAN: Adversarial Training in Semi-Supervised Learning,"Jinhao Dong
+Tong Lin",https://proceedings.neurips.cc/paper/2019/file/517f24c02e620d5a4dac1db388664a63-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/517f24c02e620d5a4dac1db388664a63-Abstract.html
+Adversarial Training and Robustness for Multiple Perturbations,"Florian Tramer
+Dan Boneh",https://proceedings.neurips.cc/paper/2019/file/5d4ae76f053f8f2516ad12961ef7fe97-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/5d4ae76f053f8f2516ad12961ef7fe97-Abstract.html
+Robustness to Adversarial Perturbations in Learning from Incomplete Data,"Amir Najafi
+Shin-ichi Maeda
+Masanori Koyama
+Takeru Miyato",https://proceedings.neurips.cc/paper/2019/file/60ad83801910ec976590f69f638e0d6d-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/60ad83801910ec976590f69f638e0d6d-Abstract.html
+Functional Adversarial Attacks,"Cassidy Laidlaw
+Soheil Feizi",https://proceedings.neurips.cc/paper/2019/file/6e923226e43cd6fac7cfe1e13ad000ac-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/6e923226e43cd6fac7cfe1e13ad000ac-Abstract.html
+On Relating Explanations and Adversarial Examples,"Alexey Ignatiev
+Nina Narodytska
+Joao Marques-Silva",https://proceedings.neurips.cc/paper/2019/file/7392ea4ca76ad2fb4c9c3b6a5c6e31e3-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/7392ea4ca76ad2fb4c9c3b6a5c6e31e3-Abstract.html
+Adversarial training for free!,"Ali Shafahi
+Mahyar Najibi
+Mohammad Amin Ghiasi
+Zheng Xu
+John Dickerson
+Christoph Studer
+Larry S. Davis
+Gavin Taylor
+Tom Goldstein",https://proceedings.neurips.cc/paper/2019/file/7503cfacd12053d309b6bed5c89de212-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/7503cfacd12053d309b6bed5c89de212-Abstract.html
+Exponential Family Estimation via Adversarial Dynamics Embedding,"Bo Dai
+Zhen Liu
+Hanjun Dai
+Niao He
+Arthur Gretton
+Le Song
+Dale Schuurmans",https://proceedings.neurips.cc/paper/2019/file/767d01b4bac1a1e8824c9b9f7cc79a04-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/767d01b4bac1a1e8824c9b9f7cc79a04-Abstract.html
+Reverse KL-Divergence Training of Prior Networks: Improved Uncertainty and Adversarial Robustness,"Andrey Malinin
+Mark Gales",https://proceedings.neurips.cc/paper/2019/file/7dd2ae7db7d18ee7c9425e38df1af5e2-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/7dd2ae7db7d18ee7c9425e38df1af5e2-Abstract.html
+Adversarial Fisher Vectors for Unsupervised Representation Learning,"Shuangfei Zhai
+Walter Talbott
+Carlos Guestrin
+Joshua Susskind",https://proceedings.neurips.cc/paper/2019/file/7e1cacfb27da22fb243ff2debf4443a0-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/7e1cacfb27da22fb243ff2debf4443a0-Abstract.html
+Fooling Neural Network Interpretations via Adversarial Model Manipulation,"Juyeon Heo
+Sunghwan Joo
+Taesup Moon",https://proceedings.neurips.cc/paper/2019/file/7fea637fd6d02b8f0adf6f7dc36aed93-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/7fea637fd6d02b8f0adf6f7dc36aed93-Abstract.html
+You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle,"Dinghuai Zhang
+Tianyuan Zhang
+Yiping Lu
+Zhanxing Zhu
+Bin Dong",https://proceedings.neurips.cc/paper/2019/file/812b4ba287f5ee0bc9d43bbf5bbe87fb-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/812b4ba287f5ee0bc9d43bbf5bbe87fb-Abstract.html
+The Point Where Reality Meets Fantasy: Mixed Adversarial Generators for Image Splice Detection,"Vladimir V. Kniaz
+Vladimir Knyaz
+Fabio Remondino",https://proceedings.neurips.cc/paper/2019/file/98dce83da57b0395e163467c9dae521b-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/98dce83da57b0395e163467c9dae521b-Abstract.html
+Cross-Domain Transferability of Adversarial Perturbations,"Muhammad Muzammal Naseer
+Salman H. Khan
+Muhammad Haris Khan
+Fahad Shahbaz Khan
+Fatih Porikli",https://proceedings.neurips.cc/paper/2019/file/99cd3843754d20ec3c5885d805db8a32-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/99cd3843754d20ec3c5885d805db8a32-Abstract.html
+Online EXP3 Learning in Adversarial Bandits with Delayed Feedback,"Ilai Bistritz
+Zhengyuan Zhou
+Xi Chen
+Nicholas Bambos
+Jose Blanchet",https://proceedings.neurips.cc/paper/2019/file/ae2a2db40a12ec0131d48acc1218d2ef-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/ae2a2db40a12ec0131d48acc1218d2ef-Abstract.html
+Provable Certificates for Adversarial Examples: Fitting a Ball in the Union of Polytopes,"Matt Jordan
+Justin Lewis
+Alexandros G. Dimakis",https://proceedings.neurips.cc/paper/2019/file/ae3f4c649fb55c2ee3ef4d1abdb79ce5-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/ae3f4c649fb55c2ee3ef4d1abdb79ce5-Abstract.html
+On the Optimality of Perturbations in Stochastic and Adversarial Multi-armed Bandit Problems,"Baekjin Kim
+Ambuj Tewari",https://proceedings.neurips.cc/paper/2019/file/aff0a6a4521232970b2c1cf539ad0a19-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/aff0a6a4521232970b2c1cf539ad0a19-Abstract.html
+Adversarial Self-Defense for Cycle-Consistent GANs,"Dina Bashkirova
+Ben Usman
+Kate Saenko",https://proceedings.neurips.cc/paper/2019/file/b83aac23b9528732c23cc7352950e880-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/b83aac23b9528732c23cc7352950e880-Abstract.html
+Are Labels Required for Improving Adversarial Robustness?,"Jean-Baptiste Alayrac
+Jonathan Uesato
+Po-Sen Huang
+Alhussein Fawzi
+Robert Stanforth
+Pushmeet Kohli",https://proceedings.neurips.cc/paper/2019/file/bea6cfd50b4f5e3c735a972cf0eb8450-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/bea6cfd50b4f5e3c735a972cf0eb8450-Abstract.html
+Metric Learning for Adversarial Robustness,"Chengzhi Mao
+Ziyuan Zhong
+Junfeng Yang
+Carl Vondrick
+Baishakhi Ray",https://proceedings.neurips.cc/paper/2019/file/c24cd76e1ce41366a4bbe8a49b02a028-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/c24cd76e1ce41366a4bbe8a49b02a028-Abstract.html
+Dual Adversarial Semantics-Consistent Network for Generalized Zero-Shot Learning,"Jian Ni
+Shanghang Zhang
+Haiyong Xie",https://proceedings.neurips.cc/paper/2019/file/c46482dd5d39742f0bfd417b492d0e8e-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/c46482dd5d39742f0bfd417b492d0e8e-Abstract.html
+A New Defense Against Adversarial Images: Turning a Weakness into a Strength,"Shengyuan Hu
+Tao Yu
+Chuan Guo
+Wei-Lun Chao
+Kilian Q. Weinberger",https://proceedings.neurips.cc/paper/2019/file/cbb6a3b884f4f88b3a8e3d44c636cbd8-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/cbb6a3b884f4f88b3a8e3d44c636cbd8-Abstract.html
+Error Correcting Output Codes Improve Probability Estimation and Adversarial Robustness of Deep Neural Networks,"Gunjan Verma
+Ananthram Swami",https://proceedings.neurips.cc/paper/2019/file/cd61a580392a70389e27b0bc2b439f49-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/cd61a580392a70389e27b0bc2b439f49-Abstract.html
+Cross-Modal Learning with Adversarial Samples,"CHAO LI
+Shangqian Gao
+Cheng Deng
+De Xie
+Wei Liu",https://proceedings.neurips.cc/paper/2019/file/d384dec9f5f7a64a36b5c8f03b8a6d92-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/d384dec9f5f7a64a36b5c8f03b8a6d92-Abstract.html
+Defense Against Adversarial Attacks Using Feature Scattering-based Adversarial Training,"Haichao Zhang
+Jianyu Wang",https://proceedings.neurips.cc/paper/2019/file/d8700cbd38cc9f30cecb34f0c195b137-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/d8700cbd38cc9f30cecb34f0c195b137-Abstract.html
+"Adversarial Examples Are Not Bugs, They Are Features","Andrew Ilyas
+Shibani Santurkar
+Dimitris Tsipras
+Logan Engstrom
+Brandon Tran
+Aleksander Madry",https://proceedings.neurips.cc/paper/2019/file/e2c420d928d4bf8ce0ff2ec19b371514-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/e2c420d928d4bf8ce0ff2ec19b371514-Abstract.html
+A Model-Based Reinforcement Learning with Adversarial Training for Online Recommendation,"Xueying Bai
+Jian Guan
+Hongning Wang",https://proceedings.neurips.cc/paper/2019/file/e49eb6523da9e1c347bc148ea8ac55d3-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/e49eb6523da9e1c347bc148ea8ac55d3-Abstract.html
+Adversarial Music: Real world Audio Adversary against Wake-word Detection System,"Juncheng Li
+Shuhui Qu
+Xinjian Li
+Joseph Szurley
+J. Zico Kolter
+Florian Metze",https://proceedings.neurips.cc/paper/2019/file/ebbdfea212e3a756a1fded7b35578525-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/ebbdfea212e3a756a1fded7b35578525-Abstract.html
+Nonzero-sum Adversarial Hypothesis Testing Games,"Sarath Yasodharan
+Patrick Loiseau",https://proceedings.neurips.cc/paper/2019/file/f2e84d98d6dc0c7acd56b40509355666-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/f2e84d98d6dc0c7acd56b40509355666-Abstract.html
+On Adversarial Mixup Resynthesis,"Christopher Beckham
+Sina Honari
+Vikas Verma
+Alex M. Lamb
+Farnoosh Ghadiri
+R Devon Hjelm
+Yoshua Bengio
+Chris Pal",https://proceedings.neurips.cc/paper/2019/file/f708f064faaf32a43e4d3c784e6af9ea-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/f708f064faaf32a43e4d3c784e6af9ea-Abstract.html
+Tight Certificates of Adversarial Robustness for Randomly Smoothed Classifiers,"Guang-He Lee
+Yang Yuan
+Shiyu Chang
+Tommi Jaakkola",https://proceedings.neurips.cc/paper/2019/file/fa2e8c4385712f9a1d24c363a2cbe5b8-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/fa2e8c4385712f9a1d24c363a2cbe5b8-Abstract.html
+Efficient online learning with kernels for adversarial large scale problems,"Rémi Jézéquel
+Pierre Gaillard
+Alessandro Rudi",https://proceedings.neurips.cc/paper/2019/file/faad95253aee7437871781018bdf3309-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/faad95253aee7437871781018bdf3309-Abstract.html
+Zero-shot Knowledge Transfer via Adversarial Belief Matching,"Paul Micaelli
+Amos J. Storkey",https://proceedings.neurips.cc/paper/2019/file/fe663a72b27bdc613873fbbb512f6f67-Paper.pdf,https://proceedings.neurips.cc/paper/2019/hash/fe663a72b27bdc613873fbbb512f6f67-Abstract.html

@@ -1,0 +1,142 @@
+PDF,Supplementary PDF,Title,Authors,Code
+http://proceedings.mlr.press/v97/abbati19a/abbati19a.pdf,http://proceedings.mlr.press/v97/abbati19a/abbati19a-supp.pdf,AReS and MaRS Adversarial and MMD-Minimizing Regression for SDEs,"Gabriele Abbati
+Philippe Wenk
+Michael A. Osborne
+Andreas Krause
+Bernhard Schölkopf
+Stefan Bauer",https://github.com/gabb7/AReS-MaRS
+http://proceedings.mlr.press/v97/agarwal19c/agarwal19c.pdf,http://proceedings.mlr.press/v97/agarwal19c/agarwal19c-supp.pdf,Online Control with Adversarial Disturbances,"Naman Agarwal
+Brian Bullins
+Elad Hazan
+Sham Kakade
+Karan Singh",--
+http://proceedings.mlr.press/v97/bertran19a/bertran19a.pdf,http://proceedings.mlr.press/v97/bertran19a/bertran19a-supp.pdf,Adversarially Learned Representations for Information Obfuscation and Inference,"Martin Bertran
+Natalia Martinez
+Afroditi Papadaki
+Qiang Qiu
+Miguel Rodrigues
+Galen Reeves
+Guillermo Sapiro",https://github.com/MartinBertran/AIOI
+http://proceedings.mlr.press/v97/bhagoji19a/bhagoji19a.pdf,http://proceedings.mlr.press/v97/bhagoji19a/bhagoji19a-supp.pdf,Analyzing Federated Learning through an Adversarial Lens,"Arjun Nitin Bhagoji
+Supriyo Chakraborty
+Prateek Mittal
+Seraphin Calo",https://github.com/inspire-group/ModelPoisoning
+http://proceedings.mlr.press/v97/bojchevski19a/bojchevski19a.pdf,http://proceedings.mlr.press/v97/bojchevski19a/bojchevski19a-supp.pdf,Adversarial Attacks on Node Embeddings via Graph Poisoning,"Aleksandar Bojchevski
+Stephan Günnemann",https://github.com/abojchevski/node_embedding_attack
+http://proceedings.mlr.press/v97/bubeck19a/bubeck19a.pdf,http://proceedings.mlr.press/v97/bubeck19a/bubeck19a-supp.pdf,Adversarial examples from computational constraints,"Sebastien Bubeck
+Yin Tat Lee
+Eric Price
+Ilya Razenshteyn",--
+http://proceedings.mlr.press/v97/cardoso19a/cardoso19a.pdf,http://proceedings.mlr.press/v97/cardoso19a/cardoso19a-supp.pdf,Competing Against Nash Equilibria in Adversarially Changing Zero-Sum Games,"Adrian Rivera Cardoso
+Jacob Abernethy
+He Wang
+Huan Xu",--
+http://proceedings.mlr.press/v97/chen19i/chen19i.pdf,--,Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation,"Xinyang Chen
+Sinan Wang
+Mingsheng Long
+Jianmin Wang",https://github.com/github.com/thuml/Batch-Spectral-Penalization
+http://proceedings.mlr.press/v97/chen19l/chen19l.pdf,--,Multivariate-Information Adversarial Ensemble for Scalable Joint Distribution Matching,"Ziliang Chen
+Zhanfu Yang
+Xiaoxi Wang
+Xiaodan Liang
+Xiaopeng Yan
+Guanbin Li
+Liang Lin",https://github.com/MintYiqingchen/MMI-ALI
+http://proceedings.mlr.press/v97/chen19m/chen19m.pdf,http://proceedings.mlr.press/v97/chen19m/chen19m-supp.pdf,Robust Decision Trees Against Adversarial Examples,"Hongge Chen
+Huan Zhang
+Duane Boning
+Cho-Jui Hsieh",https://github.com/chenhongge/RobustTrees
+http://proceedings.mlr.press/v97/cohen19c/cohen19c.pdf,http://proceedings.mlr.press/v97/cohen19c/cohen19c-supp.pdf,Certified Adversarial Robustness via Randomized Smoothing,"Jeremy Cohen
+Elan Rosenfeld
+Zico Kolter",http://github.com/locuslab/smoothing
+http://proceedings.mlr.press/v97/cranko19a/cranko19a.pdf,http://proceedings.mlr.press/v97/cranko19a/cranko19a-supp.pdf,Monge blunts Bayes: Hardness Results for Adversarial Training,"Zac Cranko
+Aditya Menon
+Richard Nock
+Cheng Soon Ong
+Zhan Shi
+Christian Walder",https://gitlab.com/machlearn/monge_image_example
+http://proceedings.mlr.press/v97/dohmatob19a/dohmatob19a.pdf,http://proceedings.mlr.press/v97/dohmatob19a/dohmatob19a-supp.pdf,Generalized No Free Lunch Theorem for Adversarial Robustness,Elvis Dohmatob,https://github.com/dohmatob/StrongNoFreeLunchForAR
+http://proceedings.mlr.press/v97/etmann19a/etmann19a.pdf,http://proceedings.mlr.press/v97/etmann19a/etmann19a-supp.pdf,On the Connection Between Adversarial Robustness and Saliency Map Interpretability,"Christian Etmann
+Sebastian Lunz
+Peter Maass
+Carola Schoenlieb",https://github.com/cetmann/robustness-interpretability
+http://proceedings.mlr.press/v97/gilmer19a/gilmer19a.pdf,http://proceedings.mlr.press/v97/gilmer19a/gilmer19a-supp.pdf,Adversarial Examples Are a Natural Consequence of Test Error in Noise,"Justin Gilmer
+Nicolas Ford
+Nicholas Carlini
+Ekin Cubuk",https://github.com/nicf/corruption-robustness
+http://proceedings.mlr.press/v97/guo19a/guo19a.pdf,http://proceedings.mlr.press/v97/guo19a/guo19a-supp.pdf,Simple Black-box Adversarial Attacks,"Chuan Guo
+Jacob Gardner
+Yurong You
+Andrew Gordon Wilson
+Kilian Weinberger",https://github.com/cg563/simple-blackbox-attack
+http://proceedings.mlr.press/v97/li19g/li19g.pdf,http://proceedings.mlr.press/v97/li19g/li19g-supp.pdf,NATTACK: Learning the Distributions of Adversarial Examples for an Improved Black-Box Attack on Deep Neural Networks,"Yandong Li
+Lijun Li
+Liqiang Wang
+Tong Zhang
+Boqing Gong",https://github.com/Cold-Winter/Nattack
+http://proceedings.mlr.press/v97/li19j/li19j.pdf,--,Adversarial camera stickers: A physical camera-based attack on deep learning systems,"Juncheng Li
+Frank Schmidt
+Zico Kolter",--
+http://proceedings.mlr.press/v97/liu19b/liu19b.pdf,--,Transferable Adversarial Training: A General Approach to Adapting Deep Classifiers,"Hong Liu
+Mingsheng Long
+Jianmin Wang
+Michael Jordan",https://github.com/thuml/Transferable-Adversarial-Training
+http://proceedings.mlr.press/v97/liu19h/liu19h.pdf,http://proceedings.mlr.press/v97/liu19h/liu19h-supp.pdf,On Certifying Non-Uniform Bounds against Adversarial Attacks,"Chen Liu
+Ryota Tomioka
+Volkan Cevher",--
+http://proceedings.mlr.press/v97/marafioti19a/marafioti19a.pdf,http://proceedings.mlr.press/v97/marafioti19a/marafioti19a-supp.pdf,Adversarial Generation of Time-Frequency Features with application in audio synthesis,"Andrés Marafioti
+Nathanaël Perraudin
+Nicki Holighaus
+Piotr Majdak",http://tifgan.github.io/
+http://proceedings.mlr.press/v97/moon19a/moon19a.pdf,http://proceedings.mlr.press/v97/moon19a/moon19a-supp.pdf,Parsimonious Black-Box Adversarial Attacks via Efficient Combinatorial Optimization,"Seungyong Moon
+Gaon An
+Hyun Oh Song",https://github.com/snu-mllab/parsimonious-blackbox-attack
+http://proceedings.mlr.press/v97/pang19a/pang19a.pdf,http://proceedings.mlr.press/v97/pang19a/pang19a-supp.pdf,Improving Adversarial Robustness via Promoting Ensemble Diversity,"Tianyu Pang
+Kun Xu
+Chao Du
+Ning Chen
+Jun Zhu",https://github.com/P2333/Adaptive-Diversity-Promoting
+http://proceedings.mlr.press/v97/qin19a/qin19a.pdf,http://proceedings.mlr.press/v97/qin19a/qin19a-supp.pdf,"Imperceptible, Robust, and Targeted Adversarial Examples for Automatic Speech Recognition","Yao Qin
+Nicholas Carlini
+Garrison Cottrell
+Ian Goodfellow
+Colin Raffel",https://github.com/yaq007/cleverhans/tree/master/examples/adversarial_asr
+http://proceedings.mlr.press/v97/resler19a/resler19a.pdf,http://proceedings.mlr.press/v97/resler19a/resler19a-supp.pdf,Adversarial Online Learning with noise,"Alon Resler
+Yishay Mansour",--
+http://proceedings.mlr.press/v97/rosenberg19a/rosenberg19a.pdf,http://proceedings.mlr.press/v97/rosenberg19a/rosenberg19a-supp.pdf,Online Convex Optimization in Adversarial Markov Decision Processes,"Aviv Rosenberg
+Yishay Mansour",--
+http://proceedings.mlr.press/v97/roth19a/roth19a.pdf,http://proceedings.mlr.press/v97/roth19a/roth19a-supp.pdf,The Odds are Odd: A Statistical Test for Detecting Adversarial Examples,"Kevin Roth
+Yannic Kilcher
+Thomas Hofmann",https://github.com/yk/icml19_public
+http://proceedings.mlr.press/v97/simon-gabriel19a/simon-gabriel19a.pdf,http://proceedings.mlr.press/v97/simon-gabriel19a/simon-gabriel19a-supp.pdf,First-Order Adversarial Vulnerability of Neural Networks and Input Dimension,"Carl-Johann Simon-Gabriel
+Yann Ollivier
+Leon Bottou
+Bernhard Schölkopf
+David Lopez-Paz",https://github.com/cjsg/avdim
+http://proceedings.mlr.press/v97/wang19f/wang19f.pdf,--,Improving Neural Language Modeling via Adversarial Training,"Dilin Wang
+Chengyue Gong
+Qiang Liu",https://github.com/ChengyueGongR/advsoft
+http://proceedings.mlr.press/v97/wang19i/wang19i.pdf,http://proceedings.mlr.press/v97/wang19i/wang19i-supp.pdf,On the Convergence and Robustness of Adversarial Training,"Yisen Wang
+Xingjun Ma
+James Bailey
+Jinfeng Yi
+Bowen Zhou
+Quanquan Gu",https://github.com/YisenWang/dynamic_adv_training
+http://proceedings.mlr.press/v97/wong19a/wong19a.pdf,http://proceedings.mlr.press/v97/wong19a/wong19a-supp.pdf,Wasserstein Adversarial Examples via Projected Sinkhorn Iterations,"Eric Wong
+Frank Schmidt
+Zico Kolter",https://github.com/locuslab/projected_sinkhorn
+http://proceedings.mlr.press/v97/yang19e/yang19e.pdf,http://proceedings.mlr.press/v97/yang19e/yang19e-supp.pdf,ME-Net: Towards Effective Adversarial Robustness with Matrix Estimation,"Yuzhe Yang
+Guo Zhang
+Dina Katabi
+Zhi Xu",https://github.com/YyzHarry/ME-Net
+http://proceedings.mlr.press/v97/yin19b/yin19b.pdf,http://proceedings.mlr.press/v97/yin19b/yin19b-supp.pdf,Rademacher Complexity for Adversarially Robust Generalization,"Dong Yin
+Ramchandran Kannan
+Peter Bartlett",https://github.com/dongyin92/adversarially-robust-generalization
+http://proceedings.mlr.press/v97/yu19e/yu19e.pdf,http://proceedings.mlr.press/v97/yu19e/yu19e-supp.pdf,Multi-Agent Adversarial Inverse Reinforcement Learning,"Lantao Yu
+Jiaming Song
+Stefano Ermon",https://github.com/ermongroup/MA-AIRL
+http://proceedings.mlr.press/v97/zhang19s/zhang19s.pdf,http://proceedings.mlr.press/v97/zhang19s/zhang19s-supp.pdf,Interpreting Adversarially Trained Convolutional Neural Networks,"Tianyuan Zhang
+Zhanxing Zhu",https://github.com/PKUAI26/AT-CNN
+http://proceedings.mlr.press/v97/zimmert19a/zimmert19a.pdf,http://proceedings.mlr.press/v97/zimmert19a/zimmert19a-supp.pdf,Beating Stochastic and Adversarial Semi-bandits Optimally and Simultaneously,"Julian Zimmert
+Haipeng Luo
+Chen-Yu Wei",https://github.com/diku-dk/CombSemiBandits

@@ -1,0 +1,96 @@
+Learning Adversarially Robust Representations via Worst-Case Mutual Information Maximization,"Sicheng Zhu
+Xiao Zhang
+David Evans",Adversarial Examples; Learning Theory; Trustworthy Machine Learning,https://proceedings.icml.cc/static/paper_files/icml/2020/5124-Paper.pdf
+Fundamental Tradeoffs between Invariance and Sensitivity to Adversarial Perturbations,"Florian Tramèr
+Jens Behrmann
+Nicholas Carlini
+Nicolas Papernot
+Jörn-Henrik Jacobsen",Adversarial Examples,https://proceedings.icml.cc/static/paper_files/icml/2020/5465-Paper.pdf
+Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks,"Francesco Croce
+Matthias Hein",Adversarial Examples,https://proceedings.icml.cc/static/paper_files/icml/2020/6846-Paper.pdf
+Randomized Smoothing of All Shapes and Sizes,"Greg Yang
+Tony Duan
+J. Edward Hu
+Hadi Salman
+Ilya Razenshteyn
+Jerry Li",Adversarial Examples; Trustworthy Machine Learning,https://proceedings.icml.cc/static/paper_files/icml/2020/3289-Paper.pdf
+Confidence-Calibrated Adversarial Training: Generalizing to Unseen Attacks,"David Stutz
+Matthias Hein
+Bernt Schiele","Adversarial Examples; Deep Learning - Algorithms; Trustworthy Machine Learning; Fairness, Equity, Justice, and Safety",https://proceedings.icml.cc/static/paper_files/icml/2020/4835-Paper.pdf
+Parameterized Rate-Distortion Stochastic Encoder,"Quan Hoang
+Trung Le
+Dinh Phung",Adversarial Examples; Representation Learning; Supervised Learning,https://proceedings.icml.cc/static/paper_files/icml/2020/2921-Paper.pdf
+Overfitting in adversarially robust deep learning,"Leslie Rice
+Eric Wong
+Zico Kolter",Adversarial Examples,https://proceedings.icml.cc/static/paper_files/icml/2020/2936-Paper.pdf
+Robustness to Programmable String Transformations via Augmented Abstract Training,"Yuhao Zhang
+Aws Albarghouthi
+Loris D'Antoni","Adversarial Examples; Applications - Language, Speech and Dialog",https://proceedings.icml.cc/static/paper_files/icml/2020/398-Paper.pdf
+Towards Understanding the Dynamics of the First-Order Adversaries,"Zhun Deng
+Hangfeng He
+Jiaoyang Huang
+Weijie Su",Adversarial Examples; Deep Learning - Theory; Deep Learning - General; Optimization - Non-convex,https://proceedings.icml.cc/static/paper_files/icml/2020/1310-Paper.pdf
+Adversarial Robustness via Runtime Masking and Cleansing,"Yi-Hsuan Wu
+Chia-Hung Yuan
+Shan-Hung Wu",Adversarial Examples,https://proceedings.icml.cc/static/paper_files/icml/2020/377-Paper.pdf
+Adversarial Neural Pruning with Latent Vulnerability Suppression,"Divyam Madaan
+Jinwoo Shin
+Sung Ju Hwang",Adversarial Examples; Trustworthy Machine Learning,https://proceedings.icml.cc/static/paper_files/icml/2020/770-Paper.pdf
+Adversarial Robustness Against the Union of Multiple Perturbation Models,"Pratyush Maini
+Eric Wong
+Zico Kolter",Adversarial Examples,https://proceedings.icml.cc/static/paper_files/icml/2020/3863-Paper.pdf
+Stronger and Faster Wasserstein Adversarial Attacks,"Kaiwen Wu
+Allen Houze Wang
+Yaoliang Yu",Adversarial Examples; Optimization - Convex,https://proceedings.icml.cc/static/paper_files/icml/2020/724-Paper.pdf
+More Data Can Expand The Generalization Gap Between Adversarially Robust and Standard Models,"Lin Chen
+Yifei Min
+Mingrui Zhang
+Amin Karbasi",Adversarial Examples,https://proceedings.icml.cc/static/paper_files/icml/2020/1172-Paper.pdf
+Adversarial Robustness for Code,"Pavol Bielik
+Martin Vechev",Adversarial Examples; Applications - Other,https://proceedings.icml.cc/static/paper_files/icml/2020/4379-Paper.pdf
+Defense Through Diverse Directions,"Christopher M Bender
+Yang Li
+Yifeng Shi
+Michael K. Reiter
+Junier Oliva",Adversarial Examples; Deep Learning - General,https://proceedings.icml.cc/static/paper_files/icml/2020/4833-Paper.pdf
+On Breaking Deep Generative Model-based Defenses and Beyond,"Yanzhi Chen
+Renjie Xie
+Zhanxing Zhu",Adversarial Examples; Applications - Computer Vision; Deep Learning - Generative Models and Autoencoders,https://proceedings.icml.cc/static/paper_files/icml/2020/2236-Paper.pdf
+Dual-Path Distillation: A Unified Framework to Improve Black-Box Attacks,"Yonggang Zhang
+Ya Li
+Tongliang Liu
+Xinmei Tian",Adversarial Examples; Deep Learning - Algorithms,https://proceedings.icml.cc/static/paper_files/icml/2020/3224-Paper.pdf
+Minimally distorted Adversarial Examples with a Fast Adaptive Boundary Attack,"Francesco Croce
+Matthias Hein",Adversarial Examples,https://proceedings.icml.cc/static/paper_files/icml/2020/6735-Paper.pdf
+Adversarial Attacks on Probabilistic Autoregressive Forecasting Models,"Raphaël Dang-Nhu
+Gagandeep Singh
+Pavol Bielik
+Martin Vechev","Adversarial Examples; Sequential, Network, and Time-Series Modeling; Sequential, Network, and Time-Series Modeling",https://proceedings.icml.cc/static/paper_files/icml/2020/526-Paper.pdf
+Curse of Dimensionality on Randomized Smoothing for Certifiable Robustness,"Aounon Kumar
+Alexander J Levine
+Tom Goldstein
+Soheil Feizi",Adversarial Examples; Deep Learning - Theory; Trustworthy Machine Learning,https://proceedings.icml.cc/static/paper_files/icml/2020/3044-Paper.pdf
+Attacks Which Do Not Kill Training Make Adversarial Learning Stronger,"Jingfeng Zhang
+Xilie Xu
+Bo Han
+Gang Niu
+Lizhen Cui
+Masashi Sugiyama
+Mohan Kankanhalli",Adversarial Examples; Deep Learning - Algorithms; Trustworthy Machine Learning,https://proceedings.icml.cc/static/paper_files/icml/2020/520-Paper.pdf
+Second-Order Provable Defenses against Adversarial Attacks,"Sahil Singla
+Soheil Feizi",Adversarial Examples; Deep Learning - Algorithms; Deep Learning - Theory,https://proceedings.icml.cc/static/paper_files/icml/2020/2933-Paper.pdf
+Towards Understanding the Regularization of Adversarial Robustness on Neural Networks,"Yuxin Wen
+Shuai Li
+Kui Jia",Adversarial Examples; Learning Theory,https://proceedings.icml.cc/static/paper_files/icml/2020/1057-Paper.pdf
+Adversarial Risk via Optimal Transport and Optimal Couplings,"Muni Sreenivas Pydi
+Varun Jog",Adversarial Examples; Learning Theory; Trustworthy Machine Learning,https://proceedings.icml.cc/static/paper_files/icml/2020/2962-Paper.pdf
+Randomization matters How to defend against strong adversarial attacks,"Rafael B Pinot
+Raphael Ettedgui
+Geovani Rizk
+Yann Chevaleyre
+Jamal Atif",Adversarial Examples; Learning Theory,https://proceedings.icml.cc/static/paper_files/icml/2020/2479-Paper.pdf
+Understanding and Mitigating the Tradeoff between Robustness and Accuracy,"Aditi Raghunathan
+Sang Michael Xie
+Fanny Yang
+John Duchi
+Percy Liang",Adversarial Examples; Unsupervised and Semi-Supervised Learning; Learning Theory,https://proceedings.icml.cc/static/paper_files/icml/2020/6401-Paper.pdf
