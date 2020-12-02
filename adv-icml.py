@@ -15,9 +15,12 @@ class IcmlPaper:
     pdf: str = "--"
     supp_pdf: str = "--"
     code_url: str = "--"
+    abstract: str = "--"
 
 
 icml_files = ["html/icml2019-proceedings.html", "html/icml2020-proceedings.html"]
+
+REQUEST_ABS = True
 
 for filename in icml_files:
     conference = path.splitext(path.split(filename)[-1])[0]
@@ -29,38 +32,86 @@ for filename in icml_files:
 
     all_papers = []
     for div in soup.find_all("div", "paper"):
-        title = div.find("p", "title").get_text()
+        paper = IcmlPaper()
 
-        if "adversarial" in title.lower() and "generative" not in title.lower():
-            paper = IcmlPaper(title)
+        paper.title = div.find("p", "title").get_text()
+        paper.authors = div.find("span", "authors").get_text().split(",\xa0")
 
-            paper.authors = div.find("span", "authors").get_text().split(",\xa0")
+        links = div.find("p", "links")
+        for a in links.find_all("a"):
+            a_text = a.get_text()
+            if "Download PDF" in a_text:
+                paper.pdf = a["href"]
+            elif "Supplementary PDF" in a_text:
+                paper.supp_pdf = a["href"]
+            elif "Code" in a_text or "Software" in a_text:
+                paper.code_url = a["href"]
+            elif "abs" in a_text:
+                if REQUEST_ABS:
+                    print("Getting", repr(paper.title), end=" ")
+                    resp = requests.get(a["href"])
+                    if not resp.ok:
+                        print("Failed")
+                        continue
 
-            links = div.find("p", "links")
-            for a in links.find_all("a"):
-                a_text = a.get_text()
-                if "Download PDF" in a_text:
-                    paper.pdf = a["href"]
-                elif "Supplementary PDF" in a_text:
-                    paper.supp_pdf = a["href"]
-                elif "Code" in a_text or "Software" in a_text:
-                    paper.code_url = a["href"]
+                    print("OK")
 
-            all_papers.append(paper)
+                    abs_soup = BeautifulSoup(resp.content, "html.parser")
+                    abs_div = abs_soup.find("div", "abstract")
 
-    with open(f"csv/adv-{conference}.csv", "w") as fout:
+                    if abs_div is None:
+                        continue
+
+                    paper.abstract = " ".join(abs_div.stripped_strings)
+
+        all_papers.append(paper)
+
+    with open(f"tsv/adv-{conference}.tsv", "w") as fout:
         writer = csv.DictWriter(
-            fout, fieldnames=["PDF", "Supplementary PDF", "Title", "Authors", "Code"]
+            fout,
+            fieldnames=[
+                "Title",
+                "Authors",
+                "PDF",
+                "Supplementary PDF",
+                "Code",
+                "Abstract",
+            ],
+            delimiter="\t",
+            dialect="unix",
         )
 
         writer.writeheader()
+
+        include = [
+            lambda s: "adversarial robust" in s.lower(),
+            lambda s: "adversarial training" in s.lower(),
+            lambda s: "adversarial examples" in s.lower(),
+            lambda s: "adversarial attack" in s.lower(),
+        ]
+
+        exclude = [
+            lambda s: "GAN" in s,
+            lambda s: "generative adv" in s.lower(),
+            lambda s: "adversarial network" in s.lower(),
+        ]
+
+        counter = 0
         for paper in all_papers:
-            writer.writerow(
-                {
-                    "PDF": paper.pdf,
-                    "Supplementary PDF": paper.supp_pdf,
-                    "Title": paper.title,
-                    "Authors": "\n".join(paper.authors),
-                    "Code": paper.code_url,
-                }
-            )
+            if any(
+                any(cond(s) for cond in include)
+                and not any(cond(s) for cond in exclude)
+                for s in [paper.title, paper.abstract]
+            ):
+                counter += 1
+                print(paper.title)
+                writer.writerow(
+                    {
+                        "Title": paper.title,
+                        "Authors": ", ".join(paper.authors),
+                        "PDF": paper.pdf,
+                        "Supplementary PDF": paper.supp_pdf,
+                        "Code": paper.code_url,
+                        "Abstract": paper.abstract,
+                    }
+                )

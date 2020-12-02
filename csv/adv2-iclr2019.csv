@@ -1,0 +1,148 @@
+PDF,Accepted as,Title,Authors,Keywords
+https://openreview.net/pdf?id=B1GAUs0cKQ,poster,Variance Networks: When Expectation Does Not Meet Your Expectations,"Kirill Neklyudov
+Dmitry Molchanov
+Arsenii Ashukha
+Dmitry Vetrov",deep learning;  variational inference;  variational dropout
+https://openreview.net/pdf?id=B1xJAsA5F7,poster,Learning Multimodal Graph-to-Graph Translation for Molecule Optimization,"Wengong Jin
+Kevin Yang
+Regina Barzilay
+Tommi Jaakkola",graph-to-graph translation;  graph generation;  molecular optimization
+https://openreview.net/pdf?id=B1xhQhRcK7,poster,Rigorous Agent Evaluation: An Adversarial Approach to Uncover Catastrophic Failures,"Jonathan Uesato*
+Ananya Kumar*
+Csaba Szepesvari*
+Tom Erez
+Avraham Ruderman
+Keith Anderson
+Krishnamurthy (Dj) Dvijotham
+Nicolas Heess
+Pushmeet Kohli",agent evaluation;  adversarial examples;  robustness;  safety;  reinforcement learning
+https://openreview.net/pdf?id=BJe-DsC5Fm,poster,signSGD via Zeroth-Order Oracle,"Sijia Liu
+Pin-Yu Chen
+Xiangyi Chen
+Mingyi Hong",nonconvex optimization;  zeroth-order algorithm;  black-box adversarial attack
+https://openreview.net/pdf?id=BJfIVjAcKm,poster,Training for Faster Adversarial Robustness Verification via Inducing ReLU Stability,"Kai Y. Xiao
+Vincent Tjeng
+Nur Muhammad (Mahi) Shafiullah
+Aleksander Madry",verification;  adversarial robustness;  adversarial examples;  stability;  deep learning;  regularization
+https://openreview.net/pdf?id=BkMiWhR5K7,poster,Prior Convictions: Black-box Adversarial Attacks with Bandits and Priors,"Andrew Ilyas
+Logan Engstrom
+Aleksander Madry",adversarial examples;  gradient estimation;  black-box attacks;  model-based optimization;  bandit optimization
+https://openreview.net/pdf?id=BkfbpsAcF7,poster,Excessive Invariance Causes Adversarial Vulnerability,"Joern-Henrik Jacobsen
+Jens Behrmann
+Richard Zemel
+Matthias Bethge",Generalization;  Adversarial Examples;  Invariance;  Information Theory;  Invertible Networks
+https://openreview.net/pdf?id=BkgtDsCcKQ,poster,Function Space Particle Optimization for Bayesian Neural Networks,"Ziyu Wang
+Tongzheng Ren
+Jun Zhu
+Bo Zhang",Bayesian neural networks;  uncertainty estimation;  variational inference
+https://openreview.net/pdf?id=BkgzniCqY7,poster,Structured Adversarial Attack: Towards General Implementation and Better Interpretability,"Kaidi Xu
+Sijia Liu
+Pu Zhao
+Pin-Yu Chen
+Huan Zhang
+Quanfu Fan
+Deniz Erdogmus
+Yanzhi Wang
+Xue Lin",
+https://openreview.net/pdf?id=BygANhA9tQ,poster,Cost-Sensitive Robustness against Adversarial Examples,"Xiao Zhang
+David Evans",Certified robustness;  Adversarial examples;  Cost-sensitive learning
+https://openreview.net/pdf?id=Bylnx209YX,poster,Adversarial Attacks on Graph Neural Networks via Meta Learning,"Daniel Zügner
+Stephan Günnemann",graph mining;  adversarial attacks;  meta learning;  graph neural networks;  node classification
+https://openreview.net/pdf?id=ByxGSsR9FQ,poster,L2-Nonexpansive Neural Networks,"Haifeng Qian
+Mark N. Wegman",adversarial defense;  regularization;  robustness;  generalization
+https://openreview.net/pdf?id=H1g2NhC5KQ,poster,Multiple-Attribute Text Rewriting,"Guillaume Lample
+Sandeep Subramanian
+Eric Smith
+Ludovic Denoyer
+Marc'Aurelio Ranzato
+Y-Lan Boureau",controllable text generation;  generative models;  conditional generative models;  style transfer
+https://openreview.net/pdf?id=HJgeEh09KQ,poster,Boosting Robustness Certification of Neural Networks,"Gagandeep Singh
+Timon Gehr
+Markus Püschel
+Martin Vechev",Robustness certification;  Adversarial Attacks;  Abstract Interpretation;  MILP Solvers;  Verification of Neural Networks
+https://openreview.net/pdf?id=Hk4dFjR5K7,poster,ADef: an Iterative Algorithm to Construct Adversarial Deformations,"Rima Alaifari
+Giovanni S. Alberti
+Tandri Gauksson",Adversarial examples;  deformations;  deep neural networks;  computer vision
+https://openreview.net/pdf?id=Hkg4W2AcFm,poster,Overcoming the Disentanglement vs Reconstruction Trade-off via Jacobian Supervision,José Lezama,disentangling;  autoencoders;  jacobian;  face manipulation
+https://openreview.net/pdf?id=HyGIdiRqtm,poster,Evaluating Robustness of Neural Networks with Mixed Integer Programming,"Vincent Tjeng
+Kai Y. Xiao
+Russ Tedrake",verification;  adversarial robustness;  adversarial examples;  deep learning
+https://openreview.net/pdf?id=HyM7AiA5YX,poster,Complement Objective Training,"Hao-Yun Chen
+Pei-Hsin Wang
+Chun-Hao Liu
+Shih-Chieh Chang
+Jia-Yu Pan
+Yu-Ting Chen
+Wei Wei
+Da-Cheng Juan",optimization;  entropy;  image recognition;  natural language understanding;  adversarial attacks;  deep learning
+https://openreview.net/pdf?id=HyNA5iRcFQ,poster,Detecting Egregious Responses in Neural Sequence-to-sequence Models,"Tianxing He
+James Glass",Deep Learning;  Natural Language Processing;  Adversarial Attacks;  Dialogue Response Generation
+https://openreview.net/pdf?id=HyeFAsRctQ,poster,Verification of Non-Linear Specifications for Neural Networks,"Chongli Qin
+Krishnamurthy (Dj) Dvijotham
+Brendan O'Donoghue
+Rudy Bunel
+Robert Stanforth
+Sven Gowal
+Jonathan Uesato
+Grzegorz Swirszcz
+Pushmeet Kohli",Verification;  Convex Optimization;  Adversarial Robustness
+https://openreview.net/pdf?id=HylTBhA5tQ,poster,The Limitations of Adversarial Training and the Blind-Spot Attack,"Huan Zhang*
+Hongge Chen*
+Zhao Song
+Duane Boning
+Inderjit S. Dhillon
+Cho-Jui Hsieh",Adversarial Examples;  Adversarial Training;  Blind-Spot Attack
+https://openreview.net/pdf?id=Hyx4knR9Ym,poster,Generalizable Adversarial Training via Spectral Normalization,"Farzan Farnia
+Jesse Zhang
+David Tse",Adversarial attacks;  adversarial training;  spectral normalization;  generalization guarantee
+https://openreview.net/pdf?id=S1EHOsC9tX,poster,Towards the first adversarially robust neural network model on MNIST,"Lukas Schott
+Jonas Rauber
+Matthias Bethge
+Wieland Brendel",adversarial examples;  MNIST;  robustness;  deep learning;  security
+https://openreview.net/pdf?id=S1xNEhR9KX,poster,On the Sensitivity of Adversarial Robustness to Input Data Distributions,"Gavin Weiguang Ding
+Kry Yik Chau Lui
+Xiaomeng Jin
+Luyu Wang
+Ruitong Huang",adversarial robustness;  adversarial training;  PGD training;  adversarial perturbation;  input data distribution
+https://openreview.net/pdf?id=SJgEl3A5tm,poster,CAMOU: Learning Physical Vehicle Camouflages to Adversarially Attack Detectors in the Wild,"Yang Zhang
+Hassan Foroosh
+Philip David
+Boqing Gong",Adversarial Attack;  Object Detection;  Synthetic Simulation
+https://openreview.net/pdf?id=SJl2niR9KQ,poster,Beyond Pixel Norm-Balls: Parametric Adversaries using an Analytically Differentiable Renderer,"Hsueh-Ti Derek Liu
+Michael Tao
+Chun-Liang Li
+Derek Nowrouzezahrai
+Alec Jacobson",adversarial examples;  norm-balls;  differentiable renderer
+https://openreview.net/pdf?id=Sk4jFoA9K7,poster,PeerNets: Exploiting Peer Wisdom Against Adversarial Attacks,"Jan Svoboda
+Jonathan Masci
+Federico Monti
+Michael Bronstein
+Leonidas Guibas",peernet;  peernets;  graph;  geometric deep learning;  adversarial;  perturbation;  defense;  peer regularization
+https://openreview.net/pdf?id=SyfIfnC5Ym,poster,Improving the Generalization of Adversarial Training with Domain Adaptation,"Chuanbiao Song
+Kun He
+Liwei Wang
+John E. Hopcroft",adversarial training;  domain adaptation;  adversarial example;  deep learning
+https://openreview.net/pdf?id=SyxAb30cY7,poster,Robustness May Be at Odds with Accuracy,"Dimitris Tsipras
+Shibani Santurkar
+Logan Engstrom
+Alexander Turner
+Aleksander Madry",adversarial examples;  robust machine learning;  robust optimization;  deep feature representations
+https://openreview.net/pdf?id=Syx_Ss05tm,poster,Adversarial Reprogramming of Neural Networks,"Gamaleldin F. Elsayed
+Ian Goodfellow
+Jascha Sohl-Dickstein",Adversarial;  Neural Networks;  Machine Learning Security
+https://openreview.net/pdf?id=r1g4E3C9t7,poster,Characterizing Audio Adversarial Examples Using Temporal Dependency,"Zhuolin Yang
+Bo Li
+Pin-Yu Chen
+Dawn Song",audio adversarial example;  mitigation;  detection;  machine learning
+https://openreview.net/pdf?id=r1lWUoA9FQ,poster,Are adversarial examples inevitable?,"Ali Shafahi
+W. Ronny Huang
+Christoph Studer
+Soheil Feizi
+Tom Goldstein",adversarial examples;  neural networks;  security
+https://openreview.net/pdf?id=rk4Qso0cKm,poster,Adv-BNN: Improved Adversarial Defense through Robust Bayesian Neural Network,"Xuanqing Liu
+Yao Li
+Chongruo Wu
+Cho-Jui Hsieh",
+https://openreview.net/pdf?id=ryetZ20ctX,poster,Defensive Quantization: When Efficiency Meets Robustness,"Ji Lin
+Chuang Gan
+Song Han",defensive quantization;  model quantization;  adversarial attack;  efficiency;  robustness
